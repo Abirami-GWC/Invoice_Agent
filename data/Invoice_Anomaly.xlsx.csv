@@ -1,0 +1,1001 @@
+Invoice No.,Vendor Name,Address,Phone No,Mail,Date,Item/Material Name,Quantity,Unit,Unit Price,Tax Amount,Total Price,Payment Terms,Status,Due Date
+INV000000,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,05-06-2024,Bacon,17,kg,7.52,15.23,143.07,Net 60,Approved,04-08-2024
+INV000001,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,30-08-2024,Rice,67,kg,14.68,83.93,1067.49,Net 15,Approved,14-09-2024
+INV000002,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,05-11-2024,Banana,147,kg,15.45,262.52,2533.67,Net 60,Approved,04-01-2025
+INV000003,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,19-05-2025,Paneer,98,kg,17.33,74.27,1772.61,Net 45,Rejected,03-07-2025
+INV000004,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,17-10-2024,Olive Oil,82,liters,15.25,122.1,1372.6,Net 15,Approved,01-11-2024
+INV000005,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,06-12-2024,Cream,80,liters,24.11,123.15,2051.95,Net 45,Approved,20-01-2025
+INV000006,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,06-02-2025,Yogurt,68,kg,17.8,111.71,1322.11,Net 30,Approved,08-03-2025
+INV000007,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,16-12-2024,Banana,15,kg,22.03,8.33,338.78,Net 15,Approved,31-12-2024
+INV000008,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,03-04-2024,Coriander,9,grams,18.97,6.14,176.87,Net 45,Approved,18-05-2024
+INV000009,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,11-07-2024,Turmeric,66,grams,24.33,104.86,1710.64,Net 60,Approved,09-09-2024
+INV000005,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,06-12-2024,Cream,80,liters,24.11,123.15,2051.95,Net 45,Approved,20-01-2025
+INV000011,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,19-02-2024,Bell Pepper,108,kg,9.21,87.32,1082,Net 30,Rejected,20-03-2024
+INV000012,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,19-09-2024,Lettuce,101,kg,16.51,172.43,1839.94,Net 45,Approved,03-11-2024
+INV000013,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,17-01-2024,Black Pepper,149,grams,4.75,17.54,725.29,Net 15,Approved,01-02-2024
+INV000014,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,01-04-2025,Cream,57,liters,13.37,25.72,787.81,Net 60,Approved,31-05-2025
+INV000015,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,06-03-2025,Cumin,138,grams,3.88,13.57,549.01,Net 45,Pending,20-04-2025
+INV000016,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,27-06-2024,Turmeric,46,grams,23.88,84.16,1182.64,Net 60,Approved,26-08-2024
+INV000017,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,02-04-2025,Carrots,42,kg,24.16,74.34,1089.06,Net 15,Approved,17-04-2025
+INV000018,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,20-06-2024,Flour,37,kg,23.36,102.75,967.07,Net 30,Approved,20-07-2024
+INV000019,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,06-01-2024,Lettuce,14,kg,19.65,24.5,299.6,Net 15,Rejected,21-01-2024
+INV000020,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,25-02-2024,Yogurt,122,kg,15.44,80.51,1964.19,Net 30,Approved,26-03-2024
+INV000021,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,05-05-2025,Cream,113,liters,4.24,39.2,518.32,Net 60,Pending,04-07-2025
+INV000022,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,15-02-2024,Prawns,9,kg,15.59,15.54,155.85,Net 15,Approved,01-03-2024
+INV000023,Unknown Vendor Co.,"1834 Lewis Curve, Sanchezfort, AS 53855",311.265.6670,praviiabi@gmail.com,26-06-2024,Carrots,1,kg,7.94,1210.34,1218.28,Net 15,Rejected,11-07-2024
+INV000024,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,08-11-2024,Cumin,20,grams,24.65,37.05,530.05,Net 60,Approved,07-01-2025
+INV000025,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,20-09-2024,Bacon,84,kg,21.5,170.65,1976.65,Net 15,Approved,05-10-2024
+INV000026,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,25-03-2024,Fish Fillet,88,kg,4.25,14.1,388.1,Net 15,Approved,09-04-2024
+INV000027,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,12-07-2024,Banana,102,kg,17.75,171.29,1981.79,Net 30,Rejected,11-08-2024
+INV000028,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,28-05-2024,Green Peas,78,kg,22.07,167.92,1889.38,Net 60,Approved,27-07-2024
+INV000029,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,27-05-2024,Black Pepper,14,grams,22.32,7.14,319.62,Net 60,Rejected,26-07-2024
+INV000000,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,05-06-2024,Bacon,17,kg,7.52,15.23,143.07,Net 60,Rejected,04-08-2024
+INV000031,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,14-12-2024,Coriander,76,grams,12.96,51.76,1036.72,Net 15,Approved,29-12-2024
+INV000032,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,18-04-2024,Milk,24,liters,5.29,14.32,141.28,Net 60,Approved,17-06-2024
+INV000033,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,23-11-2024,Wheat,48,kg,1.52,3.22,76.18,Net 45,Approved,07-01-2025
+INV000034,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,22-05-2024,Cumin,99,grams,10.97,35.39,1121.42,Net 30,Approved,21-06-2024
+INV000035,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,04-08-2024,Cream,121,liters,22.95,172.11,2949.06,Net 30,Approved,03-09-2024
+INV000036,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,25-12-2024,Chocolate Sauce,117,liters,9.86,82.68,1236.3,Net 30,Rejected,24-01-2025
+INV000037,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,13-07-2024,Lettuce,96,kg,11.4,125.91,1220.31,Net 60,Rejected,11-09-2024
+INV000038,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,28-02-2024,Cooking Oil,16,liters,8.22,5.95,137.47,Net 30,Approved,29-03-2024
+INV000039,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,10-12-2024,Tomatoes,123,kg,21.64,76.19,2737.91,Net 15,Approved,25-12-2024
+INV000040,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,03-03-2025,Rice,110,kg,13.77,162.26,1676.96,Net 45,Rejected,17-04-2025
+INV000041,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,17-03-2024,Mushrooms,67,kg,17.43,43.57,1211.38,Net 60,Approved,16-05-2024
+INV000042,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,09-02-2024,Wheat,17,kg,3.07,4.04,56.23,Net 15,Approved,24-02-2024
+INV000043,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,21-05-2025,Coriander,66,grams,8.75,61.87,639.37,Net 45,Approved,05-07-2025
+INV000044,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,23-02-2025,Potatoes,67,kg,16.65,61.4,1176.95,Net 45,Rejected,09-04-2025
+INV000045,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,12-01-2024,Sugar,71,kg,3.04,7.55,223.39,Net 30,Rejected,11-02-2024
+INV000046,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,13-03-2024,Chocolate Sauce,97,liters,18.63,107.96,1915.07,Net 60,Approved,12-05-2024
+INV000047,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,02-07-2024,Pasta,27,kg,6.4,10.67,183.47,Net 30,Approved,01-08-2024
+INV000048,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,09-05-2024,Ginger,92,kg,17.42,183.84,1786.48,Net 15,Approved,24-05-2024
+INV000049,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,11-11-2024,Paneer,16,kg,6.4,4.33,106.73,Net 45,Approved,26-12-2024
+INV000050,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,12-01-2025,Vanilla Essence,40,ml,16.4,70.39,726.39,Net 15,Approved,27-01-2025
+INV000051,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,08-01-2025,Carrots,71,kg,12.87,92.67,1006.44,Net 15,Approved,23-01-2025
+INV000052,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,15-06-2024,Fish Fillet,149,kg,5.11,18.08,779.47,Net 60,Approved,14-08-2024
+INV000053,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,07-11-2024,Turmeric,67,grams,10.57,20.93,729.12,Net 45,Approved,22-12-2024
+INV000054,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,15-02-2024,Green Peas,74,kg,23.16,90.41,1804.25,Net 45,Rejected,31-03-2024
+INV000055,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,07-05-2024,Tomatoes,24,kg,12.95,15.96,326.76,Net 15,Approved,22-05-2024
+INV000056,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,21-10-2024,Milk,40,liters,23.6,66.71,1010.71,Net 15,Approved,05-11-2024
+INV000057,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,02-01-2024,Fish Fillet,124,kg,23.14,179.3,3048.66,Net 30,Approved,01-02-2024
+INV000058,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,30-10-2024,Turmeric,114,grams,16.53,91.29,1975.71,Net 30,Approved,29-11-2024
+INV000059,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,24-07-2024,Wheat,39,kg,3.18,11.36,135.38,Net 15,Approved,08-08-2024
+INV000060,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,19-12-2024,Cream,26,liters,24.65,13.01,653.91,Net 60,Approved,17-02-2025
+INV000061,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,09-08-2024,Onions,74,kg,6.27,13.28,477.26,Net 45,Approved,23-09-2024
+INV000062,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,24-11-2024,Rice,69,kg,15.98,106.94,1209.56,Net 60,Approved,23-01-2025
+INV000063,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,07-03-2025,Chocolate Sauce,72,liters,6.39,40.64,500.72,Net 15,Rejected,22-03-2025
+INV000064,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,29-05-2025,Mint Leaves,138,grams,3.64,29.63,531.95,Net 30,Pending,28-06-2025
+INV000065,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,13-01-2025,Potatoes,58,kg,10.53,14.46,625.2,Net 60,Approved,14-03-2025
+INV000066,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,30-04-2024,Cheese,95,kg,7.72,58.85,792.25,Net 30,Approved,30-05-2024
+INV000067,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,27-05-2024,Bell Pepper,115,kg,3.81,35.2,473.35,Net 60,Rejected,26-07-2024
+INV000068,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,18-08-2024,Milk,17,liters,19.58,22.36,355.22,Net 30,Rejected,17-09-2024
+INV000069,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,18-06-2024,Chicken Breast,87,kg,8.2,20.73,734.13,Net 15,Approved,03-07-2024
+INV000003,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,19-05-2025,Paneer,98,kg,17.33,74.27,1772.61,Net 45,Approved,03-07-2025
+INV000071,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,25-03-2025,Lettuce,93,kg,22.96,78.63,2213.91,Net 15,Approved,09-04-2025
+INV000072,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,25-02-2025,Chili Powder,101,grams,12.07,45.42,1264.49,Net 15,Approved,12-03-2025
+INV000073,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,17-02-2024,Mushrooms,149,kg,6.18,57.32,978.14,Net 30,Approved,18-03-2024
+INV000074,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,31-08-2024,Chocolate Sauce,146,liters,19.07,174.9,2959.12,Net 15,Approved,15-09-2024
+INV000075,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,14-02-2024,Potatoes,134,kg,4.07,59.68,605.06,Net 45,Approved,30-03-2024
+INV000076,Unknown Vendor Co.,"81219 Emma Freeway, Wilsonshire, IA 76381",'+1-509-616-9985x435,praviiabi@gmail.com,08-02-2024,Bell Pepper,57,kg,5.9,35.81,372.11,Net 15,Approved,23-02-2024
+INV000077,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,03-11-2024,Bell Pepper,21,kg,17.48,20.25,387.33,Net 30,Approved,03-12-2024
+INV000078,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,11-04-2024,Spinach,126,kg,14.32,160.62,1964.94,Net 60,Approved,10-06-2024
+INV000079,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,16-05-2025,Fish Fillet,6,kg,17.15,3.06,105.96,Net 15,Approved,31-05-2025
+INV000080,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,21-08-2024,Mutton,57,kg,21.33,56.82,1272.63,Net 30,Approved,20-09-2024
+INV000081,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,21-12-2024,Banana,64,kg,11.36,58.22,785.26,Net 30,Approved,20-01-2025
+INV000082,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,02-09-2024,Fish Fillet,75,kg,22.99,135.85,1860.1,Net 60,Rejected,01-11-2024
+INV000083,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,26-02-2024,Vanilla Essence,14,ml,6.08,5.95,91.07,Net 60,Approved,26-04-2024
+INV000084,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,08-01-2024,Soda Water,31,liters,23.21,49.84,769.35,Net 45,Approved,22-02-2024
+INV000085,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,21-12-2024,Butter,10,kg,11.97,7.54,127.24,Net 30,Approved,20-01-2025
+INV000086,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,27-04-2025,Soda Water,20,liters,18.73,43.39,417.99,Net 15,Approved,12-05-2025
+INV000087,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,13-03-2025,Cheese,63,kg,22.57,46.23,1468.14,Net 15,Rejected,28-03-2025
+INV000088,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,18-03-2024,Chili Powder,37,grams,3.14,11.89,128.07,Net 30,Approved,17-04-2024
+INV000089,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,26-02-2024,Milk,14,liters,8.56,9.72,129.56,Net 30,Approved,27-03-2024
+INV000090,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,21-02-2025,Onions,79,kg,6.31,32.09,530.58,Net 30,Rejected,23-03-2025
+INV000091,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,14-06-2024,Chocolate Sauce,20,liters,15.46,21.24,330.44,Net 45,Approved,29-07-2024
+INV000092,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,27-01-2025,Spinach,49,kg,5.27,25.76,283.99,Net 60,Rejected,28-03-2025
+INV000093,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,24-07-2024,Vanilla Essence,147,ml,23.31,386.5,3813.07,Net 60,Approved,22-09-2024
+INV000094,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,12-04-2024,Black Pepper,140,grams,8.49,34.63,1223.23,Net 45,Approved,27-05-2024
+INV000095,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,28-09-2024,Chocolate Sauce,117,liters,18.43,124.29,2280.6,Net 45,Approved,12-11-2024
+INV000009,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,11-07-2024,Turmeric,66,grams,24.33,104.86,1710.64,Net 60,Approved,09-09-2024
+INV000097,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,08-07-2024,Soda Water,117,liters,3.24,22.5,401.58,Net 60,Approved,06-09-2024
+INV000098,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,14-10-2024,Lemon,104,pieces,6.36,17.33,678.77,Net 30,Rejected,13-11-2024
+INV000099,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,09-08-2024,Fish Fillet,116,kg,15.87,200.32,2041.24,Net 45,Approved,23-09-2024
+INV000100,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,02-05-2024,Wheat,147,kg,24.2,279.61,3837.01,Net 45,Approved,16-06-2024
+INV000101,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,06-12-2024,Ice Cream Base,2,liters,22.45,1.11,46.01,Net 60,Approved,04-02-2025
+INV000102,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,25-02-2025,Mint Leaves,118,grams,14.74,74.05,1813.37,Net 15,Rejected,12-03-2025
+INV000103,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,22-08-2024,Onions,107,kg,14.05,61.25,1564.6,Net 15,Rejected,06-09-2024
+INV000104,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,20-04-2025,Wheat,109,kg,9.56,34.39,1076.43,Net 30,Pending,20-05-2025
+INV000105,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,22-05-2025,Bacon,149,kg,14.95,233.4,2460.95,Net 30,Pending,21-06-2025
+INV000106,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,14-02-2025,Ginger,98,kg,3.16,25.12,334.8,Net 30,Rejected,16-03-2025
+INV000107,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,07-01-2024,Carrots,18,kg,22.95,36.76,449.86,Net 60,Approved,07-03-2024
+INV000108,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,06-03-2025,Flour,57,kg,24.25,155.67,1537.92,Net 30,Pending,05-04-2025
+INV000109,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,20-08-2024,Cream,37,liters,13.28,53.11,544.47,Net 60,Rejected,19-10-2024
+INV000110,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,30-05-2025,Butter,6,kg,21.71,11.69,141.95,Net 60,Approved,29-07-2025
+INV000111,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,21-03-2024,Bell Pepper,36,kg,20.33,26.23,758.11,Net 60,Approved,20-05-2024
+INV000112,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,14-04-2024,Chicken Breast,92,kg,10.34,39.3,990.58,Net 30,Approved,14-05-2024
+INV000113,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,24-07-2024,Turmeric,39,grams,14.23,18.14,573.11,Net 30,Approved,23-08-2024
+INV000114,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,30-03-2024,Paneer,63,kg,15.27,96.64,1058.65,Net 15,Rejected,14-04-2024
+INV000115,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,24-03-2024,Bread,126,pieces,23.41,100.53,3050.19,Net 30,Approved,23-04-2024
+INV000116,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,05-03-2025,Cheese,106,kg,17.93,205.28,2105.86,Net 15,Approved,20-03-2025
+INV000117,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,30-04-2024,Carrots,69,kg,11.24,90.42,865.98,Net 30,Approved,30-05-2024
+INV000118,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,30-07-2024,Wheat,98,kg,4.97,21.71,508.77,Net 30,Rejected,29-08-2024
+INV000119,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,06-08-2024,Wheat,144,kg,12.24,121.17,1883.73,Net 30,Approved,05-09-2024
+INV000120,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,14-04-2025,Potatoes,51,kg,13.78,14.86,717.64,Net 15,Approved,29-04-2025
+INV000121,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,12-06-2024,Banana,31,kg,20.23,64.74,691.87,Net 30,Approved,12-07-2024
+INV000122,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,23-09-2024,Butter,72,kg,3.79,27.23,300.11,Net 15,Approved,08-10-2024
+INV000123,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,07-06-2024,Soft Drink Syrup,144,liters,8.24,27.43,1213.99,Net 15,Approved,22-06-2024
+INV000124,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,07-05-2025,Soda Water,38,liters,5.04,11.75,203.27,Net 15,Approved,22-05-2025
+INV000125,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,24-07-2024,Carrots,117,kg,13.98,170.18,1805.84,Net 30,Approved,23-08-2024
+INV000126,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,27-01-2025,Fish Fillet,34,kg,3.23,2.45,112.27,Net 60,Approved,28-03-2025
+INV000127,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,14-01-2025,Mutton,100,kg,20.35,127.47,2162.47,Net 15,Rejected,29-01-2025
+INV000128,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,14-07-2024,Eggs,146,pieces,14.09,218.43,2275.57,Net 60,Approved,12-09-2024
+INV000129,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,09-02-2024,Rice,22,kg,24.07,20.62,550.16,Net 45,Rejected,25-03-2024
+INV000130,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,12-03-2024,Banana,22,kg,21.01,51.84,514.06,Net 60,Rejected,11-05-2024
+INV000131,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,07-05-2025,Ginger,44,kg,24.45,96.25,1172.05,Net 30,Pending,06-06-2025
+INV000132,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,25-11-2024,Yogurt,109,kg,19.89,255.72,2423.73,Net 45,Approved,09-01-2025
+INV000133,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,02-08-2024,Bread,126,pieces,17.15,242.09,2402.99,Net 45,Rejected,16-09-2024
+INV000134,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,04-02-2024,Butter,110,kg,5.11,34.67,596.77,Net 30,Approved,05-03-2024
+INV000135,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,03-01-2024,Butter,55,kg,1.53,3.9,88.05,Net 45,Approved,17-02-2024
+INV000039,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,10-12-2024,Tomatoes,123,kg,21.64,76.19,2737.91,Net 15,Approved,25-12-2024
+INV000137,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,06-05-2024,Ice Cream Base,13,liters,3.85,1.37,51.42,Net 60,Approved,05-07-2024
+INV000138,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,17-05-2024,Spinach,100,kg,9.43,108.22,1051.22,Net 15,Approved,01-06-2024
+INV000139,Unknown Vendor Co.,"3421 Brennan Walks Suite 337, Kevinbury, IN 03602",'+1-636-454-1458x68501,praviiabi@gmail.com,16-11-2024,Butter,2,kg,5.11,0.91,11.13,Net 15,Approved,01-12-2024
+INV000140,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,26-03-2025,Sugar,96,kg,19.06,96.47,1926.23,Net 60,Approved,25-05-2025
+INV000141,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,25-07-2024,Green Peas,84,kg,23.54,87.2,2064.56,Net 60,Approved,23-09-2024
+INV000142,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,30-01-2024,Turmeric,117,grams,23.48,238.25,2985.41,Net 15,Approved,14-02-2024
+INV000143,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,25-03-2024,Green Peas,23,kg,17.59,39.89,444.46,Net 15,Approved,09-04-2024
+INV000144,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,08-04-2025,Bread,112,pieces,3.05,32.69,374.29,Net 60,Approved,07-06-2025
+INV000145,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,03-12-2024,Green Peas,123,kg,16.77,169.15,2231.86,Net 30,Approved,02-01-2025
+INV000146,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,25-09-2024,Eggs,24,pieces,10.96,23.03,286.07,Net 45,Approved,09-11-2024
+INV000147,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,31-08-2024,Prawns,92,kg,18.74,38.64,1762.72,Net 15,Approved,15-09-2024
+INV000148,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,04-12-2024,Eggs,72,pieces,15.48,80.95,1195.51,Net 30,Approved,03-01-2025
+INV000149,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,15-04-2025,Vanilla Essence,116,ml,5.08,31.49,620.77,Net 60,Pending,14-06-2025
+INV000150,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,01-02-2025,Mint Leaves,45,grams,3.45,17.39,172.64,Net 30,Approved,03-03-2025
+INV000151,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,30-03-2024,Prawns,36,kg,2.8,3.47,104.27,Net 15,Approved,14-04-2024
+INV000152,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,26-10-2024,Cumin,20,grams,17.57,27.08,378.48,Net 30,Approved,25-11-2024
+INV000153,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,23-03-2025,Carrots,57,kg,9.85,40.31,601.76,Net 30,Pending,22-04-2025
+INV000154,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,27-05-2024,Mint Leaves,133,grams,18.83,105.1,2609.49,Net 45,Approved,11-07-2024
+INV000155,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,16-07-2024,Soft Drink Syrup,29,liters,24.83,31.42,751.49,Net 60,Rejected,14-09-2024
+INV000156,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,04-02-2024,Yogurt,90,kg,20.36,74.79,1907.19,Net 30,Rejected,05-03-2024
+INV000157,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,04-12-2024,Cooking Oil,108,liters,19.74,62.45,2194.37,Net 30,Approved,03-01-2025
+INV000158,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,02-01-2024,Ice Cream Base,37,liters,11.41,38.68,460.85,Net 15,Approved,17-01-2024
+INV000159,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,07-02-2025,Cooking Oil,43,liters,18.17,68.33,849.64,Net 15,Approved,22-02-2025
+INV000160,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,22-02-2025,Cooking Oil,103,liters,15.04,167.46,1716.58,Net 60,Approved,23-04-2025
+INV000161,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,02-06-2024,Butter,10,kg,10.83,8.58,116.88,Net 60,Approved,01-08-2024
+INV000162,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,09-10-2024,Bacon,89,kg,2.98,23.78,289,Net 15,Approved,24-10-2024
+INV000163,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,30-11-2024,Fish Fillet,19,kg,21.6,47.47,457.87,Net 30,Approved,30-12-2024
+INV000164,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,24-02-2024,Lettuce,46,kg,15.96,42.43,776.59,Net 60,Approved,24-04-2024
+INV000165,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,30-05-2025,Ice Cream Base,23,liters,22.51,55.15,572.88,Net 30,Approved,29-06-2025
+INV000166,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,13-09-2024,Olive Oil,108,liters,19.37,212.43,2304.39,Net 30,Approved,13-10-2024
+INV000167,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,29-04-2025,Ice Cream Base,146,liters,24.85,209.23,3837.33,Net 30,Pending,29-05-2025
+INV000168,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,31-08-2024,Vanilla Essence,19,ml,4.15,2.1,80.95,Net 60,Rejected,30-10-2024
+INV000169,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,30-05-2025,Lemon,60,pieces,24.77,87.56,1573.76,Net 45,Rejected,14-07-2025
+INV000170,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,06-04-2024,Cumin,91,grams,21.41,69.6,2017.91,Net 60,Approved,05-06-2024
+INV000171,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,21-08-2024,Soft Drink Syrup,7,liters,8.3,5.53,63.63,Net 30,Approved,20-09-2024
+INV000172,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,28-01-2025,Cumin,73,grams,11.44,80.63,915.75,Net 45,Approved,14-03-2025
+INV000173,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,28-08-2024,Mushrooms,16,kg,21.06,30.98,367.94,Net 15,Approved,12-09-2024
+INV000174,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,13-11-2024,Mint Leaves,93,grams,14.05,82.94,1389.59,Net 30,Approved,13-12-2024
+INV000175,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,10-09-2024,Salt,125,kg,13.78,88.14,1810.64,Net 30,Approved,10-10-2024
+INV000176,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,08-11-2024,Green Peas,76,kg,4.61,13.04,363.4,Net 45,Approved,23-12-2024
+INV000177,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,17-08-2024,Chicken Breast,148,kg,3.42,19.66,525.82,Net 45,Approved,01-10-2024
+INV000178,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,06-03-2025,Mushrooms,13,kg,9.09,12.27,130.44,Net 15,Rejected,21-03-2025
+INV000179,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,08-04-2024,Cooking Oil,116,liters,13.14,165.18,1689.42,Net 60,Rejected,07-06-2024
+INV000180,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,29-05-2024,Pasta,120,kg,13.74,79.73,1728.53,Net 60,Approved,28-07-2024
+INV000181,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,22-11-2024,Mutton,76,kg,24.76,79.23,1960.99,Net 30,Approved,22-12-2024
+INV000182,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,21-10-2024,Chicken Breast,46,kg,7.88,16.62,379.1,Net 45,Approved,05-12-2024
+INV000183,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,15-05-2024,Bread,64,pieces,11.66,47.16,793.4,Net 30,Approved,14-06-2024
+INV000184,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,23-04-2025,Turmeric,27,grams,18.65,18.53,522.08,Net 60,Rejected,22-06-2025
+INV000185,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,18-03-2025,Potatoes,7,kg,7.73,3.42,57.53,Net 60,Approved,17-05-2025
+INV000186,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,21-08-2024,Ice Cream Base,54,liters,2.27,5.32,127.9,Net 45,Approved,05-10-2024
+INV000187,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,11-11-2024,Garlic,52,kg,6.22,8.56,332,Net 30,Rejected,11-12-2024
+INV000188,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,01-03-2025,Cheese,69,kg,20.82,130.88,1567.46,Net 60,Pending,30-04-2025
+INV000189,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,01-01-2024,Soft Drink Syrup,95,liters,13.52,79.89,1364.29,Net 15,Approved,16-01-2024
+INV000190,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,24-08-2024,Tomatoes,13,kg,10.61,7.35,145.28,Net 15,Approved,08-09-2024
+INV000191,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,10-08-2024,Flour,43,kg,1.74,6.02,80.84,Net 60,Approved,09-10-2024
+INV000192,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,12-06-2024,Black Pepper,69,grams,13.62,39.69,979.47,Net 45,Approved,27-07-2024
+INV000193,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,29-11-2024,Cumin,111,grams,20.12,212.79,2446.11,Net 15,Rejected,14-12-2024
+INV000194,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,26-03-2025,Salt,147,kg,17.57,287.5,2870.29,Net 45,Approved,10-05-2025
+INV000195,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,16-04-2025,Butter,60,kg,22.11,34.94,1361.54,Net 45,Approved,31-05-2025
+INV000196,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,23-05-2025,Soft Drink Syrup,54,liters,6.99,31.9,409.36,Net 30,Approved,22-06-2025
+INV000197,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,07-09-2024,Ice Cream Base,98,liters,17.81,182.99,1928.37,Net 30,Approved,07-10-2024
+INV000198,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,27-12-2024,Sugar,67,kg,10.34,1274.37,1967.15,Net 30,Rejected,26-01-2025
+INV000199,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,09-12-2024,Black Pepper,8,grams,16.15,4.65,133.85,Net 15,Approved,24-12-2024
+INV000200,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,09-12-2024,Garlic,10,kg,18.8,17.58,205.58,Net 45,Approved,23-01-2025
+INV000201,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,14-06-2024,Mint Leaves,75,grams,20.49,110.75,1647.5,Net 15,Approved,29-06-2024
+INV000202,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,01-02-2025,Ice Cream Base,89,liters,19.07,108.01,1805.24,Net 30,Approved,03-03-2025
+INV000203,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,02-01-2025,Banana,24,kg,20.11,29.09,511.73,Net 30,Approved,01-02-2025
+INV000204,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,11-05-2024,Cream,99,liters,15.03,143.41,1631.38,Net 60,Approved,10-07-2024
+INV000205,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,26-05-2025,Lemon,87,pieces,16.72,119.89,1574.53,Net 30,Pending,25-06-2025
+INV000206,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,06-03-2024,Flour,22,kg,18.71,14.71,426.33,Net 30,Rejected,05-04-2024
+INV000207,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,08-08-2024,Cream,71,liters,21.05,56.21,1550.76,Net 45,Approved,22-09-2024
+INV000208,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,04-02-2025,Chocolate Sauce,47,liters,21.19,51.63,1047.56,Net 45,Approved,21-03-2025
+INV000209,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,30-05-2025,Flour,18,kg,19.63,12.09,365.43,Net 45,Approved,14-07-2025
+INV000210,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,06-05-2025,Cooking Oil,87,liters,16.04,48.51,1443.99,Net 15,Rejected,21-05-2025
+INV000211,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,25-04-2025,Green Peas,73,kg,2.36,18.69,190.97,Net 15,Rejected,10-05-2025
+INV000212,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,17-09-2024,Tomatoes,117,kg,19.55,254.05,2541.4,Net 30,Approved,17-10-2024
+INV000213,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,13-03-2024,Garlic,59,kg,16.22,76.1,1033.08,Net 45,Approved,27-04-2024
+INV000214,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,01-07-2024,Wheat,72,kg,20.48,135.71,1610.27,Net 30,Approved,31-07-2024
+INV000215,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,29-08-2024,Potatoes,134,kg,4.65,65.05,688.15,Net 60,Approved,28-10-2024
+INV000216,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,23-06-2024,Black Pepper,52,grams,19.63,51.25,1072.01,Net 45,Approved,07-08-2024
+INV000217,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,03-06-2024,Spinach,111,kg,5.25,40.85,623.6,Net 30,Approved,03-07-2024
+INV000218,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,24-04-2024,Ginger,6,kg,17.38,7.75,112.03,Net 60,Approved,23-06-2024
+INV000219,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,19-01-2024,Salt,40,kg,21.07,75.81,918.61,Net 60,Rejected,19-03-2024
+INV000220,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,05-02-2024,Cumin,22,grams,2.58,5.21,61.97,Net 45,Approved,21-03-2024
+INV000221,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,09-07-2024,Chili Powder,71,grams,24.67,166.31,1917.88,Net 15,Approved,24-07-2024
+INV000222,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,04-01-2025,Coriander,149,grams,1.76,18.13,280.37,Net 30,Approved,03-02-2025
+INV000223,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,19-04-2025,Banana,26,kg,10.32,25.42,293.74,Net 15,Approved,04-05-2025
+INV000224,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,26-02-2024,Lemon,80,pieces,1.04,7.01,90.21,Net 60,Rejected,26-04-2024
+INV000225,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,19-12-2024,Wheat,68,kg,10.9,17.58,758.78,Net 45,Approved,02-02-2025
+INV000226,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,17-11-2024,Ice Cream Base,8,liters,1.67,0.44,13.8,Net 45,Approved,01-01-2025
+INV000227,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,04-05-2025,Cooking Oil,85,liters,17.16,144.83,1603.43,Net 15,Approved,19-05-2025
+INV000228,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,23-03-2025,Ginger,118,kg,17.64,94.23,2175.75,Net 15,Approved,07-04-2025
+INV000229,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,31-05-2024,Garlic,91,kg,5.56,57.89,563.85,Net 45,Approved,15-07-2024
+INV000230,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,25-10-2024,Chicken Breast,5,kg,10.34,2.15,53.85,Net 15,Approved,09-11-2024
+INV000231,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,18-01-2025,Soda Water,20,liters,14.39,9.65,297.45,Net 45,Approved,04-03-2025
+INV000232,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,06-11-2024,Mint Leaves,76,grams,12.08,51.97,970.05,Net 30,Approved,06-12-2024
+INV000233,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,08-07-2024,Chili Powder,111,grams,11.26,111.39,1361.25,Net 45,Approved,22-08-2024
+INV000234,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,24-04-2024,Soda Water,49,liters,13.62,41.65,709.03,Net 45,Approved,08-06-2024
+INV000169,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,30-05-2025,Lemon,60,pieces,24.77,87.56,1573.76,Net 45,Rejected,14-07-2025
+INV000236,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,05-01-2024,Paneer,61,kg,11.5,43.05,744.55,Net 30,Approved,04-02-2024
+INV000237,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,23-03-2024,Tomatoes,140,kg,24.48,120.74,3547.94,Net 60,Rejected,22-05-2024
+INV000238,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,26-11-2024,Black Pepper,88,grams,24.73,105.9,2282.14,Net 30,Approved,26-12-2024
+INV000239,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,18-06-2024,Milk,12,liters,14.59,11.57,186.65,Net 60,Approved,17-08-2024
+INV000240,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,16-05-2024,Spinach,113,kg,1.8,8.07,211.47,Net 30,Approved,15-06-2024
+INV000241,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,06-02-2025,Mint Leaves,125,grams,2,26.38,276.38,Net 15,Approved,21-02-2025
+INV000242,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,26-12-2024,Cumin,98,grams,6.93,20.5,699.64,Net 60,Approved,24-02-2025
+INV000243,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,09-02-2024,Bacon,99,kg,2.83,9.31,289.48,Net 30,Approved,10-03-2024
+INV000244,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,08-03-2025,Ginger,127,kg,4.16,62.55,590.87,Net 30,Approved,07-04-2025
+INV000245,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,12-07-2024,Mutton,112,kg,11.19,144.05,1397.33,Net 30,Approved,11-08-2024
+INV000246,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,04-04-2024,Cream,13,liters,8.36,6.42,115.1,Net 30,Rejected,04-05-2024
+INV000247,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,20-12-2024,Mutton,113,kg,6.39,56.18,778.25,Net 30,Approved,19-01-2025
+INV000248,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,13-04-2024,Fish Fillet,93,kg,23.08,214.76,2361.2,Net 45,Approved,28-05-2024
+INV000249,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,26-12-2024,Bacon,41,kg,14.2,29.86,612.06,Net 30,Rejected,25-01-2025
+INV000250,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,16-02-2025,Bacon,97,kg,13.43,85.3,1388.01,Net 15,Approved,03-03-2025
+INV000251,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,10-03-2025,Vanilla Essence,79,ml,17.93,163.48,1579.95,Net 60,Rejected,09-05-2025
+INV000252,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,07-04-2025,Yogurt,136,kg,18.94,279.16,2855,Net 30,Rejected,07-05-2025
+INV000253,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,03-09-2024,Banana,48,kg,22.73,40.66,1131.7,Net 45,Approved,18-10-2024
+INV000254,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,09-12-2024,Banana,112,kg,4.58,45.59,558.55,Net 15,Approved,24-12-2024
+INV000255,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,20-04-2025,Cream,42,liters,9.47,14.65,412.39,Net 30,Pending,20-05-2025
+INV000256,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,27-01-2025,Lettuce,15,kg,11.91,11.75,190.4,Net 45,Approved,13-03-2025
+INV000257,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,27-11-2024,Wheat,108,kg,3.62,34.26,425.22,Net 15,Rejected,12-12-2024
+INV000258,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,01-03-2025,Ginger,36,kg,3.59,10.35,139.59,Net 45,Approved,15-04-2025
+INV000259,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,12-12-2024,Bread,54,pieces,11.28,57.11,666.23,Net 45,Approved,26-01-2025
+INV000260,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,03-05-2024,Bacon,62,kg,4.83,26.66,326.12,Net 60,Approved,02-07-2024
+INV000261,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,03-01-2025,Spinach,1,kg,27.94,0.97,28.91,Net 30,Approved,02-02-2025
+INV000262,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,15-12-2024,Cream,106,liters,9.69,54.22,1081.36,Net 30,Approved,14-01-2025
+INV000263,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,20-07-2024,Bread,24,pieces,10.73,22.06,279.58,Net 60,Approved,18-09-2024
+INV000264,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,11-07-2024,Milk,116,liters,18.14,200.85,2305.09,Net 60,Approved,09-09-2024
+INV000265,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,10-05-2025,Sugar,58,kg,20.69,129.16,1329.18,Net 45,Approved,24-06-2025
+INV000266,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,03-08-2024,Mushrooms,14,kg,3.88,5.49,59.81,Net 45,Approved,17-09-2024
+INV000267,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,08-02-2025,Coriander,49,grams,5.88,13.91,302.03,Net 60,Approved,09-04-2025
+INV000268,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,11-01-2025,Cooking Oil,43,liters,15.82,43.44,723.7,Net 30,Approved,10-02-2025
+INV000269,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,01-05-2025,Green Peas,120,kg,3.68,49.17,490.77,Net 15,Pending,16-05-2025
+INV000270,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,04-07-2024,Yogurt,104,kg,6.98,74.25,800.17,Net 45,Approved,18-08-2024
+INV000271,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,01-08-2024,Carrots,20,kg,23.79,27.42,503.22,Net 60,Approved,30-09-2024
+INV000272,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,07-12-2024,Cream,33,liters,22.19,36.14,768.41,Net 60,Rejected,05-02-2025
+INV000273,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,01-03-2024,Chili Powder,52,grams,20.99,38.47,1129.95,Net 45,Approved,15-04-2024
+INV000274,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,09-08-2024,Bell Pepper,33,kg,6.78,20.58,244.32,Net 60,Approved,08-10-2024
+INV000275,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,01-07-2024,Prawns,10,kg,19.87,12.73,211.43,Net 15,Rejected,16-07-2024
+INV000276,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,30-07-2024,Butter,137,kg,5.77,25.54,816.03,Net 30,Rejected,29-08-2024
+INV000277,Unknown Vendor Co.,"23623 Robert Isle, Perryborough, MP 55570",(590)996-7054x6688,praviiabi@gmail.com,17-09-2024,Cheese,106,kg,19.18,125.86,2158.94,Net 45,Approved,01-11-2024
+INV000278,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,19-06-2024,Lettuce,106,kg,16.07,118.5,1821.92,Net 15,Approved,04-07-2024
+INV000279,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,30-07-2024,Potatoes,24,kg,21.15,47.03,554.63,Net 15,Approved,14-08-2024
+INV000280,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,04-12-2024,Fish Fillet,41,kg,24.54,1473.35,2479.49,Net 45,Approved,18-01-2025
+INV000281,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,12-01-2025,Potatoes,147,kg,15.82,135.75,2461.29,Net 60,Approved,13-03-2025
+INV000282,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,23-01-2024,Bread,144,pieces,21.9,87.69,3241.29,Net 45,Approved,08-03-2024
+INV000283,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,29-10-2024,Ginger,112,kg,20.61,110.72,2419.04,Net 60,Approved,28-12-2024
+INV000284,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,18-09-2024,Cumin,143,grams,18.99,216.95,2932.52,Net 45,Approved,02-11-2024
+INV000285,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,10-11-2024,Onions,147,kg,1.54,15.45,241.83,Net 45,Rejected,25-12-2024
+INV000286,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,08-05-2024,Bacon,14,kg,11.02,4.18,158.46,Net 60,Approved,07-07-2024
+INV000287,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,29-12-2024,Coriander,53,grams,9.58,50.92,558.66,Net 15,Approved,13-01-2025
+INV000288,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,09-04-2024,Butter,91,kg,15,127.53,1492.53,Net 30,Approved,09-05-2024
+INV000289,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,28-04-2025,Mint Leaves,41,grams,17.1,25.85,726.95,Net 30,Approved,28-05-2025
+INV000290,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,18-02-2025,Potatoes,9,kg,10.35,9.47,102.62,Net 45,Approved,04-04-2025
+INV000291,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,21-01-2024,Rice,16,kg,9.73,13.31,168.99,Net 60,Approved,21-03-2024
+INV000292,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,02-11-2024,Bell Pepper,74,kg,1.5,7.6,118.6,Net 60,Approved,01-01-2025
+INV000293,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,04-04-2025,Milk,95,liters,22.35,210.9,2334.15,Net 15,Pending,19-04-2025
+INV000294,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,14-03-2025,Chili Powder,54,grams,20.49,119.82,1226.28,Net 60,Approved,13-05-2025
+INV000295,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,29-05-2025,Lemon,142,pieces,6.49,98.31,1019.89,Net 15,Approved,13-06-2025
+INV000296,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,22-01-2024,Bacon,118,kg,13.13,1063.28,2612.62,Net 45,Approved,07-03-2024
+INV000297,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,06-03-2024,Potatoes,118,kg,22.78,296.3,2984.34,Net 15,Approved,21-03-2024
+INV000298,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,14-05-2025,Chicken Breast,106,kg,9.61,46.94,1065.6,Net 45,Approved,28-06-2025
+INV000294,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,14-03-2025,Chili Powder,54,grams,20.49,119.82,1226.28,Net 60,Rejected,13-05-2025
+INV000300,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,15-04-2024,Mint Leaves,113,grams,10.32,116,1282.16,Net 30,Approved,15-05-2024
+INV000301,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,24-12-2024,Bell Pepper,75,kg,13.09,22.57,1004.32,Net 45,Approved,07-02-2025
+INV000302,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,21-05-2024,Olive Oil,132,liters,17.35,189.85,2480.05,Net 30,Approved,20-06-2024
+INV000303,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,09-02-2024,Bread,106,pieces,19.29,93.86,2138.6,Net 30,Approved,10-03-2024
+INV000304,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,21-07-2024,Lettuce,101,kg,17.03,66.67,1786.7,Net 30,Approved,20-08-2024
+INV000305,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,21-10-2024,Cooking Oil,10,liters,10.51,2.19,107.29,Net 45,Approved,05-12-2024
+INV000306,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,11-09-2024,Vanilla Essence,104,ml,12.81,28.39,1360.63,Net 45,Approved,26-10-2024
+INV000307,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,13-06-2024,Butter,71,kg,19.01,72.01,1421.72,Net 15,Approved,28-06-2024
+INV000308,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,19-12-2024,Fish Fillet,34,kg,22.96,77.68,858.32,Net 45,Rejected,02-02-2025
+INV000309,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,10-09-2024,Fish Fillet,41,kg,19.31,84.73,876.44,Net 30,Approved,10-10-2024
+INV000310,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,19-09-2024,Rice,72,kg,9.08,54.47,708.23,Net 15,Approved,04-10-2024
+INV000311,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,21-10-2024,Rice,101,kg,13.96,31.67,1441.63,Net 45,Approved,05-12-2024
+INV000312,Unknown Vendor Co.,"1708 Zoe Keys Apt. 100, East Mary, RI 20474",427.319.3745,praviiabi@gmail.com,04-08-2024,Bread,42,pieces,10.16,44.66,471.38,Net 60,Approved,03-10-2024
+INV000313,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,07-05-2024,Soda Water,71,liters,15.02,35.56,1101.98,Net 15,Approved,22-05-2024
+INV000314,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,29-08-2024,Flour,27,kg,17.87,45.28,527.77,Net 30,Approved,28-09-2024
+INV000315,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,24-03-2024,Bread,94,pieces,2.82,19.38,284.46,Net 15,Approved,08-04-2024
+INV000316,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,25-03-2025,Bacon,87,kg,4.72,45.6,456.24,Net 60,Approved,24-05-2025
+INV000317,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,20-01-2024,Cooking Oil,134,liters,4.55,46.68,656.38,Net 15,Approved,04-02-2024
+INV000318,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,30-08-2024,Coriander,57,grams,7.69,52.15,490.48,Net 60,Approved,29-10-2024
+INV000319,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,23-03-2025,Fish Fillet,78,kg,3.91,7.47,312.45,Net 15,Approved,07-04-2025
+INV000320,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,18-10-2024,Prawns,140,kg,4.68,39.34,694.54,Net 30,Approved,17-11-2024
+INV000321,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,04-11-2024,Cumin,43,grams,16.5,56.85,766.35,Net 15,Approved,19-11-2024
+INV000322,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,03-06-2024,Chocolate Sauce,74,liters,18.87,35.23,1431.61,Net 15,Approved,18-06-2024
+INV000323,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,29-02-2024,Wheat,134,kg,4.46,30.66,628.3,Net 30,Approved,30-03-2024
+INV000324,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,04-04-2025,Eggs,17,pieces,14.39,18.04,262.67,Net 60,Approved,03-06-2025
+INV000325,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,02-05-2025,Lemon,38,pieces,7.08,29.3,298.34,Net 30,Pending,01-06-2025
+INV000326,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,07-07-2024,Lettuce,15,kg,24.32,9.52,374.32,Net 45,Rejected,21-08-2024
+INV000327,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,20-03-2024,Mint Leaves,83,grams,15.55,32.54,1323.19,Net 30,Approved,19-04-2024
+INV000328,Unknown Vendor Co.,"058 Stanley Cliff, Alexanderchester, GU 64752",965-972-6284,praviiabi@gmail.com,22-08-2024,Turmeric,63,grams,22.33,1094.9,2501.69,Net 30,Approved,21-09-2024
+INV000329,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,04-12-2024,Eggs,99,pieces,24.05,170.64,2551.59,Net 60,Approved,02-02-2025
+INV000330,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,05-04-2025,Coriander,6,grams,6.41,4.48,42.94,Net 45,Pending,20-05-2025
+INV000331,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,27-07-2024,Cream,7,liters,3.97,1.78,29.57,Net 60,Approved,25-09-2024
+INV000332,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,07-09-2024,Tomatoes,33,kg,6.37,21.86,232.07,Net 60,Approved,06-11-2024
+INV000333,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,09-07-2024,Spinach,144,kg,3.42,37.64,530.12,Net 30,Approved,08-08-2024
+INV000334,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,08-03-2024,Eggs,111,pieces,13.64,38.42,1552.46,Net 15,Approved,23-03-2024
+INV000335,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,04-08-2024,Banana,114,kg,13.3,105.44,1621.64,Net 45,Approved,18-09-2024
+INV000336,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,16-12-2024,Chicken Breast,83,kg,6.55,11.71,555.36,Net 30,Approved,15-01-2025
+INV000337,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,08-07-2024,Pasta,67,kg,21.24,67.58,1490.66,Net 45,Rejected,22-08-2024
+INV000338,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,26-12-2024,Mint Leaves,72,grams,14.52,86.23,1131.67,Net 60,Approved,24-02-2025
+INV000339,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,18-03-2025,Salt,86,kg,3.29,18.34,301.28,Net 15,Approved,02-04-2025
+INV000340,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,19-04-2025,Spinach,86,kg,23.46,76.55,2094.11,Net 45,Approved,03-06-2025
+INV000341,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,21-10-2024,Onions,79,kg,11.66,108.99,1030.13,Net 45,Rejected,05-12-2024
+INV000342,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,18-09-2024,Milk,75,liters,7.91,34.66,627.91,Net 15,Rejected,03-10-2024
+INV000343,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,23-01-2024,Rice,63,kg,24.35,36.66,1570.71,Net 15,Approved,07-02-2024
+INV000344,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,18-01-2025,Chili Powder,100,grams,8.37,97.08,934.08,Net 30,Approved,17-02-2025
+INV000345,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,09-09-2024,Soft Drink Syrup,43,liters,20.73,65.8,957.19,Net 60,Approved,08-11-2024
+INV000346,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,21-05-2024,Black Pepper,500,grams,18.71,276.01,9631.01,Net 45,Approved,05-07-2024
+INV000347,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,13-01-2025,Cooking Oil,102,liters,15.12,93.47,1635.71,Net 45,Approved,27-02-2025
+INV000348,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,13-06-2024,Soda Water,81,liters,1.02,3.82,86.44,Net 15,Approved,28-06-2024
+INV000349,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,02-10-2024,Green Peas,7,kg,21.05,14.43,161.78,Net 15,Approved,17-10-2024
+INV000350,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,19-07-2024,Carrots,143,kg,23.42,78.51,3427.57,Net 15,Approved,03-08-2024
+INV000351,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,21-09-2024,Wheat,43,kg,18.44,75.62,868.54,Net 30,Rejected,21-10-2024
+INV000352,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,05-08-2024,Soft Drink Syrup,117,liters,5.88,23.82,711.78,Net 30,Approved,04-09-2024
+INV000353,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,08-04-2025,Tomatoes,114,kg,24.48,307.99,3098.71,Net 30,Pending,08-05-2025
+INV000354,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,02-08-2024,Salt,134,kg,24.41,313.25,3584.19,Net 60,Approved,01-10-2024
+INV000355,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,07-03-2025,Soda Water,124,liters,19.02,140.31,2498.79,Net 30,Approved,06-04-2025
+INV000356,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,08-01-2024,Wheat,116,kg,8,79.11,1007.11,Net 30,Approved,07-02-2024
+INV000357,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,05-02-2025,Milk,25,liters,16.93,42.96,466.21,Net 60,Approved,06-04-2025
+INV000358,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,28-05-2024,Tomatoes,20,kg,8.18,11.65,175.25,Net 60,Rejected,27-07-2024
+INV000359,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,07-03-2024,Salt,140,kg,11.28,34.71,1613.91,Net 45,Approved,21-04-2024
+INV000360,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,06-07-2024,Sugar,89,kg,12.64,40.5,1165.46,Net 30,Approved,05-08-2024
+INV000361,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,11-11-2024,Milk,73,liters,16.39,70.55,1267.02,Net 60,Approved,10-01-2025
+INV000362,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,14-01-2025,Ice Cream Base,28,liters,4.07,2.36,116.32,Net 45,Approved,28-02-2025
+INV000363,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,07-03-2025,Lemon,24,pieces,19.93,27.81,506.13,Net 30,Approved,06-04-2025
+INV000364,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,05-07-2024,Turmeric,89,grams,13.36,46.16,1235.2,Net 15,Approved,20-07-2024
+INV000365,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,04-01-2025,Tomatoes,56,kg,18.15,40.62,1057.02,Net 15,Approved,19-01-2025
+INV000366,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,16-05-2025,Chicken Breast,21,kg,22.41,19.6,490.21,Net 30,Approved,15-06-2025
+INV000367,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,16-01-2025,Rice,141,kg,18.62,264.33,2889.75,Net 15,Approved,31-01-2025
+INV000368,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,14-12-2024,Pasta,127,kg,24.84,204.35,3359.03,Net 15,Rejected,29-12-2024
+INV000369,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,14-01-2024,Turmeric,123,grams,12.99,127.84,1725.61,Net 30,Approved,13-02-2024
+INV000029,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,27-05-2024,Black Pepper,14,grams,22.32,7.14,319.62,Net 60,Approved,26-07-2024
+INV000371,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,16-08-2024,Carrots,116,kg,22.07,199.63,2759.75,Net 60,Approved,15-10-2024
+INV000372,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,21-06-2024,Chili Powder,117,grams,12.47,140.21,1599.2,Net 15,Approved,06-07-2024
+INV000373,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,10-11-2024,Salt,79,kg,3.11,8.84,254.53,Net 15,Approved,25-11-2024
+INV000374,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,07-07-2024,Soft Drink Syrup,84,liters,5.77,33.21,517.89,Net 30,Approved,06-08-2024
+INV000375,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,25-08-2024,Bread,106,pieces,9.24,116.32,1095.76,Net 45,Approved,09-10-2024
+INV000376,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,30-05-2025,Potatoes,91,kg,10.22,102.75,1032.77,Net 30,Approved,29-06-2025
+INV000377,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,27-03-2025,Wheat,138,kg,3.18,47.26,486.1,Net 15,Pending,11-04-2025
+INV000378,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,13-10-2024,Pasta,7,kg,9.8,6.8,75.4,Net 30,Rejected,12-11-2024
+INV000379,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,02-01-2025,Olive Oil,102,liters,9.05,109.72,1032.82,Net 15,Approved,17-01-2025
+INV000380,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,05-03-2025,Black Pepper,70,grams,6.82,30.91,508.31,Net 30,Pending,04-04-2025
+INV000381,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,16-02-2025,Ice Cream Base,142,liters,13.73,88.48,2038.14,Net 45,Approved,02-04-2025
+INV000382,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,24-09-2024,Spinach,81,kg,9.92,27.08,830.6,Net 15,Approved,09-10-2024
+INV000383,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,26-11-2024,Rice,111,kg,6.24,19.5,712.14,Net 45,Approved,10-01-2025
+INV000384,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,03-03-2025,Bread,28,pieces,8.88,16.73,265.37,Net 30,Rejected,02-04-2025
+INV000385,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,13-09-2024,Onions,72,kg,14.05,106.86,1118.46,Net 30,Approved,13-10-2024
+INV000386,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,30-09-2024,Sugar,43,kg,9.31,27.68,428.01,Net 15,Approved,15-10-2024
+INV000387,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,18-12-2024,Soft Drink Syrup,92,liters,8.45,32.02,809.42,Net 60,Approved,16-02-2025
+INV000388,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,29-07-2024,Vanilla Essence,37,ml,12.86,26.04,501.86,Net 45,Approved,12-09-2024
+INV000389,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,26-08-2024,Paneer,145,kg,13.59,196.69,2167.24,Net 15,Approved,10-09-2024
+INV000390,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,14-07-2024,Rice,149,kg,19.36,112.37,2997.01,Net 45,Approved,28-08-2024
+INV000391,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,28-06-2024,Salt,81,kg,11.09,96.26,994.55,Net 30,Rejected,28-07-2024
+INV000392,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,03-04-2024,Salt,35,kg,17.21,26.39,628.74,Net 30,Approved,03-05-2024
+INV000393,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,29-05-2024,Ginger,26,kg,12.4,19.71,342.11,Net 30,Approved,28-06-2024
+INV000394,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,02-09-2024,Spinach,135,kg,18.22,98.28,2557.98,Net 45,Approved,17-10-2024
+INV000395,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,02-04-2024,Lemon,5,pieces,5.61,2.43,30.48,Net 15,Approved,17-04-2024
+INV000396,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,20-02-2025,Lettuce,84,kg,24.98,169.84,2268.16,Net 45,Approved,06-04-2025
+INV000397,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,23-05-2024,Green Peas,133,kg,4.41,51.98,638.51,Net 60,Approved,22-07-2024
+INV000398,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,28-05-2024,Chili Powder,60,grams,16.84,34.86,1045.26,Net 30,Approved,27-06-2024
+INV000399,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,17-06-2024,Mint Leaves,70,grams,22.72,185.05,1775.45,Net 15,Approved,02-07-2024
+INV000400,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,11-01-2025,Green Peas,136,kg,13.47,198.88,2030.8,Net 45,Approved,25-02-2025
+INV000401,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,02-08-2024,Pasta,124,kg,13.74,164.14,1867.9,Net 45,Approved,16-09-2024
+INV000402,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,02-04-2025,Ginger,116,kg,4.09,11.39,485.83,Net 45,Approved,17-05-2025
+INV000403,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,11-02-2025,Cooking Oil,27,liters,13.14,19.44,374.22,Net 60,Rejected,12-04-2025
+INV000404,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,08-04-2025,Eggs,54,pieces,15.39,80.23,911.29,Net 60,Rejected,07-06-2025
+INV000405,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,07-08-2024,Soda Water,22,liters,4.61,10.7,112.12,Net 60,Approved,06-10-2024
+INV000406,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,19-03-2024,Tomatoes,147,kg,19.83,111.09,3026.1,Net 30,Rejected,18-04-2024
+INV000407,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,30-05-2024,Chocolate Sauce,142,liters,12.9,197.76,2029.56,Net 45,Approved,14-07-2024
+INV000408,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,18-08-2024,Green Peas,113,kg,12.69,124.17,1558.14,Net 15,Approved,02-09-2024
+INV000409,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,25-06-2024,Paneer,70,kg,6.81,44.33,521.03,Net 45,Approved,09-08-2024
+INV000410,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,07-10-2024,Mint Leaves,79,grams,6.66,60.01,586.15,Net 60,Approved,06-12-2024
+INV000411,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,19-05-2024,Yogurt,1,kg,7.16,0.51,7.67,Net 60,Rejected,18-07-2024
+INV000412,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,22-08-2024,Lemon,137,pieces,5.98,74.83,894.09,Net 15,Approved,06-09-2024
+INV000413,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,11-01-2024,Bread,45,pieces,15.66,25.9,730.6,Net 60,Approved,11-03-2024
+INV000414,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,18-02-2025,Ice Cream Base,38,liters,11.21,26.44,452.42,Net 15,Approved,05-03-2025
+INV000415,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,08-04-2024,Olive Oil,85,liters,15.25,95.7,1391.95,Net 45,Approved,23-05-2024
+INV000416,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,01-08-2024,Olive Oil,51,liters,13.14,54.33,724.47,Net 60,Approved,30-09-2024
+INV000417,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,05-02-2024,Chili Powder,78,grams,17.95,87.85,1487.95,Net 60,Approved,05-04-2024
+INV000418,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,12-02-2024,Lemon,18,pieces,7.4,11.72,144.92,Net 45,Approved,28-03-2024
+INV000419,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,05-03-2025,Milk,133,liters,18.24,257.72,2683.64,Net 30,Rejected,04-04-2025
+INV000420,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,14-08-2024,Mutton,98,kg,8.8,96.91,959.31,Net 60,Approved,13-10-2024
+INV000421,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,08-04-2024,Soft Drink Syrup,91,liters,6.01,45.53,592.44,Net 60,Approved,07-06-2024
+INV000422,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,10-05-2025,Potatoes,95,kg,2.41,24.3,253.25,Net 45,Approved,24-06-2025
+INV000423,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,16-01-2025,Soft Drink Syrup,100,liters,15.2,167.23,1687.23,Net 15,Approved,31-01-2025
+INV000424,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,20-03-2024,Cooking Oil,136,liters,20.57,145.07,2942.59,Net 45,Approved,04-05-2024
+INV000425,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,10-01-2024,Soft Drink Syrup,98,liters,5.85,26.81,600.11,Net 45,Approved,24-02-2024
+INV000426,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,21-03-2025,Lemon,33,pieces,20.85,36.8,724.85,Net 60,Approved,20-05-2025
+INV000427,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,08-08-2024,Olive Oil,136,liters,19.4,279.85,2918.25,Net 30,Approved,07-09-2024
+INV000428,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,30-12-2024,Bacon,33,kg,2.71,7.53,96.96,Net 30,Approved,29-01-2025
+INV000429,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,06-01-2025,Milk,96,liters,13.55,119.51,1420.31,Net 45,Approved,20-02-2025
+INV000430,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,08-12-2024,Ice Cream Base,116,liters,18.72,89.96,2261.48,Net 30,Approved,07-01-2025
+INV000431,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,21-09-2024,Spinach,124,kg,4.77,46.78,638.26,Net 15,Approved,06-10-2024
+INV000432,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,23-05-2024,Turmeric,13,grams,22.06,32.88,319.66,Net 15,Approved,07-06-2024
+INV000433,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,09-02-2024,Mutton,74,kg,1.3,4.9,101.1,Net 60,Approved,09-04-2024
+INV000434,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,15-07-2024,Olive Oil,112,liters,6.94,18.34,795.62,Net 15,Rejected,30-07-2024
+INV000435,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,06-01-2025,Salt,55,kg,17.96,96.02,1083.82,Net 45,Rejected,20-02-2025
+INV000436,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,29-03-2024,Flour,94,kg,3.65,9.67,352.77,Net 15,Approved,13-04-2024
+INV000437,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,20-02-2024,Cumin,33,grams,11.86,14.42,405.8,Net 60,Approved,20-04-2024
+INV000438,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,07-11-2024,Prawns,18,kg,19.63,33.76,387.1,Net 15,Approved,22-11-2024
+INV000119,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,06-08-2024,Wheat,144,kg,12.24,121.17,1883.73,Net 30,Approved,05-09-2024
+INV000440,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,27-02-2024,Olive Oil,19,liters,23.93,10.11,464.78,Net 60,Rejected,27-04-2024
+INV000441,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,24-03-2025,Pasta,21,kg,11.99,22.03,273.82,Net 30,Rejected,23-04-2025
+INV000442,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,03-05-2025,Paneer,16,kg,16.83,14.44,283.72,Net 30,Pending,02-06-2025
+INV000443,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,11-02-2024,Milk,69,liters,8.57,20.92,612.25,Net 45,Approved,27-03-2024
+INV000444,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,27-04-2024,Milk,68,liters,22.23,84.83,1596.47,Net 60,Approved,26-06-2024
+INV000445,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,25-04-2024,Soda Water,12,liters,11.89,7.86,150.54,Net 60,Approved,24-06-2024
+INV000446,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,13-03-2025,Cooking Oil,25,liters,9.11,19.27,247.02,Net 45,Rejected,27-04-2025
+INV000447,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,23-08-2024,Lettuce,96,kg,8.59,94.68,919.32,Net 45,Rejected,07-10-2024
+INV000448,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,07-03-2024,Eggs,25,pieces,8.37,14.63,223.88,Net 30,Approved,06-04-2024
+INV000449,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,11-07-2024,Flour,133,kg,23.59,301.64,3439.11,Net 45,Approved,25-08-2024
+INV000450,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,02-04-2024,Cooking Oil,5,liters,20.2,10.72,111.72,Net 60,Approved,01-06-2024
+INV000451,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,09-03-2025,Wheat,145,kg,4.98,28.49,750.59,Net 30,Approved,08-04-2025
+INV000452,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,19-11-2024,Soda Water,22,liters,10.48,20.07,250.63,Net 15,Approved,04-12-2024
+INV000453,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,15-04-2025,Carrots,8,kg,11.05,8.89,97.29,Net 15,Pending,30-04-2025
+INV000454,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,08-04-2025,Coriander,13,grams,24.7,32.6,353.7,Net 15,Pending,23-04-2025
+INV000455,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,25-04-2025,Bread,148,pieces,13.28,233.88,2199.32,Net 30,Approved,25-05-2025
+INV000456,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,24-06-2024,Milk,95,liters,14.05,144.44,1479.19,Net 30,Approved,24-07-2024
+INV000457,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,09-02-2025,Mint Leaves,108,grams,7.45,93.56,898.16,Net 45,Approved,26-03-2025
+INV000458,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,22-10-2024,Wheat,10,kg,10.61,11.58,117.68,Net 60,Approved,21-12-2024
+INV000459,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,15-12-2024,Paneer,32,kg,21.73,79.6,774.96,Net 15,Approved,30-12-2024
+INV000460,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,09-12-2024,Cheese,141,kg,11.77,99.37,1758.94,Net 45,Approved,23-01-2025
+INV000461,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,18-08-2024,Mutton,115,kg,9.9,32.02,1170.52,Net 60,Approved,17-10-2024
+INV000462,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,02-04-2025,Flour,143,kg,24.8,409.38,3955.78,Net 30,Rejected,02-05-2025
+INV000463,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,29-11-2024,Garlic,98,kg,13.75,81.27,1428.77,Net 45,Approved,13-01-2025
+INV000464,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,25-08-2024,Mint Leaves,63,grams,5.41,37.28,378.11,Net 60,Approved,24-10-2024
+INV000465,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,17-03-2025,Black Pepper,41,grams,6.62,8.27,279.69,Net 60,Approved,16-05-2025
+INV000466,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,27-04-2025,Lemon,71,pieces,22.19,132.59,1708.08,Net 60,Pending,26-06-2025
+INV000467,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,16-02-2024,Turmeric,16,grams,6.72,7.32,114.84,Net 30,Approved,17-03-2024
+INV000468,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,18-04-2025,Potatoes,121,kg,6.1,19.83,757.93,Net 60,Rejected,17-06-2025
+INV000469,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,18-03-2024,Rice,55,kg,10.99,53.08,657.53,Net 15,Approved,02-04-2024
+INV000470,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,10-06-2024,Chocolate Sauce,46,liters,15.57,23.87,740.09,Net 60,Approved,09-08-2024
+INV000471,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,30-04-2025,Garlic,69,kg,7.36,52.44,560.28,Net 45,Approved,14-06-2025
+INV000472,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,12-06-2024,Paneer,127,kg,16.78,174.32,2305.38,Net 15,Approved,27-06-2024
+INV000473,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,24-07-2024,Chocolate Sauce,22,liters,6.47,5.74,148.08,Net 45,Approved,07-09-2024
+INV000474,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,27-05-2025,Cumin,43,grams,8.95,12.7,397.55,Net 15,Approved,11-06-2025
+INV000475,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,04-03-2024,Milk,100,liters,15.27,138.41,1665.41,Net 30,Approved,03-04-2024
+INV000476,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,01-05-2024,Wheat,148,kg,12.1,107.18,1897.98,Net 30,Approved,31-05-2024
+INV000477,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,05-07-2024,Banana,19,kg,13.3,15.85,268.55,Net 15,Approved,20-07-2024
+INV000478,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,15-05-2024,Lemon,82,pieces,20.85,71.6,1781.3,Net 15,Approved,30-05-2024
+INV000479,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,04-03-2025,Black Pepper,72,grams,16.62,135.5,1332.14,Net 60,Rejected,03-05-2025
+INV000480,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,28-02-2024,Chili Powder,149,grams,15.02,219.18,2457.16,Net 60,Rejected,28-04-2024
+INV000481,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,01-05-2024,Cooking Oil,129,liters,15.68,73.64,2096.36,Net 45,Approved,15-06-2024
+INV000482,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,03-01-2024,Salt,100,kg,16.91,38.29,1729.29,Net 45,Approved,17-02-2024
+INV000483,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,13-11-2024,Bread,134,pieces,14.61,224.55,2182.29,Net 45,Approved,28-12-2024
+INV000484,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,15-12-2024,Eggs,128,pieces,7.38,26.92,971.56,Net 60,Approved,13-02-2025
+INV000485,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,06-04-2025,Milk,42,liters,7.91,23.96,356.18,Net 15,Approved,21-04-2025
+INV000486,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,30-12-2024,Ice Cream Base,122,liters,10.32,57.14,1316.18,Net 60,Approved,28-02-2025
+INV000487,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,14-08-2024,Soft Drink Syrup,75,liters,24.86,157.95,2022.45,Net 60,Approved,13-10-2024
+INV000488,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,26-01-2024,Fish Fillet,61,kg,12.85,31.43,815.28,Net 15,Approved,10-02-2024
+INV000489,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,28-06-2024,Chocolate Sauce,91,liters,15.48,116.99,1525.67,Net 15,Approved,13-07-2024
+INV000490,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,11-08-2024,Onions,88,kg,18.2,98.17,1699.77,Net 15,Approved,26-08-2024
+INV000491,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,07-08-2024,Green Peas,42,kg,15,73.98,703.98,Net 45,Approved,21-09-2024
+INV000492,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,18-12-2024,Turmeric,66,grams,16.14,81.75,1146.99,Net 60,Approved,16-02-2025
+INV000493,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,25-02-2024,Cream,147,liters,24.99,416.02,4089.55,Net 30,Approved,26-03-2024
+INV000494,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,30-06-2024,Spinach,26,kg,19.15,50.18,548.08,Net 30,Approved,30-07-2024
+INV000495,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,24-07-2024,Coriander,149,grams,21.21,196.4,3356.69,Net 60,Approved,22-09-2024
+INV000496,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,30-04-2025,Prawns,5,kg,3.4,0.35,17.35,Net 30,Rejected,30-05-2025
+INV000497,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,03-04-2025,Bacon,17,kg,7.49,10.06,137.39,Net 45,Approved,18-05-2025
+INV000498,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,28-05-2025,Eggs,131,pieces,16.53,250.81,2416.24,Net 45,Approved,12-07-2025
+INV000499,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,02-06-2024,Yogurt,66,kg,14.91,20.25,1004.31,Net 15,Approved,17-06-2024
+INV000500,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,26-11-2024,Yogurt,67,kg,7.71,50.97,567.54,Net 45,Approved,10-01-2025
+INV000501,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,30-03-2024,Chocolate Sauce,7,liters,17.33,10.64,131.95,Net 15,Approved,14-04-2024
+INV000502,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,26-02-2025,Milk,88,liters,7.01,73.3,690.18,Net 60,Approved,27-04-2025
+INV000503,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,23-06-2024,Paneer,32,kg,22.66,36.93,762.05,Net 30,Approved,23-07-2024
+INV000504,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,18-05-2025,Soft Drink Syrup,117,liters,21.2,173.36,2653.76,Net 15,Rejected,02-06-2025
+INV000505,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,25-04-2024,Garlic,73,kg,3.62,23.96,288.22,Net 45,Approved,09-06-2024
+INV000506,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,25-07-2024,Chili Powder,97,grams,22.63,49.71,2244.82,Net 60,Approved,23-09-2024
+INV000507,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,20-04-2024,Coriander,68,grams,24.24,169.01,1817.33,Net 15,Approved,05-05-2024
+INV000508,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,25-02-2024,Bell Pepper,47,kg,7.22,38.37,377.71,Net 60,Approved,25-04-2024
+INV000509,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,16-02-2024,Salt,100,kg,5.44,30.97,574.97,Net 60,Rejected,16-04-2024
+INV000510,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,08-05-2024,Bell Pepper,81,kg,5.21,23.42,445.43,Net 60,Rejected,07-07-2024
+INV000511,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,26-08-2024,Spinach,68,kg,4.7,23.11,342.71,Net 45,Approved,10-10-2024
+INV000512,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,07-04-2025,Mutton,40,kg,23.69,69.84,1017.44,Net 45,Approved,22-05-2025
+INV000292,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,02-11-2024,Bell Pepper,74,kg,1.5,7.6,118.6,Net 60,Rejected,01-01-2025
+INV000514,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,28-07-2024,Onions,108,kg,23.34,78.01,2598.73,Net 60,Approved,26-09-2024
+INV000515,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,23-03-2025,Chicken Breast,144,kg,21.01,180.79,3206.23,Net 45,Approved,07-05-2025
+INV000516,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,01-02-2024,Pasta,24,kg,9.23,4.92,226.44,Net 45,Rejected,17-03-2024
+INV000517,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,16-05-2024,Onions,142,kg,23.39,391.53,3712.91,Net 15,Rejected,31-05-2024
+INV000518,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,31-12-2024,Coriander,14,grams,12.96,6.74,188.18,Net 45,Approved,14-02-2025
+INV000519,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,07-02-2025,Cream,58,liters,24.3,76.62,1486.02,Net 45,Approved,24-03-2025
+INV000520,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,21-05-2025,Onions,144,kg,5.61,86.38,894.22,Net 45,Approved,05-07-2025
+INV000371,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,16-08-2024,Carrots,116,kg,22.07,199.63,2759.75,Net 60,Approved,15-10-2024
+INV000522,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,04-08-2024,Tomatoes,61,kg,1.04,4.92,68.36,Net 45,Approved,18-09-2024
+INV000523,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,20-05-2024,Eggs,25,pieces,18.05,13.31,464.56,Net 30,Approved,19-06-2024
+INV000524,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,30-03-2025,Garlic,93,kg,14.82,154.92,1533.18,Net 45,Rejected,14-05-2025
+INV000525,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,04-12-2024,Ice Cream Base,145,liters,4.14,42.3,642.6,Net 60,Approved,02-02-2025
+INV000526,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,08-05-2025,Butter,110,kg,24.91,64,2804.1,Net 15,Approved,23-05-2025
+INV000527,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,16-01-2025,Black Pepper,32,grams,12.7,14.24,420.64,Net 30,Approved,15-02-2025
+INV000528,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,11-03-2024,Cooking Oil,138,liters,22.26,220.2,3292.08,Net 45,Approved,25-04-2024
+INV000529,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,31-12-2024,Mushrooms,14,kg,16.01,11.94,236.08,Net 45,Approved,14-02-2025
+INV000530,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,27-09-2024,Cream,95,liters,18.53,123.72,1884.07,Net 15,Approved,12-10-2024
+INV000531,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,13-11-2024,Turmeric,50,grams,15.07,60.55,814.05,Net 30,Approved,13-12-2024
+INV000532,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,15-09-2024,Mint Leaves,117,grams,11.23,41.42,1355.33,Net 60,Approved,14-11-2024
+INV000533,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,06-09-2024,Eggs,128,pieces,22.31,275.96,3131.64,Net 30,Approved,06-10-2024
+INV000534,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,22-03-2024,Coriander,104,grams,11.1,89.53,1243.93,Net 30,Approved,21-04-2024
+INV000535,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,04-05-2024,Prawns,65,kg,5.1,6.73,338.23,Net 60,Approved,03-07-2024
+INV000536,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,13-09-2024,Bell Pepper,45,kg,1.56,8.02,78.22,Net 45,Approved,28-10-2024
+INV000537,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,15-11-2024,Onions,105,kg,7.54,87.37,879.07,Net 30,Approved,15-12-2024
+INV000538,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,19-01-2025,Lemon,70,pieces,7.41,42.07,560.77,Net 30,Approved,18-02-2025
+INV000539,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,11-08-2024,Black Pepper,148,grams,10.55,101.63,1663.03,Net 45,Approved,25-09-2024
+INV000540,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,29-05-2025,Flour,21,kg,21.21,37.99,483.4,Net 60,Approved,28-07-2025
+INV000541,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,07-11-2024,Chili Powder,92,grams,12.14,32.27,1149.15,Net 45,Rejected,22-12-2024
+INV000542,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,03-03-2025,Ice Cream Base,2,liters,11.68,1296.67,1320.03,Net 45,Approved,17-04-2025
+INV000543,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,29-01-2024,Cooking Oil,500,liters,12.25,431.38,6556.38,Net 60,Rejected,29-03-2024
+INV000544,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,19-12-2024,Sugar,30,kg,16.26,25.69,513.49,Net 45,Approved,02-02-2025
+INV000545,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,09-03-2024,Paneer,72,kg,9.77,39.79,743.23,Net 60,Approved,08-05-2024
+INV000546,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,01-09-2024,Sugar,25,kg,2.02,2.33,52.83,Net 45,Approved,16-10-2024
+INV000547,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,15-07-2024,Onions,145,kg,22.39,84.49,3331.04,Net 60,Approved,13-09-2024
+INV000548,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,08-09-2024,Soft Drink Syrup,61,liters,10.27,67.25,693.72,Net 30,Approved,08-10-2024
+INV000549,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,31-03-2024,Mint Leaves,113,grams,4.8,1140.1,1682.5,Net 15,Approved,15-04-2024
+INV000550,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,09-11-2024,Yogurt,25,kg,21.81,38.27,583.52,Net 60,Approved,08-01-2025
+INV000551,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,03-02-2025,Mushrooms,77,kg,11.95,47.64,967.79,Net 30,Approved,05-03-2025
+INV000552,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,01-01-2024,Yogurt,27,kg,3.58,4.95,101.61,Net 15,Approved,16-01-2024
+INV000553,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,25-05-2025,Lemon,87,pieces,16.35,45.13,1467.58,Net 45,Pending,09-07-2025
+INV000554,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,25-02-2025,Cheese,8,kg,10.71,10.18,95.86,Net 60,Rejected,26-04-2025
+INV000555,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,24-12-2024,Tomatoes,66,kg,2.61,15.95,188.21,Net 30,Approved,23-01-2025
+INV000556,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,16-11-2024,Sugar,75,kg,5.98,17.84,466.34,Net 30,Rejected,16-12-2024
+INV000557,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,12-02-2024,Prawns,69,kg,9.63,49.66,714.13,Net 45,Approved,28-03-2024
+INV000558,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,25-05-2024,Ice Cream Base,52,liters,22.44,55.56,1222.44,Net 45,Approved,09-07-2024
+INV000559,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,06-02-2025,Soft Drink Syrup,138,liters,1.12,16.78,171.34,Net 30,Approved,08-03-2025
+INV000560,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,08-10-2024,Potatoes,147,kg,16.94,288.81,2778.99,Net 30,Approved,07-11-2024
+INV000561,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,28-04-2025,Onions,36,kg,6.35,18.32,246.92,Net 30,Rejected,28-05-2025
+INV000562,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,22-01-2025,Banana,21,kg,2.63,3.12,58.35,Net 60,Approved,23-03-2025
+INV000563,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,30-04-2025,Bacon,80,kg,13.75,65.59,1165.59,Net 45,Pending,14-06-2025
+INV000564,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,09-12-2024,Cream,51,liters,4.24,11.65,227.89,Net 60,Approved,07-02-2025
+INV000565,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,10-02-2024,Tomatoes,96,kg,8.92,20.3,876.62,Net 45,Approved,26-03-2024
+INV000566,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,07-06-2024,Milk,134,liters,7.13,83.2,1038.62,Net 30,Approved,07-07-2024
+INV000567,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,26-07-2024,Sugar,119,kg,20.57,208.55,2656.38,Net 45,Approved,09-09-2024
+INV000568,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,02-03-2025,Garlic,56,kg,4.8,25.86,294.66,Net 60,Pending,01-05-2025
+INV000569,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,11-04-2024,Chicken Breast,36,kg,18.76,61.59,736.95,Net 30,Approved,11-05-2024
+INV000306,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,11-09-2024,Vanilla Essence,104,ml,12.81,28.39,1360.63,Net 45,Approved,26-10-2024
+INV000571,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,06-12-2024,Cheese,14,kg,16.24,11.97,239.33,Net 60,Approved,04-02-2025
+INV000572,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,11-01-2025,Flour,144,kg,18.31,139.15,2775.79,Net 45,Rejected,25-02-2025
+INV000573,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,04-04-2024,Bread,111,pieces,11.43,45.64,1314.37,Net 60,Approved,03-06-2024
+INV000574,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,23-01-2024,Carrots,74,kg,24.3,184.48,1982.68,Net 45,Approved,08-03-2024
+INV000575,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,04-05-2025,Fish Fillet,82,kg,22.99,50.45,1935.63,Net 15,Pending,19-05-2025
+INV000576,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,17-04-2025,Cheese,129,kg,23.75,180.21,3243.96,Net 30,Approved,17-05-2025
+INV000577,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,04-07-2024,Milk,76,liters,2.34,9.29,187.13,Net 30,Approved,03-08-2024
+INV000578,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,03-05-2024,Fish Fillet,1000,kg,11.51,494.1,12004.1,Net 60,Approved,02-07-2024
+INV000579,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,29-08-2024,Tomatoes,20,kg,19.55,16.55,407.55,Net 60,Approved,28-10-2024
+INV000580,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,03-03-2025,Rice,46,kg,1.86,4.48,90.04,Net 15,Approved,18-03-2025
+INV000581,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,11-01-2024,Cooking Oil,30,liters,12.39,42.79,414.49,Net 60,Approved,11-03-2024
+INV000582,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,04-03-2025,Soda Water,108,liters,22.81,186.18,2649.66,Net 30,Approved,03-04-2025
+INV000583,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,12-11-2024,Banana,77,kg,14.2,63.19,1156.59,Net 30,Approved,12-12-2024
+INV000584,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,13-03-2024,Cumin,1,grams,14.98,0.43,15.41,Net 30,Approved,12-04-2024
+INV000585,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,23-06-2024,Cheese,85,kg,19.32,131.79,1773.99,Net 60,Approved,22-08-2024
+INV000586,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,29-03-2024,Lettuce,11,kg,20.51,5.32,230.93,Net 15,Approved,13-04-2024
+INV000587,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,24-12-2024,Vanilla Essence,52,ml,17.93,91.28,1023.64,Net 15,Approved,08-01-2025
+INV000588,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,01-04-2024,Garlic,119,kg,13.5,166.78,1773.28,Net 30,Approved,01-05-2024
+INV000589,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,18-05-2025,Tomatoes,129,kg,4.91,76,709.39,Net 30,Approved,17-06-2025
+INV000590,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,29-04-2024,Eggs,35,pieces,10.44,24.78,390.18,Net 30,Approved,29-05-2024
+INV000591,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,22-01-2025,Sugar,135,kg,8.18,69.81,1174.11,Net 45,Approved,08-03-2025
+INV000592,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,14-08-2024,Flour,63,kg,8.8,45.43,599.83,Net 60,Approved,13-10-2024
+INV000593,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,30-01-2025,Chocolate Sauce,133,liters,1.07,14.38,156.69,Net 45,Rejected,16-03-2025
+INV000594,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,31-07-2024,Onions,8,kg,8.91,2.82,74.1,Net 30,Approved,30-08-2024
+INV000595,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,18-11-2024,Prawns,29,kg,23.29,46.11,721.52,Net 45,Approved,02-01-2025
+INV000596,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,09-01-2025,Green Peas,114,kg,16.12,144.69,1982.37,Net 60,Approved,10-03-2025
+INV000597,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,01-01-2025,Chili Powder,144,grams,5.19,74.96,822.32,Net 30,Approved,31-01-2025
+INV000598,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,08-07-2024,Eggs,84,pieces,15.89,109.53,1444.29,Net 60,Approved,06-09-2024
+INV000599,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,20-12-2024,Tomatoes,146,kg,24.25,109.58,3650.08,Net 15,Approved,04-01-2025
+INV000600,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,04-03-2025,Carrots,9,kg,16.22,5.83,151.81,Net 45,Approved,18-04-2025
+INV000601,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,22-04-2024,Yogurt,128,kg,13.6,196.36,1937.16,Net 30,Approved,22-05-2024
+INV000602,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,24-10-2024,Paneer,76,kg,11.9,30.77,935.17,Net 30,Approved,23-11-2024
+INV000603,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,28-05-2024,Potatoes,121,kg,18.71,75.17,2339.08,Net 15,Approved,12-06-2024
+INV000488,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,26-01-2024,Fish Fillet,61,kg,12.85,31.43,815.28,Net 15,Approved,10-02-2024
+INV000605,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,29-01-2025,Green Peas,29,kg,9.37,20.98,292.71,Net 30,Approved,28-02-2025
+INV000606,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,16-04-2024,Vanilla Essence,92,ml,12.35,103.04,1239.24,Net 60,Approved,15-06-2024
+INV000607,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,24-02-2024,Butter,31,kg,18.53,39.19,613.62,Net 45,Approved,09-04-2024
+INV000608,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,02-08-2024,Soda Water,37,liters,16.64,44.43,660.11,Net 30,Approved,01-09-2024
+INV000609,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,18-11-2024,Chocolate Sauce,37,liters,12.05,11.45,457.3,Net 15,Approved,03-12-2024
+INV000610,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,20-09-2024,Bread,28,pieces,11.66,17.32,343.8,Net 30,Approved,20-10-2024
+INV000611,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,29-01-2025,Salt,69,kg,10.9,38.29,790.39,Net 45,Approved,15-03-2025
+INV000612,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,26-07-2024,Coriander,95,grams,19.99,90.84,1989.89,Net 60,Approved,24-09-2024
+INV000613,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,02-01-2024,Mutton,96,kg,11.44,40.09,1138.33,Net 45,Approved,16-02-2024
+INV000614,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,07-08-2024,Lemon,92,pieces,2.44,10.05,234.53,Net 45,Approved,21-09-2024
+INV000615,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,19-08-2024,Mutton,12,kg,7.08,4.39,89.35,Net 15,Approved,03-09-2024
+INV000616,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,31-03-2025,Mushrooms,71,kg,16.01,88.08,1224.79,Net 45,Rejected,15-05-2025
+INV000617,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,26-03-2025,Vanilla Essence,1,ml,24.27,2.22,26.49,Net 60,Approved,25-05-2025
+INV000618,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,27-05-2025,Milk,65,liters,24.65,36.52,1638.77,Net 60,Rejected,26-07-2025
+INV000619,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,15-01-2025,Black Pepper,62,grams,20.07,134.31,1378.65,Net 15,Approved,30-01-2025
+INV000620,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,25-04-2024,Ginger,50,kg,16.8,30.37,870.37,Net 30,Approved,25-05-2024
+INV000621,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,12-12-2024,Pasta,23,kg,3.54,6.96,88.38,Net 60,Approved,10-02-2025
+INV000622,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,22-02-2025,Paneer,96,kg,18.39,97.84,1863.28,Net 30,Approved,24-03-2025
+INV000623,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,11-01-2025,Black Pepper,102,grams,5.84,30.26,625.94,Net 60,Approved,12-03-2025
+INV000624,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,25-09-2024,Lettuce,149,kg,4.37,28.07,679.2,Net 45,Rejected,09-11-2024
+INV000625,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,15-09-2024,Onions,38,kg,23.39,32.14,920.96,Net 60,Approved,14-11-2024
+INV000626,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,04-03-2025,Soda Water,123,liters,9.99,141.71,1370.48,Net 30,Rejected,03-04-2025
+INV000627,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,26-02-2025,Chicken Breast,57,kg,14.71,60.62,899.09,Net 60,Approved,27-04-2025
+INV000628,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,19-10-2024,Yogurt,7,kg,8.07,1.76,58.25,Net 45,Approved,03-12-2024
+INV000629,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,19-12-2024,Mushrooms,106,kg,1.72,6.73,189.05,Net 45,Approved,02-02-2025
+INV000630,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,06-09-2024,Carrots,44,kg,10.34,19.42,474.38,Net 30,Approved,06-10-2024
+INV000631,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,26-05-2024,Wheat,109,kg,16,94.73,1838.73,Net 15,Approved,10-06-2024
+INV000632,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,04-07-2024,Sugar,133,kg,17.19,182.1,2468.37,Net 30,Approved,03-08-2024
+INV000633,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,20-03-2025,Carrots,94,kg,12.66,122.79,1312.83,Net 15,Approved,04-04-2025
+INV000634,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,24-10-2024,Banana,141,kg,3.75,46.7,575.45,Net 30,Approved,23-11-2024
+INV000635,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,30-06-2024,Bell Pepper,72,kg,17.3,64.11,1309.71,Net 45,Approved,14-08-2024
+INV000636,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,15-11-2024,Bread,1,pieces,8.46,1969.66,1978.12,Net 45,Approved,30-12-2024
+INV000637,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,03-02-2024,Paneer,134,kg,4.62,40.07,659.15,Net 60,Approved,03-04-2024
+INV000638,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,04-09-2024,Cheese,55,kg,2.36,5.64,135.44,Net 60,Approved,03-11-2024
+INV000639,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,02-01-2025,Butter,48,kg,23.04,59.16,1165.08,Net 30,Approved,01-02-2025
+INV000640,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,23-10-2024,Eggs,19,pieces,18.49,16.97,368.28,Net 60,Approved,22-12-2024
+INV000641,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,26-10-2024,Banana,106,kg,23.58,108.68,2608.16,Net 30,Approved,25-11-2024
+INV000642,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,30-05-2025,Wheat,7,kg,1.52,0.43,11.07,Net 15,Approved,14-06-2025
+INV000643,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,21-05-2025,Black Pepper,27,grams,14.07,45.1,424.99,Net 45,Approved,05-07-2025
+INV000644,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,28-04-2024,Bell Pepper,135,kg,23.86,327.09,3548.19,Net 30,Approved,28-05-2024
+INV000645,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,19-01-2025,Garlic,87,kg,14.76,47.2,1331.32,Net 45,Rejected,05-03-2025
+INV000646,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,29-01-2024,Cheese,114,kg,2.26,23.07,280.71,Net 30,Approved,28-02-2024
+INV000647,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,08-04-2024,Garlic,58,kg,15.23,59.98,943.32,Net 45,Approved,23-05-2024
+INV000648,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,25-01-2025,Soft Drink Syrup,72,liters,8.15,69.98,656.78,Net 15,Approved,09-02-2025
+INV000649,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,03-04-2025,Black Pepper,73,grams,16.65,71.15,1286.6,Net 15,Approved,18-04-2025
+INV000650,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,14-09-2024,Mushrooms,82,kg,18.23,114.06,1608.92,Net 30,Approved,14-10-2024
+INV000651,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,18-03-2024,Ice Cream Base,25,liters,3.25,8.52,89.77,Net 15,Rejected,02-04-2024
+INV000652,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,07-12-2024,Green Peas,69,kg,22.73,124.05,1692.42,Net 15,Approved,22-12-2024
+INV000653,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,18-03-2024,Tomatoes,82,kg,24.46,182.24,2187.96,Net 60,Approved,17-05-2024
+INV000654,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,12-02-2025,Mint Leaves,110,grams,24.7,159.72,2876.72,Net 15,Approved,27-02-2025
+INV000655,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,20-12-2024,Banana,113,kg,1.62,12.87,195.93,Net 30,Approved,19-01-2025
+INV000656,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,12-01-2024,Pasta,73,kg,20.34,160.09,1644.91,Net 15,Approved,27-01-2024
+INV000657,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,21-04-2024,Sugar,21,kg,22.93,20.64,502.17,Net 45,Rejected,05-06-2024
+INV000658,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,14-11-2024,Onions,122,kg,7.4,45.07,947.87,Net 45,Approved,29-12-2024
+INV000659,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,23-05-2025,Mutton,41,kg,1.2,3,52.2,Net 30,Approved,22-06-2025
+INV000593,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,30-01-2025,Chocolate Sauce,133,liters,1.07,14.38,156.69,Net 45,Approved,16-03-2025
+INV000661,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,28-02-2024,Garlic,133,kg,5.63,46.67,795.46,Net 15,Approved,14-03-2024
+INV000662,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,30-12-2024,Fish Fillet,76,kg,11.62,32.53,915.65,Net 30,Approved,29-01-2025
+INV000663,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,24-07-2024,Banana,69,kg,18.93,152,1458.17,Net 15,Rejected,08-08-2024
+INV000664,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,19-09-2024,Milk,74,liters,13.55,53.19,1055.89,Net 30,Approved,19-10-2024
+INV000665,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,29-04-2025,Soft Drink Syrup,81,liters,12.63,28.54,1051.57,Net 15,Approved,14-05-2025
+INV000666,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,04-11-2024,Prawns,41,kg,17.8,86.71,816.51,Net 30,Rejected,04-12-2024
+INV000667,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,19-05-2025,Onions,63,kg,13.88,100.37,974.81,Net 30,Approved,18-06-2025
+INV000668,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,03-03-2024,Eggs,7,pieces,10.94,7.82,84.4,Net 15,Approved,18-03-2024
+INV000669,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,12-09-2024,Lemon,59,pieces,16.93,66.9,1065.77,Net 45,Approved,27-10-2024
+INV000670,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,18-02-2025,Prawns,79,kg,18.9,176.27,1669.37,Net 30,Approved,20-03-2025
+INV000671,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,22-10-2024,Salt,29,kg,24.73,42.82,759.99,Net 30,Approved,21-11-2024
+INV000672,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,02-09-2024,Mint Leaves,115,grams,5.06,22.16,604.06,Net 45,Approved,17-10-2024
+INV000673,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,01-05-2025,Pasta,130,kg,22.36,245.35,3152.15,Net 30,Approved,31-05-2025
+INV000674,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,14-01-2025,Cumin,63,grams,8.53,27.53,564.92,Net 60,Approved,15-03-2025
+INV000675,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,24-02-2025,Milk,13,liters,7.46,6.53,103.51,Net 45,Approved,10-04-2025
+INV000676,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,28-01-2024,Paneer,28,kg,3.17,7.39,96.15,Net 60,Approved,28-03-2024
+INV000677,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,24-04-2025,Banana,64,kg,24.56,77.4,1649.24,Net 60,Pending,23-06-2025
+INV000678,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,23-02-2024,Fish Fillet,23,kg,17.35,12.61,411.66,Net 15,Rejected,09-03-2024
+INV000679,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,01-07-2024,Spinach,44,kg,9.47,26.08,442.76,Net 30,Approved,31-07-2024
+INV000680,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,05-05-2025,Ice Cream Base,58,liters,16.67,64.01,1030.87,Net 60,Approved,04-07-2025
+INV000681,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,11-08-2024,Mushrooms,43,kg,17.67,47.34,807.15,Net 15,Approved,26-08-2024
+INV000682,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,25-06-2024,Pasta,128,kg,21.74,125.11,2907.83,Net 60,Approved,24-08-2024
+INV000683,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,11-03-2024,Pasta,94,kg,10.2,37.39,996.19,Net 30,Rejected,10-04-2024
+INV000684,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,03-12-2024,Flour,47,kg,13.18,54.27,673.73,Net 60,Approved,01-02-2025
+INV000685,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,17-03-2024,Chicken Breast,90,kg,21.01,155.87,2046.77,Net 30,Approved,16-04-2024
+INV000686,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,07-05-2025,Banana,117,kg,18.26,243.79,2380.21,Net 15,Rejected,22-05-2025
+INV000687,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,19-03-2024,Sugar,147,kg,14.39,1920.44,4035.77,Net 15,Approved,03-04-2024
+INV000688,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,10-12-2024,Lettuce,119,kg,13.05,45.08,1598.03,Net 45,Approved,24-01-2025
+INV000689,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,09-05-2024,Potatoes,118,kg,24.32,317.52,3187.28,Net 30,Approved,08-06-2024
+INV000690,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,20-08-2024,Mushrooms,29,kg,2.26,6.38,71.92,Net 30,Approved,19-09-2024
+INV000691,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,23-01-2024,Bread,68,pieces,5.28,9.07,368.11,Net 60,Approved,23-03-2024
+INV000692,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,05-02-2024,Soft Drink Syrup,500,liters,3.3,107.96,1757.96,Net 15,Approved,20-02-2024
+INV000693,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,08-09-2024,Butter,61,kg,18.95,38.77,1194.72,Net 15,Approved,23-09-2024
+INV000694,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,13-02-2024,Mutton,20,kg,16.77,18.11,353.51,Net 60,Approved,13-04-2024
+INV000695,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,15-08-2024,Bread,34,pieces,10.55,36.15,394.85,Net 60,Rejected,14-10-2024
+INV000696,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,05-10-2024,Potatoes,116,kg,23.15,61.2,2746.6,Net 15,Approved,20-10-2024
+INV000697,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,18-10-2024,Olive Oil,35,liters,1.05,3.33,40.08,Net 60,Approved,17-12-2024
+INV000698,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,30-11-2024,Lemon,84,pieces,16.72,37.6,1442.08,Net 15,Approved,15-12-2024
+INV000699,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,23-04-2024,Potatoes,86,kg,11.55,85.62,1078.92,Net 30,Approved,23-05-2024
+INV000700,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,08-07-2024,Potatoes,60,kg,10.86,46.74,698.34,Net 60,Approved,06-09-2024
+INV000701,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,16-02-2025,Butter,47,kg,15.65,31.21,766.76,Net 45,Approved,02-04-2025
+INV000702,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,16-11-2024,Sugar,72,kg,16.86,105.17,1319.09,Net 15,Approved,01-12-2024
+INV000703,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,15-03-2025,Ice Cream Base,35,liters,24.59,75.02,935.67,Net 60,Rejected,14-05-2025
+INV000704,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,19-05-2024,Vanilla Essence,53,ml,17.68,43.21,980.25,Net 15,Approved,03-06-2024
+INV000705,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,12-05-2024,Black Pepper,46,grams,4.1,20.49,209.09,Net 30,Approved,11-06-2024
+INV000706,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,15-05-2024,Banana,35,kg,18.02,26.12,656.82,Net 45,Rejected,29-06-2024
+INV000707,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,02-03-2024,Vanilla Essence,47,ml,22.27,122.55,1169.24,Net 60,Approved,01-05-2024
+INV000708,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,18-04-2025,Cheese,17,kg,7.62,2.71,132.25,Net 15,Rejected,03-05-2025
+INV000709,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,24-10-2024,Cooking Oil,148,liters,25,99.9,3799.9,Net 30,Approved,23-11-2024
+INV000710,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,26-04-2025,Cheese,76,kg,9.61,39,769.36,Net 60,Approved,25-06-2025
+INV000711,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,06-07-2024,Ice Cream Base,67,liters,20.66,88.25,1472.47,Net 45,Approved,20-08-2024
+INV000712,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,21-01-2025,Paneer,64,kg,20.4,83.21,1388.81,Net 30,Approved,20-02-2025
+INV000713,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,28-03-2025,Yogurt,56,kg,14.73,69.54,894.42,Net 30,Rejected,27-04-2025
+INV000714,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,21-04-2024,Mutton,32,kg,22.21,33.86,744.58,Net 30,Approved,21-05-2024
+INV000715,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,29-06-2024,Mutton,61,kg,3.21,8.38,204.19,Net 15,Approved,14-07-2024
+INV000716,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,24-12-2024,Soda Water,146,liters,20.13,189.01,3127.99,Net 30,Approved,23-01-2025
+INV000717,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,10-05-2025,Ginger,78,kg,6.93,21.92,562.46,Net 15,Rejected,25-05-2025
+INV000718,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,16-07-2024,Milk,22,liters,21.96,22.08,505.2,Net 45,Approved,30-08-2024
+INV000719,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,22-12-2024,Cheese,92,kg,18.6,37.57,1748.77,Net 45,Approved,05-02-2025
+INV000720,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,17-07-2024,Cumin,73,grams,23.43,159.04,1869.43,Net 45,Approved,31-08-2024
+INV000721,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,08-01-2024,Rice,115,kg,2.03,14.85,248.3,Net 30,Approved,07-02-2024
+INV000722,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,27-12-2024,Chili Powder,132,grams,7.65,65.48,1075.28,Net 60,Approved,25-02-2025
+INV000723,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,11-08-2024,Flour,147,kg,19.69,195.71,3090.14,Net 15,Approved,26-08-2024
+INV000724,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,28-02-2025,Paneer,26,kg,14,13.91,377.91,Net 45,Approved,14-04-2025
+INV000725,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,02-05-2024,Green Peas,65,kg,6.43,30.47,448.42,Net 15,Approved,17-05-2024
+INV000726,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,27-02-2024,Pasta,39,kg,17.84,16.07,711.83,Net 30,Rejected,28-03-2024
+INV000727,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,09-12-2024,Rice,35,kg,7.74,16.8,287.7,Net 30,Approved,08-01-2025
+INV000728,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,25-09-2024,Cream,94,liters,3.48,12.56,339.68,Net 15,Approved,10-10-2024
+INV000729,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,01-04-2025,Mint Leaves,61,grams,12.62,78.89,848.71,Net 15,Pending,16-04-2025
+INV000730,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,20-08-2024,Flour,16,kg,22.89,20.65,386.89,Net 30,Approved,19-09-2024
+INV000731,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,11-05-2025,Chocolate Sauce,135,liters,12.38,164.86,1836.16,Net 15,Rejected,26-05-2025
+INV000732,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,25-11-2024,Turmeric,90,grams,16.59,47.48,1540.58,Net 45,Approved,09-01-2025
+INV000733,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,13-07-2024,Black Pepper,99,grams,6.82,74.76,749.94,Net 15,Approved,28-07-2024
+INV000734,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,20-12-2024,Wheat,23,kg,1.06,2.23,26.61,Net 45,Rejected,03-02-2025
+INV000735,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,22-08-2024,Salt,54,kg,6.84,23.37,392.73,Net 45,Approved,06-10-2024
+INV000736,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,03-06-2024,Chocolate Sauce,43,liters,9.55,18.22,428.87,Net 30,Approved,03-07-2024
+INV000737,Unknown Vendor Co.,"69594 Johnson Village, Hillshire, VI 90390",001-209-674-3953x39421,praviiabi@gmail.com,25-10-2024,Garlic,1,kg,20.87,1911.55,1932.42,Net 30,Approved,24-11-2024
+INV000738,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,08-12-2024,Turmeric,20,grams,22.72,44.78,499.18,Net 30,Approved,07-01-2025
+INV000739,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,26-01-2024,Vanilla Essence,57,ml,22.79,99.73,1398.76,Net 15,Approved,10-02-2024
+INV000740,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,26-03-2025,Tomatoes,117,kg,4.74,51.86,606.44,Net 15,Approved,10-04-2025
+INV000741,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,10-10-2024,Chili Powder,21,grams,8.07,8.66,178.13,Net 60,Approved,09-12-2024
+INV000742,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,12-04-2024,Chocolate Sauce,145,liters,4.83,45.44,745.79,Net 30,Approved,12-05-2024
+INV000743,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,11-03-2024,Chili Powder,136,grams,10.65,82.67,1531.07,Net 15,Approved,26-03-2024
+INV000744,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,17-08-2024,Wheat,25,kg,24.76,48.54,667.54,Net 60,Approved,16-10-2024
+INV000745,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,10-09-2024,Banana,83,kg,22.38,133.86,1991.4,Net 45,Approved,25-10-2024
+INV000746,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,18-11-2024,Garlic,47,kg,4.31,15.19,217.76,Net 45,Rejected,02-01-2025
+INV000747,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,16-05-2024,Cumin,47,grams,15.07,63.28,771.57,Net 15,Approved,31-05-2024
+INV000748,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,04-06-2024,Salt,148,kg,5.18,47.48,814.12,Net 60,Approved,03-08-2024
+INV000749,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,12-04-2024,Potatoes,62,kg,7.44,46.83,508.11,Net 45,Rejected,27-05-2024
+INV000750,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,22-02-2025,Eggs,20,pieces,1.56,2.33,33.53,Net 60,Rejected,23-04-2025
+INV000751,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,11-10-2024,Lemon,57,pieces,16.97,28.34,995.63,Net 30,Approved,10-11-2024
+INV000752,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,16-02-2025,Olive Oil,91,liters,9.09,90.66,917.85,Net 45,Approved,02-04-2025
+INV000753,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,24-01-2025,Lettuce,36,kg,14.94,30.56,568.4,Net 15,Approved,08-02-2025
+INV000754,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,30-07-2024,Pasta,145,kg,19.88,75.35,2957.95,Net 60,Approved,28-09-2024
+INV000755,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,07-05-2024,Carrots,59,kg,8.82,62.15,582.53,Net 15,Approved,22-05-2024
+INV000756,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,18-07-2024,Rice,27,kg,3.39,10.83,102.36,Net 60,Approved,16-09-2024
+INV000757,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,09-01-2025,Milk,37,liters,18.85,50.66,748.11,Net 15,Approved,24-01-2025
+INV000758,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,17-08-2024,Bacon,7,kg,24.6,9.23,181.43,Net 15,Approved,01-09-2024
+INV000759,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,20-09-2024,Mushrooms,140,kg,17.84,181.18,2678.78,Net 15,Approved,05-10-2024
+INV000760,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,30-03-2024,Cooking Oil,142,liters,12.56,67.23,1850.75,Net 30,Approved,29-04-2024
+INV000761,Unknown Vendor Co.,"USNS Webster, FPO AE 89148",001-868-751-6048x1754,praviiabi@gmail.com,29-12-2024,Cream,124,liters,24.13,186.79,3178.91,Net 45,Approved,12-02-2025
+INV000762,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,25-03-2024,Soft Drink Syrup,123,liters,5.76,19.84,728.32,Net 30,Approved,24-04-2024
+INV000763,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,30-06-2024,Turmeric,40,grams,19.65,67.64,853.64,Net 45,Approved,14-08-2024
+INV000764,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,01-01-2025,Tomatoes,48,kg,1.78,3.89,89.33,Net 60,Approved,02-03-2025
+INV000765,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,20-01-2024,Bell Pepper,139,kg,9.83,106.95,1473.32,Net 30,Approved,19-02-2024
+INV000766,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,26-04-2025,Vanilla Essence,32,ml,17.49,51.93,611.61,Net 45,Approved,10-06-2025
+INV000767,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,12-03-2025,Olive Oil,29,liters,20.28,23.9,612.02,Net 15,Rejected,27-03-2025
+INV000768,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,11-09-2024,Sugar,84,kg,22.21,42.29,1907.93,Net 15,Rejected,26-09-2024
+INV000769,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,18-04-2025,Chicken Breast,96,kg,18.91,183.7,1999.06,Net 30,Approved,18-05-2025
+INV000770,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,20-06-2024,Bell Pepper,128,kg,11.87,50.49,1569.85,Net 30,Approved,20-07-2024
+INV000771,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,18-05-2025,Onions,15,kg,2.38,2.48,38.18,Net 60,Approved,17-07-2025
+INV000772,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,19-02-2024,Sugar,70,kg,2.67,15.82,202.72,Net 60,Approved,19-04-2024
+INV000773,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,08-05-2025,Black Pepper,97,grams,17.15,98.73,1762.28,Net 15,Approved,23-05-2025
+INV000774,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,26-12-2024,Olive Oil,10,liters,17.11,19.23,190.33,Net 45,Approved,09-02-2025
+INV000775,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,22-08-2024,Mint Leaves,104,grams,20.7,48.66,2201.46,Net 60,Approved,21-10-2024
+INV000776,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,19-05-2025,Cumin,82,grams,16.89,56.24,1441.22,Net 60,Pending,18-07-2025
+INV000777,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,13-11-2024,Bacon,19,kg,12.18,5.38,236.8,Net 60,Approved,12-01-2025
+INV000778,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,31-03-2024,Cooking Oil,38,liters,25,80.54,1030.54,Net 60,Approved,30-05-2024
+INV000779,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,18-04-2024,Vanilla Essence,136,ml,13.14,38.41,1825.45,Net 30,Approved,18-05-2024
+INV000780,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,05-02-2024,Chili Powder,27,grams,1.35,1.76,38.21,Net 15,Approved,20-02-2024
+INV000781,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,29-01-2024,Garlic,102,kg,13.01,32.28,1359.3,Net 45,Approved,14-03-2024
+INV000782,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,24-08-2024,Ginger,59,kg,20.23,107.36,1300.93,Net 45,Approved,08-10-2024
+INV000783,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,17-01-2025,Chocolate Sauce,14,liters,24.64,17.06,362.02,Net 30,Approved,16-02-2025
+INV000784,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,31-03-2024,Lemon,35,pieces,6.8,14.59,252.59,Net 45,Approved,15-05-2024
+INV000785,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,16-03-2024,Carrots,7,kg,15.74,9.3,119.48,Net 30,Approved,15-04-2024
+INV000786,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,01-07-2024,Banana,8,kg,6.65,2.68,55.88,Net 60,Rejected,30-08-2024
+INV000787,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,21-02-2025,Bread,50,pieces,15.91,49.35,844.85,Net 30,Approved,23-03-2025
+INV000788,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,15-04-2024,Flour,12,kg,12.89,14.62,169.3,Net 60,Approved,14-06-2024
+INV000789,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,28-10-2024,Salt,43,kg,6.73,28.96,318.35,Net 45,Approved,12-12-2024
+INV000790,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,18-12-2024,Vanilla Essence,26,ml,8.72,22.61,249.33,Net 60,Approved,16-02-2025
+INV000791,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,15-10-2024,Potatoes,60,kg,19.06,117.27,1260.87,Net 30,Rejected,14-11-2024
+INV000792,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,23-02-2025,Bacon,90,kg,11.32,46.41,1065.21,Net 30,Approved,25-03-2025
+INV000793,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,21-11-2024,Chocolate Sauce,130,liters,3.54,39.08,499.28,Net 15,Approved,06-12-2024
+INV000794,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,01-04-2025,Chocolate Sauce,100,liters,6.47,72.54,719.54,Net 60,Pending,31-05-2025
+INV000795,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,30-04-2024,Chicken Breast,85,kg,14,55,1245,Net 15,Rejected,15-05-2024
+INV000796,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,18-11-2024,Turmeric,74,grams,8.79,68.07,718.53,Net 60,Approved,17-01-2025
+INV000797,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,23-05-2025,Chili Powder,57,grams,1.46,1.91,85.13,Net 45,Approved,07-07-2025
+INV000798,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,17-03-2024,Bell Pepper,28,kg,4.98,3.56,143,Net 45,Approved,01-05-2024
+INV000799,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,15-01-2025,Lettuce,39,kg,1.26,5.6,54.74,Net 30,Approved,14-02-2025
+INV000800,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,23-04-2025,Bell Pepper,52,kg,1.11,5.48,63.2,Net 45,Approved,07-06-2025
+INV000801,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,12-11-2024,Cooking Oil,78,liters,3.6,25.7,306.5,Net 15,Approved,27-11-2024
+INV000802,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,05-08-2024,Garlic,84,kg,22,212.77,2060.77,Net 45,Rejected,19-09-2024
+INV000803,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,26-01-2024,Garlic,128,kg,19.34,115.02,2590.54,Net 30,Approved,25-02-2024
+INV000804,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,14-10-2024,Yogurt,106,kg,8.05,76.54,929.84,Net 15,Rejected,29-10-2024
+INV000805,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,17-06-2024,Cream,134,liters,5.16,81.82,773.26,Net 60,Approved,16-08-2024
+INV000806,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,10-12-2024,Chicken Breast,41,kg,11.6,30.53,506.13,Net 15,Approved,25-12-2024
+INV000807,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,11-12-2024,Bacon,57,kg,15.12,91.36,953.2,Net 45,Approved,25-01-2025
+INV000808,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,02-07-2024,Mutton,53,kg,22.84,48.32,1258.84,Net 30,Approved,01-08-2024
+INV000809,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,08-10-2024,Lemon,14,pieces,24.7,20.72,366.52,Net 15,Approved,23-10-2024
+INV000810,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,18-03-2024,Lettuce,127,kg,13.71,53.02,1794.19,Net 15,Approved,02-04-2024
+INV000811,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,12-10-2024,Flour,38,kg,20.63,75.97,859.91,Net 60,Rejected,11-12-2024
+INV000812,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,26-02-2025,Bacon,140,kg,20.64,160.2,3049.8,Net 15,Approved,13-03-2025
+INV000813,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,15-05-2025,Tomatoes,148,kg,2.85,50.36,472.16,Net 30,Rejected,14-06-2025
+INV000814,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,05-10-2024,Sugar,50,kg,3.37,12.79,181.29,Net 30,Approved,04-11-2024
+INV000815,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,17-02-2024,Bread,48,pieces,2.63,6.36,132.6,Net 15,Rejected,03-03-2024
+INV000816,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,05-11-2024,Ice Cream Base,58,liters,5.86,14.24,354.12,Net 60,Approved,04-01-2025
+INV000817,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,02-08-2024,Tomatoes,149,kg,20.21,213.16,3224.45,Net 30,Approved,01-09-2024
+INV000818,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,27-05-2024,Green Peas,19,kg,22.73,33.8,465.67,Net 30,Approved,26-06-2024
+INV000819,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,04-04-2024,Ginger,47,kg,24.92,51.71,1222.95,Net 30,Approved,04-05-2024
+INV000820,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,19-12-2024,Cooking Oil,59,liters,5.92,1425.14,1774.42,Net 60,Approved,17-02-2025
+INV000821,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,12-03-2024,Olive Oil,106,liters,17.22,57.87,1883.19,Net 45,Rejected,26-04-2024
+INV000822,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,29-05-2025,Cooking Oil,14,liters,7.29,8.43,110.49,Net 45,Approved,13-07-2025
+INV000823,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,13-06-2024,Wheat,105,kg,12,78.75,1338.75,Net 60,Approved,12-08-2024
+INV000824,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,13-05-2025,Bell Pepper,114,kg,18.9,65.91,2220.51,Net 45,Approved,27-06-2025
+INV000825,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,11-05-2025,Lemon,128,pieces,1.25,3.82,163.82,Net 30,Approved,10-06-2025
+INV000826,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,08-04-2025,Garlic,28,kg,6.71,7.85,195.73,Net 45,Pending,23-05-2025
+INV000827,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,17-01-2024,Salt,131,kg,3.11,21.34,428.75,Net 60,Approved,17-03-2024
+INV000828,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,09-02-2024,Mutton,106,kg,8.94,109.39,1057.03,Net 45,Approved,25-03-2024
+INV000829,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,16-09-2024,Cheese,115,kg,2.68,13.69,321.89,Net 15,Approved,01-10-2024
+INV000830,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,08-07-2024,Cheese,30,kg,12.84,11.09,396.29,Net 15,Approved,23-07-2024
+INV000831,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,07-04-2024,Onions,74,kg,24.33,90.86,1891.28,Net 45,Approved,22-05-2024
+INV000832,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,14-03-2025,Spinach,18,kg,8.04,10.9,155.62,Net 30,Rejected,13-04-2025
+INV000833,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,08-06-2024,Yogurt,57,kg,4.96,30.05,312.77,Net 45,Approved,23-07-2024
+INV000834,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,23-02-2024,Paneer,137,kg,4.29,38.63,626.36,Net 15,Approved,09-03-2024
+INV000835,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,06-03-2025,Chili Powder,49,grams,1.79,2.89,90.6,Net 60,Pending,05-05-2025
+INV000836,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,09-06-2024,Milk,141,liters,16.63,156.16,2500.99,Net 30,Approved,09-07-2024
+INV000837,Unknown Vendor Co.,"2904 Vanessa Plains, Laurenville, TN 03880",(205)439-5024,praviiabi@gmail.com,31-03-2025,Ice Cream Base,1000,liters,14.02,1420.18,15440.18,Net 30,Approved,30-04-2025
+INV000838,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,22-11-2024,Fish Fillet,7,kg,23.08,6.8,168.36,Net 45,Approved,06-01-2025
+INV000839,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,12-02-2025,Onions,64,kg,20.03,82.27,1364.19,Net 45,Approved,29-03-2025
+INV000840,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,29-03-2024,Wheat,39,kg,22.5,46.34,923.84,Net 45,Rejected,13-05-2024
+INV000841,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,19-02-2024,Garlic,113,kg,7.96,97.91,997.39,Net 30,Approved,20-03-2024
+INV000842,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,04-01-2025,Soft Drink Syrup,72,liters,3.58,7.49,265.25,Net 60,Approved,05-03-2025
+INV000843,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,14-12-2024,Green Peas,124,kg,9.43,34.06,1203.38,Net 15,Approved,29-12-2024
+INV000844,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,08-10-2024,Turmeric,10,grams,2.43,1.59,25.89,Net 45,Approved,22-11-2024
+INV000845,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,02-02-2025,Bacon,94,kg,18.4,52.35,1781.95,Net 30,Approved,04-03-2025
+INV000846,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,06-04-2025,Cream,65,liters,15.13,71.2,1054.65,Net 15,Pending,21-04-2025
+INV000847,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,25-03-2024,Chicken Breast,94,kg,23.16,254.51,2431.55,Net 30,Approved,24-04-2024
+INV000848,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,17-12-2024,Lettuce,139,kg,15.56,214.67,2377.51,Net 60,Approved,15-02-2025
+INV000849,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,26-01-2025,Cheese,32,kg,16.21,10.73,529.45,Net 15,Approved,10-02-2025
+INV000850,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,21-06-2024,Cheese,113,kg,4.2,44.33,518.93,Net 30,Approved,21-07-2024
+INV000851,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,22-04-2025,Lemon,100,pieces,22.01,215.32,2416.32,Net 30,Approved,22-05-2025
+INV000852,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,03-02-2024,Vanilla Essence,52,ml,21.35,121.38,1231.58,Net 15,Approved,18-02-2024
+INV000853,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,26-05-2025,Salt,107,kg,24.73,286.1,2932.21,Net 15,Rejected,10-06-2025
+INV000854,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,09-02-2025,Cheese,69,kg,24.62,41.77,1740.55,Net 30,Approved,11-03-2025
+INV000855,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,22-08-2024,Black Pepper,101,grams,23.34,263.17,2620.51,Net 60,Approved,21-10-2024
+INV000856,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,21-12-2024,Milk,124,liters,6.14,19.05,780.41,Net 30,Approved,20-01-2025
+INV000857,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,14-05-2025,Flour,79,kg,8.62,32.65,713.63,Net 45,Approved,28-06-2025
+INV000858,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,25-01-2024,Banana,58,kg,12.79,37.87,779.69,Net 60,Approved,25-03-2024
+INV000859,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,17-02-2024,Coriander,30,grams,20.38,1645.54,2256.94,Net 15,Rejected,03-03-2024
+INV000860,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,07-01-2025,Pasta,18,kg,19.21,18.4,364.18,Net 45,Approved,21-02-2025
+INV000861,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,07-11-2024,Mushrooms,55,kg,7.39,46.21,452.66,Net 15,Approved,22-11-2024
+INV000862,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,27-11-2024,Spinach,95,kg,3.04,29.85,318.65,Net 45,Approved,11-01-2025
+INV000863,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,24-03-2024,Pasta,91,kg,3.37,29.78,336.45,Net 60,Approved,23-05-2024
+INV000864,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,15-01-2025,Lemon,116,pieces,5.34,64.09,683.53,Net 30,Approved,14-02-2025
+INV000865,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,10-12-2024,Sugar,18,kg,11.76,18.31,229.99,Net 60,Rejected,08-02-2025
+INV000866,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,27-02-2024,Cheese,2,kg,11.4,2.57,25.37,Net 60,Approved,27-04-2024
+INV000867,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,03-03-2024,Pasta,26,kg,19.21,25.13,524.59,Net 15,Approved,18-03-2024
+INV000868,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,07-09-2024,Onions,45,kg,12.03,24.99,566.34,Net 45,Approved,22-10-2024
+INV000869,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,17-04-2025,Yogurt,52,kg,4.7,15.89,260.29,Net 45,Approved,01-06-2025
+INV000870,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,25-04-2024,Bell Pepper,139,kg,5.46,25.5,784.44,Net 60,Rejected,24-06-2024
+INV000871,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,21-02-2024,Rice,115,kg,22.44,80.59,2661.19,Net 15,Approved,07-03-2024
+INV000872,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,08-04-2024,Mushrooms,139,kg,4.29,19.39,615.7,Net 60,Approved,07-06-2024
+INV000873,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,01-08-2024,Cumin,103,grams,10.37,121.48,1189.59,Net 15,Rejected,16-08-2024
+INV000874,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,29-04-2025,Chili Powder,97,grams,21.37,99.68,2172.57,Net 15,Approved,14-05-2025
+INV000875,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,06-05-2025,Paneer,9,kg,5.2,3.59,50.39,Net 45,Approved,20-06-2025
+INV000876,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,30-03-2025,Yogurt,80,kg,7.59,48.69,655.89,Net 45,Approved,14-05-2025
+INV000877,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,01-03-2025,Black Pepper,124,grams,16.59,88.11,2145.27,Net 15,Approved,16-03-2025
+INV000878,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,09-09-2024,Yogurt,102,kg,5.41,63.83,615.65,Net 15,Approved,24-09-2024
+INV000386,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,30-09-2024,Sugar,43,kg,9.31,27.68,428.01,Net 15,Approved,15-10-2024
+INV000880,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,09-04-2025,Cream,28,liters,5.39,15.24,166.16,Net 15,Pending,24-04-2025
+INV000881,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,16-02-2025,Bacon,32,kg,7.3,18.36,251.96,Net 30,Rejected,18-03-2025
+INV000882,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,17-08-2024,Garlic,37,kg,7.59,33.23,314.06,Net 45,Approved,01-10-2024
+INV000883,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,18-12-2024,Yogurt,56,kg,12.15,1913.68,2594.08,Net 45,Approved,01-02-2025
+INV000884,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,27-01-2025,Ice Cream Base,32,liters,19.76,50.05,682.37,Net 60,Approved,28-03-2025
+INV000885,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,15-04-2025,Chocolate Sauce,107,liters,21.74,195.2,2521.38,Net 15,Pending,30-04-2025
+INV000886,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,30-11-2024,Yogurt,66,kg,2.6,17.71,189.31,Net 15,Approved,15-12-2024
+INV000887,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,18-03-2024,Mint Leaves,39,grams,2.26,10.08,98.22,Net 45,Approved,02-05-2024
+INV000888,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,29-03-2024,Coriander,82,grams,19.39,107.01,1696.99,Net 15,Approved,13-04-2024
+INV000889,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,23-05-2025,Wheat,122,kg,11.09,158.72,1511.7,Net 15,Pending,07-06-2025
+INV000890,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,20-05-2025,Ice Cream Base,76,liters,15.9,111.89,1320.29,Net 30,Approved,19-06-2025
+INV000891,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,04-03-2025,Lemon,46,pieces,22.71,42.16,1086.82,Net 45,Approved,18-04-2025
+INV000892,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,16-06-2024,Sugar,106,kg,7.33,42.09,819.07,Net 45,Approved,31-07-2024
+INV000893,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,30-11-2024,Chili Powder,137,grams,18.76,295.36,2865.48,Net 30,Approved,30-12-2024
+INV000894,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,16-12-2024,Mutton,76,kg,3.61,13.05,287.41,Net 45,Approved,30-01-2025
+INV000895,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,26-06-2024,Lemon,15,pieces,24.19,39.2,402.05,Net 30,Approved,26-07-2024
+INV000896,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,17-11-2024,Flour,123,kg,8.62,119.08,1179.34,Net 15,Approved,02-12-2024
+INV000897,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,20-09-2024,Potatoes,123,kg,4.94,35.51,643.13,Net 60,Approved,19-11-2024
+INV000898,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,18-12-2024,Ice Cream Base,79,liters,11.33,98.69,993.76,Net 15,Approved,02-01-2025
+INV000899,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,05-11-2024,Lettuce,18,kg,7.67,12.2,150.26,Net 30,Approved,05-12-2024
+INV000900,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,19-11-2024,Soda Water,131,liters,11.55,40.89,1553.94,Net 30,Approved,19-12-2024
+INV000901,Unknown Vendor Co.,"452 Jones Village Apt. 161, Lisaside, AR 77370",'+1-685-716-5604,praviiabi@gmail.com,14-03-2024,Banana,1000,kg,2.02,178.52,2198.52,Net 30,Approved,13-04-2024
+INV000902,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,21-03-2024,Wheat,2,kg,2.57,0.2,5.34,Net 60,Approved,20-05-2024
+INV000903,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,24-03-2025,Green Peas,80,kg,23.21,190.71,2047.51,Net 45,Approved,08-05-2025
+INV000904,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,29-01-2025,Olive Oil,39,liters,7.82,15.3,320.28,Net 30,Rejected,28-02-2025
+INV000905,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,14-06-2024,Butter,100,kg,11.56,35.4,1191.4,Net 15,Approved,29-06-2024
+INV000906,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,30-04-2024,Onions,85,kg,6.8,68.38,646.38,Net 45,Approved,14-06-2024
+INV000907,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,25-05-2025,Rice,102,kg,1.28,6.57,137.13,Net 60,Pending,24-07-2025
+INV000908,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,09-01-2025,Garlic,139,kg,5.07,69.01,773.74,Net 45,Approved,23-02-2025
+INV000909,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,23-06-2024,Black Pepper,14,grams,3.65,5.62,56.72,Net 60,Rejected,22-08-2024
+INV000910,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,25-03-2024,Banana,23,kg,18.07,29.98,445.59,Net 60,Rejected,24-05-2024
+INV000911,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,28-09-2024,Green Peas,65,kg,6.39,30.13,445.48,Net 30,Approved,28-10-2024
+INV000912,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,08-03-2025,Onions,113,kg,11.73,77.45,1402.94,Net 15,Approved,23-03-2025
+INV000913,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,12-10-2024,Pasta,16,kg,12.84,22.28,227.72,Net 15,Approved,27-10-2024
+INV000914,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,30-03-2024,Bacon,146,kg,14.61,196.26,2329.32,Net 15,Approved,14-04-2024
+INV000915,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,04-08-2024,Cream,51,liters,8.6,30.72,469.32,Net 30,Approved,03-09-2024
+INV000916,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,21-03-2025,Pasta,24,kg,8.21,23.32,220.36,Net 15,Approved,05-04-2025
+INV000917,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,24-06-2024,Fish Fillet,42,kg,2.52,5.23,111.07,Net 15,Approved,09-07-2024
+INV000918,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,29-11-2024,Potatoes,55,kg,20.31,25.09,1142.14,Net 60,Approved,28-01-2025
+INV000919,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,11-03-2025,Cheese,96,kg,11.37,43.66,1135.18,Net 30,Approved,10-04-2025
+INV000920,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,27-04-2025,Turmeric,134,grams,15.8,236.78,2353.98,Net 15,Pending,12-05-2025
+INV000921,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,21-04-2025,Potatoes,135,kg,21.36,284.78,3168.38,Net 15,Approved,06-05-2025
+INV000922,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,14-05-2025,Mint Leaves,126,grams,24.71,200.46,3313.92,Net 45,Approved,28-06-2025
+INV000923,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,08-03-2025,Cumin,28,grams,24.75,21.93,714.93,Net 45,Approved,22-04-2025
+INV000924,Unknown Vendor Co.,"24455 Howard Divide Suite 120, Lake Alyssafurt, MT 59961",625-945-9910x22901,praviiabi@gmail.com,21-01-2024,Coriander,95,grams,9.79,82.69,1012.74,Net 15,Approved,05-02-2024
+INV000925,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,29-05-2025,Vanilla Essence,19,ml,16.14,25.33,331.99,Net 30,Rejected,28-06-2025
+INV000926,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,25-11-2024,Chocolate Sauce,136,liters,6.12,90.6,922.92,Net 45,Approved,09-01-2025
+INV000927,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,12-01-2025,Black Pepper,148,grams,3.36,16.99,514.27,Net 45,Approved,26-02-2025
+INV000928,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,16-04-2025,Sugar,124,kg,6.16,83.81,847.65,Net 45,Approved,31-05-2025
+INV000929,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,09-12-2024,Coriander,90,grams,16.17,67.34,1522.64,Net 15,Approved,24-12-2024
+INV000930,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,17-11-2024,Prawns,122,kg,5.46,50.65,716.77,Net 60,Rejected,16-01-2025
+INV000931,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,31-07-2024,Cumin,134,grams,5.74,30.09,799.25,Net 30,Rejected,30-08-2024
+INV000932,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,16-06-2024,Eggs,92,pieces,10.29,77.6,1024.28,Net 60,Approved,15-08-2024
+INV000933,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,01-02-2025,Sugar,112,kg,11.76,27.92,1345.04,Net 60,Approved,02-04-2025
+INV000934,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,29-03-2024,Garlic,56,kg,15.68,93.93,972.01,Net 60,Approved,28-05-2024
+INV000935,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,25-09-2024,Butter,57,kg,8.19,18,484.83,Net 30,Approved,25-10-2024
+INV000936,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,29-11-2024,Milk,26,liters,20.42,59.88,590.8,Net 45,Rejected,13-01-2025
+INV000937,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,27-03-2024,Chicken Breast,81,kg,20.29,126.88,1770.37,Net 45,Approved,11-05-2024
+INV000938,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,08-08-2024,Fish Fillet,1,kg,5.95,0.31,6.26,Net 15,Approved,23-08-2024
+INV000939,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,05-04-2025,Cheese,109,kg,18.37,234.13,2236.46,Net 60,Approved,04-06-2025
+INV000940,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,12-01-2025,Mint Leaves,100,grams,9.24,55.64,979.64,Net 60,Approved,13-03-2025
+INV000941,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,13-02-2025,Rice,117,kg,12.13,156.3,1575.51,Net 45,Approved,30-03-2025
+INV000942,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,27-08-2024,Mint Leaves,85,grams,13.81,63.77,1237.62,Net 60,Rejected,26-10-2024
+INV000943,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,05-02-2024,Cream,59,liters,22.55,83.29,1413.74,Net 60,Approved,05-04-2024
+INV000944,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,20-06-2024,Flour,132,kg,24.72,85.62,3348.66,Net 45,Approved,04-08-2024
+INV000945,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,03-11-2024,Banana,80,kg,22.49,127.54,1926.74,Net 60,Approved,02-01-2025
+INV000946,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,10-04-2025,Sugar,59,kg,14.8,33.6,906.8,Net 30,Approved,10-05-2025
+INV000947,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,12-02-2024,Pasta,78,kg,25.41,220.75,2202.73,Net 15,Approved,27-02-2024
+INV000948,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,06-01-2024,Cream,135,liters,15.97,128.16,2284.11,Net 45,Approved,20-02-2024
+INV000949,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,07-06-2024,Salt,87,kg,5.6,19.62,506.82,Net 45,Approved,22-07-2024
+INV000950,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,22-08-2024,Coriander,54,grams,9.39,45.86,552.92,Net 60,Approved,21-10-2024
+INV000951,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,13-06-2024,Chili Powder,39,grams,3.53,15.32,152.99,Net 30,Approved,13-07-2024
+INV000952,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,16-04-2024,Sugar,33,kg,6.27,5.78,212.69,Net 15,Approved,01-05-2024
+INV000953,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,17-07-2024,Potatoes,73,kg,19.8,123.74,1569.14,Net 15,Approved,01-08-2024
+INV000954,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,12-08-2024,Paneer,140,kg,8.49,51.29,1239.89,Net 15,Approved,27-08-2024
+INV000955,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,11-09-2024,Eggs,51,pieces,16.39,43.69,879.58,Net 15,Approved,26-09-2024
+INV000956,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,03-04-2024,Cream,25,liters,1.55,4.14,42.89,Net 45,Approved,18-05-2024
+INV000957,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,07-01-2024,Butter,84,kg,22.45,187.52,2073.32,Net 45,Rejected,21-02-2024
+INV000958,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,21-01-2025,Chicken Breast,24,kg,10.5,15.33,267.33,Net 45,Approved,07-03-2025
+INV000959,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,30-11-2024,Carrots,80,kg,18.84,99.79,1606.99,Net 60,Approved,29-01-2025
+INV000960,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,16-05-2024,Mint Leaves,20,grams,20.7,38.98,452.98,Net 60,Rejected,15-07-2024
+INV000961,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,10-04-2024,Bacon,64,kg,14.46,66.7,992.14,Net 30,Approved,10-05-2024
+INV000962,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,22-10-2024,Pasta,121,kg,16.15,145.29,2099.44,Net 45,Approved,06-12-2024
+INV000963,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,17-02-2025,Soda Water,97,liters,18.78,161.87,1983.53,Net 15,Approved,04-03-2025
+INV000964,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,27-06-2024,Bacon,96,kg,13.75,138.59,1458.59,Net 60,Approved,26-08-2024
+INV000965,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,23-01-2025,Milk,147,liters,20.44,344.9,3349.58,Net 30,Approved,22-02-2025
+INV000966,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,09-03-2025,Spinach,6,kg,5.16,1.1,32.06,Net 30,Pending,08-04-2025
+INV000967,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,02-10-2024,Yogurt,19,kg,12.2,21.16,252.96,Net 30,Rejected,01-11-2024
+INV000968,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,25-02-2024,Chocolate Sauce,115,liters,5.9,65.82,744.32,Net 60,Approved,25-04-2024
+INV000969,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,04-11-2024,Turmeric,94,grams,12.97,52.2,1271.38,Net 30,Approved,04-12-2024
+INV000970,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,02-02-2024,Wheat,33,kg,8.02,14.5,279.16,Net 15,Approved,17-02-2024
+INV000971,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,04-12-2024,Bread,115,pieces,5.47,26.31,655.36,Net 45,Approved,18-01-2025
+INV000972,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,15-01-2024,Bell Pepper,60,kg,14.89,22.17,915.57,Net 45,Approved,29-02-2024
+INV000973,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,23-12-2024,Fish Fillet,131,kg,16.41,44.18,2193.89,Net 60,Approved,21-02-2025
+INV000974,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,01-03-2024,Rice,1000,kg,15.82,1824.46,17644.46,Net 15,Approved,16-03-2024
+INV000975,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,31-08-2024,Potatoes,148,kg,4.7,64.63,760.23,Net 45,Approved,15-10-2024
+INV000976,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,23-03-2025,Cream,52,liters,2,8.41,112.41,Net 30,Approved,22-04-2025
+INV000977,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,29-11-2024,Lettuce,14,kg,9.18,7.68,136.2,Net 30,Approved,29-12-2024
+INV000978,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,21-03-2025,Cooking Oil,27,liters,9.11,29.02,274.99,Net 45,Pending,05-05-2025
+INV000979,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,10-11-2024,Olive Oil,107,liters,6.69,84.21,800.04,Net 45,Approved,25-12-2024
+INV000980,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,12-05-2025,Chili Powder,63,grams,2.56,3.91,165.19,Net 60,Rejected,11-07-2025
+INV000981,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,20-11-2024,Chicken Breast,106,kg,12.15,35.5,1323.4,Net 30,Approved,20-12-2024
+INV000982,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,12-08-2024,Bell Pepper,145,kg,7.57,48.58,1146.23,Net 15,Approved,27-08-2024
+INV000983,Dairy Delights,"809 Burns Creek, Natashaport, IA 08093",6465551188,praviiabi@gmail.com,30-03-2024,Bread,73,pieces,20.75,89.45,1604.2,Net 45,Rejected,14-05-2024
+INV000984,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,10-11-2024,Bread,112,pieces,14.16,100.17,1686.09,Net 60,Approved,09-01-2025
+INV000985,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,17-01-2024,Yogurt,19,kg,21.11,43.12,444.21,Net 60,Approved,17-03-2024
+INV000986,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,09-09-2024,Onions,124,kg,6.83,92.62,939.54,Net 60,Rejected,08-11-2024
+INV000987,BeverageBay,"514 Moore Alley Suite 828, Port Colleenhaven, PA 26572",6465559911,praviiabi@gmail.com,13-05-2024,Black Pepper,55,grams,24.75,100.61,1461.86,Net 15,Approved,28-05-2024
+INV000988,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,25-04-2025,Wheat,75,kg,14.95,65.91,1187.16,Net 60,Rejected,24-06-2025
+INV000989,SpiceHub,"76724 John Points Suite 969, Coxberg, NY 65187",4085559921,praviiabi@gmail.com,23-12-2024,Bell Pepper,130,kg,18.47,101.84,2502.94,Net 15,Approved,07-01-2025
+INV000990,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,08-10-2024,Chocolate Sauce,40,liters,24.86,76.21,1070.61,Net 45,Approved,22-11-2024
+INV000991,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,09-03-2024,Black Pepper,131,grams,2.93,43.57,427.4,Net 15,Approved,24-03-2024
+INV000992,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,05-12-2024,Mutton,76,kg,7.36,62.53,621.89,Net 15,Rejected,20-12-2024
+INV000993,OilWell Traders,"341 Michelle Light, Shawnstad, GA 49021",4155557832,praviiabi@gmail.com,23-03-2024,Potatoes,121,kg,19.11,229.25,2541.56,Net 30,Approved,22-04-2024
+INV000994,MeatMaster Co,"71822 Arroyo Expressway, Allisonchester, IL 71187",3235552290,praviiabi@gmail.com,07-07-2024,Black Pepper,127,grams,3.07,13.32,403.21,Net 30,Approved,06-08-2024
+INV000995,FreshFarm Produce,"386 Shane Harbors, Port Lindachester, MA 36922",2125551034,praviiabi@gmail.com,04-12-2024,Bell Pepper,17,kg,15.57,13,277.69,Net 45,Rejected,18-01-2025
+INV000996,DessertCart,"433 Jill Springs, New Roberttown, CO 29158",9175552233,praviiabi@gmail.com,02-04-2025,Paneer,76,kg,1.74,10.57,142.81,Net 15,Pending,17-04-2025
+INV000997,Golden Grains,"16155 Roman Stream Suite 816, New Kellystad, OK 25704",3125556754,praviiabi@gmail.com,07-11-2024,Cheese,40,kg,9.61,15.09,399.49,Net 60,Approved,06-01-2025
+INV000998,SeaCatch Ltd.,"22691 James Mountain, Tashatown, TX 94967",7135558321,praviiabi@gmail.com,10-02-2025,Cumin,104,grams,15.09,133.35,1702.71,Net 30,Rejected,12-03-2025
+INV000999,Organic Fruits Co.,"192 Frank Light Suite 835, East Lydiamouth, MO 35594",8185553300,praviiabi@gmail.com,02-03-2024,Soft Drink Syrup,107,liters,13.91,77.82,1566.19,Net 60,Approved,01-05-2024
