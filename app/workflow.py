@@ -231,30 +231,55 @@ def node_route(state: InvoiceState) -> InvoiceState:
             "manager_comment": decision.get("comment"),
         })
 
-    # -----------------------------
-    # FINANCE EMAIL (ALWAYS)
-    # -----------------------------
-    if finance_email_address and summary.get("email_body_finance"):
+    return new_state
+
+
+# -------------------------------------------------------
+# NODE 6
+# -------------------------------------------------------
+
+def node_send_finance(state: InvoiceState) -> InvoiceState:
+    summary = state.get("analyzed_summary", {})
+    detailed = state.get("analyzed_detailed", {})
+    finance_email = state.get("finance_email")
+
+    if finance_email and summary.get("email_body_finance"):
         send_to_finance(
             summary=summary,
             detailed_invoice=detailed.get("invoice", {}),
-            finance_email=finance_email_address
+            finance_email=finance_email
         )
 
-    # -----------------------------
-    # VENDOR EMAIL (ONLY IF REJECTED)
-    # -----------------------------
-    if not approve and summary.get("email_body_vendor"):
+    return state
+
+
+# -------------------------------------------------------
+# NODE 7
+# -------------------------------------------------------
+
+
+def node_send_vendor(state: InvoiceState) -> InvoiceState:
+    summary = state.get("analyzed_summary", {})
+    detailed = state.get("analyzed_detailed", {})
+
+    if summary.get("email_body_vendor"):
         send_to_vendor(
             parsed_invoice=detailed.get("invoice", {}),
             vendor_email=summary.get("email_subject_vendor")
         )
 
-    return new_state
+    return state
 
 
-def route_after_manager(_state):
-    return "route"
+def route_after_manager(state: InvoiceState):
+    decision = state.get("manager_decision", {})
+    approve = decision.get("approve")
+
+    if approve:
+        return "send_finance"
+    else:
+        return "send_vendor"
+
 
 
 # -------------------------------------------------------
@@ -265,14 +290,25 @@ graph.add_node("extract", node_extract)
 graph.add_node("analyze", node_analyze)
 graph.add_node("manager_decision", node_manager_decision)
 graph.add_node("route", node_route)
+graph.add_node("send_finance", node_send_finance)
+graph.add_node("send_vendor", node_send_vendor)
 
 graph.add_edge(START, "ocr")
 graph.add_edge("ocr", "extract")
 graph.add_edge("extract", "analyze")
 graph.add_edge("analyze", "manager_decision")
+graph.add_edge("manager_decision", "route")
 
-graph.add_conditional_edges("manager_decision", route_after_manager, {"route": "route"})
-graph.add_edge("route", END)
+graph.add_conditional_edges(
+    "route",
+    route_after_manager,
+    {
+        "send_finance": "send_finance",
+        "send_vendor": "send_vendor",
+    }
+)
 
+graph.add_edge("send_finance", END)
+graph.add_edge("send_vendor", END)
 memory = MemorySaver()
 workflow = graph.compile(checkpointer=memory)
