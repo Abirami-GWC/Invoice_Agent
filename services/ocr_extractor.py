@@ -1,8 +1,16 @@
 # services/ocr_extraction.py
 
+import os
+import shutil
+
 import pytesseract
 
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+# Windows default install path; on Linux (Docker/Cloud Run) rely on PATH instead
+_WIN_TESSERACT = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+if os.name == "nt" and os.path.exists(_WIN_TESSERACT):
+    pytesseract.pytesseract.tesseract_cmd = _WIN_TESSERACT
+elif shutil.which("tesseract"):
+    pytesseract.pytesseract.tesseract_cmd = shutil.which("tesseract")
 
 import io
 import numpy as np
