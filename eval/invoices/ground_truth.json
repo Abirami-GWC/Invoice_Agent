@@ -1,0 +1,2011 @@
+[
+ {
+  "file": "inv_001.png",
+  "category": "clean",
+  "expected_anomalies": [],
+  "invoice_no": "INV-20260001",
+  "vendor": "GrainMill Co",
+  "invoice_date_iso": "2026-10-09",
+  "invoice_date_printed": "09/10/2026",
+  "payment_terms": "Net 30 Days",
+  "items": [
+   {
+    "material_name": "Rice",
+    "quantity": 48,
+    "unit": "kg",
+    "unit_price": 47.17,
+    "line_total": 2264.16
+   },
+   {
+    "material_name": "Wheat Flour",
+    "quantity": 39,
+    "unit": "kg",
+    "unit_price": 45.87,
+    "line_total": 1788.93
+   },
+   {
+    "material_name": "Ghee",
+    "quantity": 32,
+    "unit": "kg",
+    "unit_price": 498.5,
+    "line_total": 15952.0
+   },
+   {
+    "material_name": "Milk",
+    "quantity": 10,
+    "unit": "kg",
+    "unit_price": 50.96,
+    "line_total": 509.6
+   },
+   {
+    "material_name": "Butter",
+    "quantity": 37,
+    "unit": "kg",
+    "unit_price": 61.22,
+    "line_total": 2265.14
+   }
+  ],
+  "subtotal": 22779.83,
+  "tax_amount": 1138.99,
+  "total_price": 23918.82
+ },
+ {
+  "file": "inv_002.png",
+  "category": "clean",
+  "expected_anomalies": [],
+  "invoice_no": "INV-20260002",
+  "vendor": "Green Valley Foods",
+  "invoice_date_iso": "2026-07-01",
+  "invoice_date_printed": "2026-07-01",
+  "payment_terms": "Net 45 Days",
+  "items": [
+   {
+    "material_name": "Coriander",
+    "quantity": 49,
+    "unit": "kg",
+    "unit_price": 88.61,
+    "line_total": 4341.89
+   },
+   {
+    "material_name": "Rice",
+    "quantity": 22,
+    "unit": "kg",
+    "unit_price": 41.9,
+    "line_total": 921.8
+   },
+   {
+    "material_name": "Turmeric",
+    "quantity": 53,
+    "unit": "kg",
+    "unit_price": 48.37,
+    "line_total": 2563.61
+   },
+   {
+    "material_name": "Milk",
+    "quantity": 10,
+    "unit": "kg",
+    "unit_price": 52.7,
+    "line_total": 527.0
+   }
+  ],
+  "subtotal": 8354.3,
+  "tax_amount": 417.71,
+  "total_price": 8772.01
+ },
+ {
+  "file": "inv_003.png",
+  "category": "clean",
+  "expected_anomalies": [],
+  "invoice_no": "INV-20260003",
+  "vendor": "Spice Route Traders",
+  "invoice_date_iso": "2025-12-16",
+  "invoice_date_printed": "16 Dec 2025",
+  "payment_terms": "Net 15 Days",
+  "items": [
+   {
+    "material_name": "Turmeric",
+    "quantity": 29,
+    "unit": "kg",
+    "unit_price": 45.79,
+    "line_total": 1327.91
+   },
+   {
+    "material_name": "Paneer",
+    "quantity": 23,
+    "unit": "kg",
+    "unit_price": 341.08,
+    "line_total": 7844.84
+   },
+   {
+    "material_name": "Banana",
+    "quantity": 44,
+    "unit": "kg",
+    "unit_price": 43.08,
+    "line_total": 1895.52
+   },
+   {
+    "material_name": "Butter",
+    "quantity": 28,
+    "unit": "kg",
+    "unit_price": 60.93,
+    "line_total": 1706.04
+   }
+  ],
+  "subtotal": 12774.31,
+  "tax_amount": 638.72,
+  "total_price": 13413.03
+ },
+ {
+  "file": "inv_004.png",
+  "category": "clean",
+  "expected_anomalies": [],
+  "invoice_no": "INV-20260004",
+  "vendor": "Golden Grains",
+  "invoice_date_iso": "2025-09-21",
+  "invoice_date_printed": "Sep 21, 2025",
+  "payment_terms": "Net 15 Days",
+  "items": [
+   {
+    "material_name": "Butter",
+    "quantity": 22,
+    "unit": "kg",
+    "unit_price": 59.44,
+    "line_total": 1307.68
+   },
+   {
+    "material_name": "Wheat Flour",
+    "quantity": 58,
+    "unit": "kg",
+    "unit_price": 48.65,
+    "line_total": 2821.7
+   },
+   {
+    "material_name": "Oats",
+    "quantity": 28,
+    "unit": "kg",
+    "unit_price": 116.53,
+    "line_total": 3262.84
+   },
+   {
+    "material_name": "Salt",
+    "quantity": 47,
+    "unit": "kg",
+    "unit_price": 19.07,
+    "line_total": 896.29
+   }
+  ],
+  "subtotal": 8288.51,
+  "tax_amount": 414.43,
+  "total_price": 8702.94
+ },
+ {
+  "file": "inv_005.png",
+  "category": "clean",
+  "expected_anomalies": [],
+  "invoice_no": "INV-20260005",
+  "vendor": "Dairy Delights",
+  "invoice_date_iso": "2026-01-21",
+  "invoice_date_printed": "21-Jan-2026",
+  "payment_terms": "Net 60 Days",
+  "items": [
+   {
+    "material_name": "Wheat Flour",
+    "quantity": 45,
+    "unit": "kg",
+    "unit_price": 51.88,
+    "line_total": 2334.6
+   },
+   {
+    "material_name": "Milk",
+    "quantity": 19,
+    "unit": "kg",
+    "unit_price": 55.99,
+    "line_total": 1063.81
+   },
+   {
+    "material_name": "Paneer",
+    "quantity": 58,
+    "unit": "kg",
+    "unit_price": 337.17,
+    "line_total": 19555.86
+   },
+   {
+    "material_name": "Salt",
+    "quantity": 8,
+    "unit": "kg",
+    "unit_price": 18.92,
+    "line_total": 151.36
+   },
+   {
+    "material_name": "Rice",
+    "quantity": 7,
+    "unit": "kg",
+    "unit_price": 47.75,
+    "line_total": 334.25
+   }
+  ],
+  "subtotal": 23439.88,
+  "tax_amount": 1171.99,
+  "total_price": 24611.87
+ },
+ {
+  "file": "inv_006.png",
+  "category": "clean",
+  "expected_anomalies": [],
+  "invoice_no": "INV-20260006",
+  "vendor": "FreshFarm Produce",
+  "invoice_date_iso": "2026-09-18",
+  "invoice_date_printed": "18/09/2026",
+  "payment_terms": "Net 45 Days",
+  "items": [
+   {
+    "material_name": "Coriander",
+    "quantity": 46,
+    "unit": "kg",
+    "unit_price": 89.99,
+    "line_total": 4139.54
+   },
+   {
+    "material_name": "Sugar",
+    "quantity": 46,
+    "unit": "kg",
+    "unit_price": 41.65,
+    "line_total": 1915.9
+   },
+   {
+    "material_name": "Wheat Flour",
+    "quantity": 21,
+    "unit": "kg",
+    "unit_price": 46.4,
+    "line_total": 974.4
+   }
+  ],
+  "subtotal": 7029.84,
+  "tax_amount": 351.49,
+  "total_price": 7381.33
+ },
+ {
+  "file": "inv_007.png",
+  "category": "clean",
+  "expected_anomalies": [],
+  "invoice_no": "INV-20260007",
+  "vendor": "Green Valley Foods",
+  "invoice_date_iso": "2025-12-27",
+  "invoice_date_printed": "2025-12-27",
+  "payment_terms": "Net 15 Days",
+  "items": [
+   {
+    "material_name": "Sugar",
+    "quantity": 36,
+    "unit": "kg",
+    "unit_price": 38.56,
+    "line_total": 1388.16
+   },
+   {
+    "material_name": "Wheat Flour",
+    "quantity": 8,
+    "unit": "kg",
+    "unit_price": 53.61,
+    "line_total": 428.88
+   },
+   {
+    "material_name": "Milk",
+    "quantity": 14,
+    "unit": "kg",
+    "unit_price": 55.38,
+    "line_total": 775.32
+   },
+   {
+    "material_name": "Banana",
+    "quantity": 55,
+    "unit": "kg",
+    "unit_price": 41.44,
+    "line_total": 2279.2
+   }
+  ],
+  "subtotal": 4871.56,
+  "tax_amount": 243.58,
+  "total_price": 5115.14
+ },
+ {
+  "file": "inv_008.png",
+  "category": "clean",
+  "expected_anomalies": [],
+  "invoice_no": "INV-20260008",
+  "vendor": "Green Valley Foods",
+  "invoice_date_iso": "2026-04-09",
+  "invoice_date_printed": "09 Apr 2026",
+  "payment_terms": "Net 60 Days",
+  "items": [
+   {
+    "material_name": "Paneer",
+    "quantity": 48,
+    "unit": "kg",
+    "unit_price": 334.13,
+    "line_total": 16038.24
+   },
+   {
+    "material_name": "Banana",
+    "quantity": 48,
+    "unit": "kg",
+    "unit_price": 43.08,
+    "line_total": 2067.84
+   },
+   {
+    "material_name": "Rice",
+    "quantity": 53,
+    "unit": "kg",
+    "unit_price": 42.9,
+    "line_total": 2273.7
+   },
+   {
+    "material_name": "Ghee",
+    "quantity": 46,
+    "unit": "kg",
+    "unit_price": 532.42,
+    "line_total": 24491.32
+   },
+   {
+    "material_name": "Turmeric",
+    "quantity": 23,
+    "unit": "kg",
+    "unit_price": 49.35,
+    "line_total": 1135.05
+   }
+  ],
+  "subtotal": 46006.15,
+  "tax_amount": 2300.31,
+  "total_price": 48306.46
+ },
+ {
+  "file": "inv_009.png",
+  "category": "clean",
+  "expected_anomalies": [],
+  "invoice_no": "INV-20260009",
+  "vendor": "FreshHarvest Ltd",
+  "invoice_date_iso": "2025-10-17",
+  "invoice_date_printed": "Oct 17, 2025",
+  "payment_terms": "Net 15 Days",
+  "items": [
+   {
+    "material_name": "Rice",
+    "quantity": 60,
+    "unit": "kg",
+    "unit_price": 46.13,
+    "line_total": 2767.8
+   },
+   {
+    "material_name": "Banana",
+    "quantity": 58,
+    "unit": "kg",
+    "unit_price": 41.11,
+    "line_total": 2384.38
+   },
+   {
+    "material_name": "Milk",
+    "quantity": 43,
+    "unit": "kg",
+    "unit_price": 50.75,
+    "line_total": 2182.25
+   },
+   {
+    "material_name": "Ghee",
+    "quantity": 28,
+    "unit": "kg",
+    "unit_price": 578.88,
+    "line_total": 16208.64
+   },
+   {
+    "material_name": "Butter",
+    "quantity": 39,
+    "unit": "kg",
+    "unit_price": 65.44,
+    "line_total": 2552.16
+   }
+  ],
+  "subtotal": 26095.23,
+  "tax_amount": 1304.76,
+  "total_price": 27399.99
+ },
+ {
+  "file": "inv_010.png",
+  "category": "clean",
+  "expected_anomalies": [],
+  "invoice_no": "INV-20260010",
+  "vendor": "Sunrise Wholesale",
+  "invoice_date_iso": "2026-10-12",
+  "invoice_date_printed": "12-Oct-2026",
+  "payment_terms": "Net 15 Days",
+  "items": [
+   {
+    "material_name": "Sugar",
+    "quantity": 8,
+    "unit": "kg",
+    "unit_price": 39.82,
+    "line_total": 318.56
+   },
+   {
+    "material_name": "Rice",
+    "quantity": 41,
+    "unit": "kg",
+    "unit_price": 49.02,
+    "line_total": 2009.82
+   },
+   {
+    "material_name": "Wheat Flour",
+    "quantity": 10,
+    "unit": "kg",
+    "unit_price": 52.32,
+    "line_total": 523.2
+   }
+  ],
+  "subtotal": 2851.58,
+  "tax_amount": 142.58,
+  "total_price": 2994.16
+ },
+ {
+  "file": "inv_011.png",
+  "category": "clean",
+  "expected_anomalies": [],
+  "invoice_no": "INV-20260011",
+  "vendor": "Dairy Delights",
+  "invoice_date_iso": "2026-08-17",
+  "invoice_date_printed": "17/08/2026",
+  "payment_terms": "Net 60 Days",
+  "items": [
+   {
+    "material_name": "Paneer",
+    "quantity": 18,
+    "unit": "kg",
+    "unit_price": 347.45,
+    "line_total": 6254.1
+   },
+   {
+    "material_name": "Banana",
+    "quantity": 53,
+    "unit": "kg",
+    "unit_price": 41.84,
+    "line_total": 2217.52
+   },
+   {
+    "material_name": "Milk",
+    "quantity": 17,
+    "unit": "kg",
+    "unit_price": 56.3,
+    "line_total": 957.1
+   },
+   {
+    "material_name": "Rice",
+    "quantity": 30,
+    "unit": "kg",
+    "unit_price": 49.46,
+    "line_total": 1483.8
+   },
+   {
+    "material_name": "Salt",
+    "quantity": 46,
+    "unit": "kg",
+    "unit_price": 19.49,
+    "line_total": 896.54
+   }
+  ],
+  "subtotal": 11809.06,
+  "tax_amount": 590.45,
+  "total_price": 12399.51
+ },
+ {
+  "file": "inv_012.png",
+  "category": "clean",
+  "expected_anomalies": [],
+  "invoice_no": "INV-20260012",
+  "vendor": "GrainMill Co",
+  "invoice_date_iso": "2026-06-17",
+  "invoice_date_printed": "2026-06-17",
+  "payment_terms": "Net 15 Days",
+  "items": [
+   {
+    "material_name": "Butter",
+    "quantity": 42,
+    "unit": "kg",
+    "unit_price": 60.65,
+    "line_total": 2547.3
+   },
+   {
+    "material_name": "Sugar",
+    "quantity": 42,
+    "unit": "kg",
+    "unit_price": 39.65,
+    "line_total": 1665.3
+   },
+   {
+    "material_name": "Turmeric",
+    "quantity": 9,
+    "unit": "kg",
+    "unit_price": 52.08,
+    "line_total": 468.72
+   }
+  ],
+  "subtotal": 4681.32,
+  "tax_amount": 234.07,
+  "total_price": 4915.39
+ },
+ {
+  "file": "inv_013.png",
+  "category": "clean",
+  "expected_anomalies": [],
+  "invoice_no": "INV-20260013",
+  "vendor": "FreshHarvest Ltd",
+  "invoice_date_iso": "2026-05-05",
+  "invoice_date_printed": "05 May 2026",
+  "payment_terms": "Net 30 Days",
+  "items": [
+   {
+    "material_name": "Banana",
+    "quantity": 47,
+    "unit": "kg",
+    "unit_price": 39.88,
+    "line_total": 1874.36
+   },
+   {
+    "material_name": "Wheat Flour",
+    "quantity": 39,
+    "unit": "kg",
+    "unit_price": 46.32,
+    "line_total": 1806.48
+   },
+   {
+    "material_name": "Rice",
+    "quantity": 41,
+    "unit": "kg",
+    "unit_price": 45.69,
+    "line_total": 1873.29
+   }
+  ],
+  "subtotal": 5554.13,
+  "tax_amount": 277.71,
+  "total_price": 5831.84
+ },
+ {
+  "file": "inv_014.png",
+  "category": "clean",
+  "expected_anomalies": [],
+  "invoice_no": "INV-20260014",
+  "vendor": "Sunrise Wholesale",
+  "invoice_date_iso": "2026-03-27",
+  "invoice_date_printed": "Mar 27, 2026",
+  "payment_terms": "Net 15 Days",
+  "items": [
+   {
+    "material_name": "Butter",
+    "quantity": 27,
+    "unit": "kg",
+    "unit_price": 59.08,
+    "line_total": 1595.16
+   },
+   {
+    "material_name": "Oats",
+    "quantity": 34,
+    "unit": "kg",
+    "unit_price": 128.73,
+    "line_total": 4376.82
+   },
+   {
+    "material_name": "Salt",
+    "quantity": 8,
+    "unit": "kg",
+    "unit_price": 20.69,
+    "line_total": 165.52
+   }
+  ],
+  "subtotal": 6137.5,
+  "tax_amount": 306.88,
+  "total_price": 6444.38
+ },
+ {
+  "file": "inv_015.png",
+  "category": "clean",
+  "expected_anomalies": [],
+  "invoice_no": "INV-20260015",
+  "vendor": "FreshHarvest Ltd",
+  "invoice_date_iso": "2026-03-29",
+  "invoice_date_printed": "29-Mar-2026",
+  "payment_terms": "Net 15 Days",
+  "items": [
+   {
+    "material_name": "Sugar",
+    "quantity": 39,
+    "unit": "kg",
+    "unit_price": 41.57,
+    "line_total": 1621.23
+   },
+   {
+    "material_name": "Butter",
+    "quantity": 32,
+    "unit": "kg",
+    "unit_price": 56.2,
+    "line_total": 1798.4
+   },
+   {
+    "material_name": "Wheat Flour",
+    "quantity": 34,
+    "unit": "kg",
+    "unit_price": 47.5,
+    "line_total": 1615.0
+   },
+   {
+    "material_name": "Coriander",
+    "quantity": 9,
+    "unit": "kg",
+    "unit_price": 88.98,
+    "line_total": 800.82
+   },
+   {
+    "material_name": "Banana",
+    "quantity": 60,
+    "unit": "kg",
+    "unit_price": 42.85,
+    "line_total": 2571.0
+   }
+  ],
+  "subtotal": 8406.45,
+  "tax_amount": 420.32,
+  "total_price": 8826.77
+ },
+ {
+  "file": "inv_016.png",
+  "category": "clean",
+  "expected_anomalies": [],
+  "invoice_no": "INV-20260016",
+  "vendor": "FreshHarvest Ltd",
+  "invoice_date_iso": "2026-09-04",
+  "invoice_date_printed": "04/09/2026",
+  "payment_terms": "Net 60 Days",
+  "items": [
+   {
+    "material_name": "Milk",
+    "quantity": 35,
+    "unit": "kg",
+    "unit_price": 50.91,
+    "line_total": 1781.85
+   },
+   {
+    "material_name": "Salt",
+    "quantity": 30,
+    "unit": "kg",
+    "unit_price": 21.61,
+    "line_total": 648.3
+   },
+   {
+    "material_name": "Paneer",
+    "quantity": 15,
+    "unit": "kg",
+    "unit_price": 312.25,
+    "line_total": 4683.75
+   }
+  ],
+  "subtotal": 7113.9,
+  "tax_amount": 355.69,
+  "total_price": 7469.59
+ },
+ {
+  "file": "inv_017.png",
+  "category": "clean",
+  "expected_anomalies": [],
+  "invoice_no": "INV-20260017",
+  "vendor": "FreshFarm Produce",
+  "invoice_date_iso": "2026-03-03",
+  "invoice_date_printed": "2026-03-03",
+  "payment_terms": "Net 60 Days",
+  "items": [
+   {
+    "material_name": "Salt",
+    "quantity": 17,
+    "unit": "kg",
+    "unit_price": 19.19,
+    "line_total": 326.23
+   },
+   {
+    "material_name": "Banana",
+    "quantity": 8,
+    "unit": "kg",
+    "unit_price": 40.63,
+    "line_total": 325.04
+   },
+   {
+    "material_name": "Paneer",
+    "quantity": 39,
+    "unit": "kg",
+    "unit_price": 291.9,
+    "line_total": 11384.1
+   },
+   {
+    "material_name": "Milk",
+    "quantity": 25,
+    "unit": "kg",
+    "unit_price": 49.22,
+    "line_total": 1230.5
+   }
+  ],
+  "subtotal": 13265.87,
+  "tax_amount": 663.29,
+  "total_price": 13929.16
+ },
+ {
+  "file": "inv_018.png",
+  "category": "clean",
+  "expected_anomalies": [],
+  "invoice_no": "INV-20260018",
+  "vendor": "Dairy Delights",
+  "invoice_date_iso": "2026-09-22",
+  "invoice_date_printed": "22 Sep 2026",
+  "payment_terms": "Net 45 Days",
+  "items": [
+   {
+    "material_name": "Butter",
+    "quantity": 30,
+    "unit": "kg",
+    "unit_price": 55.44,
+    "line_total": 1663.2
+   },
+   {
+    "material_name": "Milk",
+    "quantity": 41,
+    "unit": "kg",
+    "unit_price": 51.26,
+    "line_total": 2101.66
+   },
+   {
+    "material_name": "Oats",
+    "quantity": 43,
+    "unit": "kg",
+    "unit_price": 108.95,
+    "line_total": 4684.85
+   },
+   {
+    "material_name": "Coriander",
+    "quantity": 10,
+    "unit": "kg",
+    "unit_price": 88.55,
+    "line_total": 885.5
+   },
+   {
+    "material_name": "Wheat Flour",
+    "quantity": 42,
+    "unit": "kg",
+    "unit_price": 50.65,
+    "line_total": 2127.3
+   }
+  ],
+  "subtotal": 11462.51,
+  "tax_amount": 573.13,
+  "total_price": 12035.64
+ },
+ {
+  "file": "inv_019.png",
+  "category": "clean",
+  "expected_anomalies": [],
+  "invoice_no": "INV-20260019",
+  "vendor": "Golden Grains",
+  "invoice_date_iso": "2025-11-13",
+  "invoice_date_printed": "Nov 13, 2025",
+  "payment_terms": "Net 15 Days",
+  "items": [
+   {
+    "material_name": "Sugar",
+    "quantity": 47,
+    "unit": "kg",
+    "unit_price": 43.22,
+    "line_total": 2031.34
+   },
+   {
+    "material_name": "Wheat Flour",
+    "quantity": 34,
+    "unit": "kg",
+    "unit_price": 48.16,
+    "line_total": 1637.44
+   },
+   {
+    "material_name": "Rice",
+    "quantity": 53,
+    "unit": "kg",
+    "unit_price": 48.92,
+    "line_total": 2592.76
+   },
+   {
+    "material_name": "Salt",
+    "quantity": 5,
+    "unit": "kg",
+    "unit_price": 19.83,
+    "line_total": 99.15
+   },
+   {
+    "material_name": "Milk",
+    "quantity": 41,
+    "unit": "kg",
+    "unit_price": 59.36,
+    "line_total": 2433.76
+   }
+  ],
+  "subtotal": 8794.45,
+  "tax_amount": 439.72,
+  "total_price": 9234.17
+ },
+ {
+  "file": "inv_020.png",
+  "category": "clean",
+  "expected_anomalies": [],
+  "invoice_no": "INV-20260020",
+  "vendor": "Golden Grains",
+  "invoice_date_iso": "2026-02-04",
+  "invoice_date_printed": "04-Feb-2026",
+  "payment_terms": "Net 15 Days",
+  "items": [
+   {
+    "material_name": "Milk",
+    "quantity": 28,
+    "unit": "kg",
+    "unit_price": 51.68,
+    "line_total": 1447.04
+   },
+   {
+    "material_name": "Sugar",
+    "quantity": 33,
+    "unit": "kg",
+    "unit_price": 44.8,
+    "line_total": 1478.4
+   },
+   {
+    "material_name": "Butter",
+    "quantity": 50,
+    "unit": "kg",
+    "unit_price": 57.63,
+    "line_total": 2881.5
+   },
+   {
+    "material_name": "Wheat Flour",
+    "quantity": 56,
+    "unit": "kg",
+    "unit_price": 51.54,
+    "line_total": 2886.24
+   }
+  ],
+  "subtotal": 8693.18,
+  "tax_amount": 434.66,
+  "total_price": 9127.84
+ },
+ {
+  "file": "inv_021.png",
+  "category": "total_mismatch",
+  "expected_anomalies": [
+   "TOTAL_MISMATCH"
+  ],
+  "invoice_no": "INV-20260021",
+  "vendor": "FreshFarm Produce",
+  "invoice_date_iso": "2025-11-16",
+  "invoice_date_printed": "16/11/2025",
+  "payment_terms": "Net 30 Days",
+  "items": [
+   {
+    "material_name": "Milk",
+    "quantity": 11,
+    "unit": "kg",
+    "unit_price": 56.62,
+    "line_total": 622.82
+   },
+   {
+    "material_name": "Rice",
+    "quantity": 14,
+    "unit": "kg",
+    "unit_price": 42.95,
+    "line_total": 601.3
+   },
+   {
+    "material_name": "Butter",
+    "quantity": 43,
+    "unit": "kg",
+    "unit_price": 56.53,
+    "line_total": 2430.79
+   }
+  ],
+  "subtotal": 3654.91,
+  "tax_amount": 182.75,
+  "total_price": 3912.66
+ },
+ {
+  "file": "inv_022.png",
+  "category": "total_mismatch",
+  "expected_anomalies": [
+   "TOTAL_MISMATCH"
+  ],
+  "invoice_no": "INV-20260022",
+  "vendor": "FreshFarm Produce",
+  "invoice_date_iso": "2026-02-05",
+  "invoice_date_printed": "2026-02-05",
+  "payment_terms": "Net 60 Days",
+  "items": [
+   {
+    "material_name": "Rice",
+    "quantity": 58,
+    "unit": "kg",
+    "unit_price": 42.99,
+    "line_total": 2493.42
+   },
+   {
+    "material_name": "Turmeric",
+    "quantity": 5,
+    "unit": "kg",
+    "unit_price": 48.34,
+    "line_total": 241.7
+   },
+   {
+    "material_name": "Butter",
+    "quantity": 13,
+    "unit": "kg",
+    "unit_price": 61.65,
+    "line_total": 801.45
+   },
+   {
+    "material_name": "Salt",
+    "quantity": 21,
+    "unit": "kg",
+    "unit_price": 18.65,
+    "line_total": 391.65
+   }
+  ],
+  "subtotal": 3928.22,
+  "tax_amount": 196.41,
+  "total_price": 4324.63
+ },
+ {
+  "file": "inv_023.png",
+  "category": "total_mismatch",
+  "expected_anomalies": [
+   "TOTAL_MISMATCH"
+  ],
+  "invoice_no": "INV-20260023",
+  "vendor": "FreshHarvest Ltd",
+  "invoice_date_iso": "2026-08-25",
+  "invoice_date_printed": "25 Aug 2026",
+  "payment_terms": "Net 45 Days",
+  "items": [
+   {
+    "material_name": "Oats",
+    "quantity": 7,
+    "unit": "kg",
+    "unit_price": 128.03,
+    "line_total": 896.21
+   },
+   {
+    "material_name": "Milk",
+    "quantity": 42,
+    "unit": "kg",
+    "unit_price": 54.57,
+    "line_total": 2291.94
+   },
+   {
+    "material_name": "Banana",
+    "quantity": 32,
+    "unit": "kg",
+    "unit_price": 37.02,
+    "line_total": 1184.64
+   }
+  ],
+  "subtotal": 4372.79,
+  "tax_amount": 218.64,
+  "total_price": 4666.43
+ },
+ {
+  "file": "inv_024.png",
+  "category": "total_mismatch",
+  "expected_anomalies": [
+   "TOTAL_MISMATCH"
+  ],
+  "invoice_no": "INV-20260024",
+  "vendor": "FreshHarvest Ltd",
+  "invoice_date_iso": "2026-04-21",
+  "invoice_date_printed": "Apr 21, 2026",
+  "payment_terms": "Net 30 Days",
+  "items": [
+   {
+    "material_name": "Ghee",
+    "quantity": 27,
+    "unit": "kg",
+    "unit_price": 580.81,
+    "line_total": 15681.87
+   },
+   {
+    "material_name": "Wheat Flour",
+    "quantity": 60,
+    "unit": "kg",
+    "unit_price": 49.06,
+    "line_total": 2943.6
+   },
+   {
+    "material_name": "Butter",
+    "quantity": 44,
+    "unit": "kg",
+    "unit_price": 62.99,
+    "line_total": 2771.56
+   }
+  ],
+  "subtotal": 21397.03,
+  "tax_amount": 1069.85,
+  "total_price": 22346.38
+ },
+ {
+  "file": "inv_025.png",
+  "category": "total_mismatch",
+  "expected_anomalies": [
+   "TOTAL_MISMATCH"
+  ],
+  "invoice_no": "INV-20260025",
+  "vendor": "Dairy Delights",
+  "invoice_date_iso": "2026-03-24",
+  "invoice_date_printed": "24-Mar-2026",
+  "payment_terms": "Net 60 Days",
+  "items": [
+   {
+    "material_name": "Milk",
+    "quantity": 56,
+    "unit": "kg",
+    "unit_price": 55.83,
+    "line_total": 3126.48
+   },
+   {
+    "material_name": "Sugar",
+    "quantity": 52,
+    "unit": "kg",
+    "unit_price": 44.61,
+    "line_total": 2319.72
+   },
+   {
+    "material_name": "Salt",
+    "quantity": 22,
+    "unit": "kg",
+    "unit_price": 18.64,
+    "line_total": 410.08
+   }
+  ],
+  "subtotal": 5856.28,
+  "tax_amount": 292.81,
+  "total_price": 5849.09
+ },
+ {
+  "file": "inv_026.png",
+  "category": "total_mismatch",
+  "expected_anomalies": [
+   "TOTAL_MISMATCH"
+  ],
+  "invoice_no": "INV-20260026",
+  "vendor": "FreshHarvest Ltd",
+  "invoice_date_iso": "2026-02-23",
+  "invoice_date_printed": "23/02/2026",
+  "payment_terms": "Net 45 Days",
+  "items": [
+   {
+    "material_name": "Wheat Flour",
+    "quantity": 24,
+    "unit": "kg",
+    "unit_price": 53.21,
+    "line_total": 1277.04
+   },
+   {
+    "material_name": "Paneer",
+    "quantity": 60,
+    "unit": "kg",
+    "unit_price": 302.57,
+    "line_total": 18154.2
+   },
+   {
+    "material_name": "Sugar",
+    "quantity": 6,
+    "unit": "kg",
+    "unit_price": 43.34,
+    "line_total": 260.04
+   }
+  ],
+  "subtotal": 19691.28,
+  "tax_amount": 984.56,
+  "total_price": 20875.84
+ },
+ {
+  "file": "inv_027.png",
+  "category": "line_math_error",
+  "expected_anomalies": [
+   "LINE_MATH_ERROR"
+  ],
+  "invoice_no": "INV-20260027",
+  "vendor": "FreshFarm Produce",
+  "invoice_date_iso": "2026-09-16",
+  "invoice_date_printed": "2026-09-16",
+  "payment_terms": "Net 15 Days",
+  "items": [
+   {
+    "material_name": "Sugar",
+    "quantity": 48,
+    "unit": "kg",
+    "unit_price": 46.04,
+    "line_total": 2209.92
+   },
+   {
+    "material_name": "Ghee",
+    "quantity": 39,
+    "unit": "kg",
+    "unit_price": 531.43,
+    "line_total": 20725.77
+   },
+   {
+    "material_name": "Banana",
+    "quantity": 6,
+    "unit": "kg",
+    "unit_price": 36.92,
+    "line_total": 321.52
+   },
+   {
+    "material_name": "Salt",
+    "quantity": 21,
+    "unit": "kg",
+    "unit_price": 18.71,
+    "line_total": 392.91
+   }
+  ],
+  "subtotal": 23650.12,
+  "tax_amount": 1182.51,
+  "total_price": 24832.63
+ },
+ {
+  "file": "inv_028.png",
+  "category": "line_math_error",
+  "expected_anomalies": [
+   "LINE_MATH_ERROR"
+  ],
+  "invoice_no": "INV-20260028",
+  "vendor": "Spice Route Traders",
+  "invoice_date_iso": "2025-10-13",
+  "invoice_date_printed": "13 Oct 2025",
+  "payment_terms": "Net 60 Days",
+  "items": [
+   {
+    "material_name": "Salt",
+    "quantity": 29,
+    "unit": "kg",
+    "unit_price": 21.6,
+    "line_total": 626.4
+   },
+   {
+    "material_name": "Coriander",
+    "quantity": 17,
+    "unit": "kg",
+    "unit_price": 85.59,
+    "line_total": 1955.03
+   },
+   {
+    "material_name": "Banana",
+    "quantity": 50,
+    "unit": "kg",
+    "unit_price": 39.49,
+    "line_total": 1974.5
+   },
+   {
+    "material_name": "Butter",
+    "quantity": 38,
+    "unit": "kg",
+    "unit_price": 65.11,
+    "line_total": 2474.18
+   }
+  ],
+  "subtotal": 7030.11,
+  "tax_amount": 351.51,
+  "total_price": 7381.62
+ },
+ {
+  "file": "inv_029.png",
+  "category": "line_math_error",
+  "expected_anomalies": [
+   "LINE_MATH_ERROR"
+  ],
+  "invoice_no": "INV-20260029",
+  "vendor": "GrainMill Co",
+  "invoice_date_iso": "2025-11-15",
+  "invoice_date_printed": "Nov 15, 2025",
+  "payment_terms": "Net 45 Days",
+  "items": [
+   {
+    "material_name": "Coriander",
+    "quantity": 37,
+    "unit": "kg",
+    "unit_price": 86.57,
+    "line_total": 3203.09
+   },
+   {
+    "material_name": "Sugar",
+    "quantity": 31,
+    "unit": "kg",
+    "unit_price": 40.54,
+    "line_total": 1256.74
+   },
+   {
+    "material_name": "Butter",
+    "quantity": 49,
+    "unit": "kg",
+    "unit_price": 57.55,
+    "line_total": 2819.95
+   },
+   {
+    "material_name": "Rice",
+    "quantity": 13,
+    "unit": "kg",
+    "unit_price": 42.23,
+    "line_total": 798.99
+   }
+  ],
+  "subtotal": 8078.77,
+  "tax_amount": 403.94,
+  "total_price": 8482.71
+ },
+ {
+  "file": "inv_030.png",
+  "category": "line_math_error",
+  "expected_anomalies": [
+   "LINE_MATH_ERROR"
+  ],
+  "invoice_no": "INV-20260030",
+  "vendor": "Green Valley Foods",
+  "invoice_date_iso": "2026-01-14",
+  "invoice_date_printed": "14-Jan-2026",
+  "payment_terms": "Net 60 Days",
+  "items": [
+   {
+    "material_name": "Rice",
+    "quantity": 32,
+    "unit": "kg",
+    "unit_price": 47.57,
+    "line_total": 1522.24
+   },
+   {
+    "material_name": "Oats",
+    "quantity": 43,
+    "unit": "kg",
+    "unit_price": 123.71,
+    "line_total": 5319.53
+   },
+   {
+    "material_name": "Wheat Flour",
+    "quantity": 34,
+    "unit": "kg",
+    "unit_price": 49.42,
+    "line_total": 1930.28
+   }
+  ],
+  "subtotal": 8772.05,
+  "tax_amount": 438.6,
+  "total_price": 9210.65
+ },
+ {
+  "file": "inv_031.png",
+  "category": "line_math_error",
+  "expected_anomalies": [
+   "LINE_MATH_ERROR"
+  ],
+  "invoice_no": "INV-20260031",
+  "vendor": "Dairy Delights",
+  "invoice_date_iso": "2025-11-18",
+  "invoice_date_printed": "18/11/2025",
+  "payment_terms": "Net 15 Days",
+  "items": [
+   {
+    "material_name": "Rice",
+    "quantity": 26,
+    "unit": "kg",
+    "unit_price": 41.34,
+    "line_total": 1324.84
+   },
+   {
+    "material_name": "Banana",
+    "quantity": 53,
+    "unit": "kg",
+    "unit_price": 37.88,
+    "line_total": 2007.64
+   },
+   {
+    "material_name": "Coriander",
+    "quantity": 24,
+    "unit": "kg",
+    "unit_price": 85.04,
+    "line_total": 2040.96
+   }
+  ],
+  "subtotal": 5373.44,
+  "tax_amount": 268.67,
+  "total_price": 5642.11
+ },
+ {
+  "file": "inv_032.png",
+  "category": "line_math_error",
+  "expected_anomalies": [
+   "LINE_MATH_ERROR"
+  ],
+  "invoice_no": "INV-20260032",
+  "vendor": "FreshHarvest Ltd",
+  "invoice_date_iso": "2026-06-18",
+  "invoice_date_printed": "2026-06-18",
+  "payment_terms": "Net 60 Days",
+  "items": [
+   {
+    "material_name": "Coriander",
+    "quantity": 45,
+    "unit": "kg",
+    "unit_price": 91.36,
+    "line_total": 4211.2
+   },
+   {
+    "material_name": "Butter",
+    "quantity": 50,
+    "unit": "kg",
+    "unit_price": 62.36,
+    "line_total": 3118.0
+   },
+   {
+    "material_name": "Paneer",
+    "quantity": 36,
+    "unit": "kg",
+    "unit_price": 313.58,
+    "line_total": 11288.88
+   },
+   {
+    "material_name": "Salt",
+    "quantity": 14,
+    "unit": "kg",
+    "unit_price": 20.62,
+    "line_total": 288.68
+   }
+  ],
+  "subtotal": 18906.76,
+  "tax_amount": 945.34,
+  "total_price": 19852.1
+ },
+ {
+  "file": "inv_033.png",
+  "category": "future_date",
+  "expected_anomalies": [
+   "FUTURE_DATE"
+  ],
+  "invoice_no": "INV-20260033",
+  "vendor": "Golden Grains",
+  "invoice_date_iso": "2026-12-15",
+  "invoice_date_printed": "15 Dec 2026",
+  "payment_terms": "Net 60 Days",
+  "items": [
+   {
+    "material_name": "Banana",
+    "quantity": 59,
+    "unit": "kg",
+    "unit_price": 36.97,
+    "line_total": 2181.23
+   },
+   {
+    "material_name": "Paneer",
+    "quantity": 13,
+    "unit": "kg",
+    "unit_price": 339.29,
+    "line_total": 4410.77
+   },
+   {
+    "material_name": "Turmeric",
+    "quantity": 47,
+    "unit": "kg",
+    "unit_price": 50.31,
+    "line_total": 2364.57
+   },
+   {
+    "material_name": "Oats",
+    "quantity": 40,
+    "unit": "kg",
+    "unit_price": 122.29,
+    "line_total": 4891.6
+   },
+   {
+    "material_name": "Wheat Flour",
+    "quantity": 53,
+    "unit": "kg",
+    "unit_price": 53.91,
+    "line_total": 2857.23
+   }
+  ],
+  "subtotal": 16705.4,
+  "tax_amount": 835.27,
+  "total_price": 17540.67
+ },
+ {
+  "file": "inv_034.png",
+  "category": "future_date",
+  "expected_anomalies": [
+   "FUTURE_DATE"
+  ],
+  "invoice_no": "INV-20260034",
+  "vendor": "Sunrise Wholesale",
+  "invoice_date_iso": "2026-12-10",
+  "invoice_date_printed": "Dec 10, 2026",
+  "payment_terms": "Net 15 Days",
+  "items": [
+   {
+    "material_name": "Paneer",
+    "quantity": 54,
+    "unit": "kg",
+    "unit_price": 337.77,
+    "line_total": 18239.58
+   },
+   {
+    "material_name": "Oats",
+    "quantity": 36,
+    "unit": "kg",
+    "unit_price": 123.04,
+    "line_total": 4429.44
+   },
+   {
+    "material_name": "Rice",
+    "quantity": 22,
+    "unit": "kg",
+    "unit_price": 44.46,
+    "line_total": 978.12
+   },
+   {
+    "material_name": "Wheat Flour",
+    "quantity": 50,
+    "unit": "kg",
+    "unit_price": 47.86,
+    "line_total": 2393.0
+   },
+   {
+    "material_name": "Coriander",
+    "quantity": 22,
+    "unit": "kg",
+    "unit_price": 87.05,
+    "line_total": 1915.1
+   }
+  ],
+  "subtotal": 27955.24,
+  "tax_amount": 1397.76,
+  "total_price": 29353.0
+ },
+ {
+  "file": "inv_035.png",
+  "category": "future_date",
+  "expected_anomalies": [
+   "FUTURE_DATE"
+  ],
+  "invoice_no": "INV-20260035",
+  "vendor": "Dairy Delights",
+  "invoice_date_iso": "2026-12-08",
+  "invoice_date_printed": "08-Dec-2026",
+  "payment_terms": "Net 60 Days",
+  "items": [
+   {
+    "material_name": "Salt",
+    "quantity": 9,
+    "unit": "kg",
+    "unit_price": 19.66,
+    "line_total": 176.94
+   },
+   {
+    "material_name": "Milk",
+    "quantity": 26,
+    "unit": "kg",
+    "unit_price": 54.46,
+    "line_total": 1415.96
+   },
+   {
+    "material_name": "Wheat Flour",
+    "quantity": 31,
+    "unit": "kg",
+    "unit_price": 45.62,
+    "line_total": 1414.22
+   }
+  ],
+  "subtotal": 3007.12,
+  "tax_amount": 150.36,
+  "total_price": 3157.48
+ },
+ {
+  "file": "inv_036.png",
+  "category": "future_date",
+  "expected_anomalies": [
+   "FUTURE_DATE"
+  ],
+  "invoice_no": "INV-20260036",
+  "vendor": "Green Valley Foods",
+  "invoice_date_iso": "2027-03-29",
+  "invoice_date_printed": "29/03/2027",
+  "payment_terms": "Net 30 Days",
+  "items": [
+   {
+    "material_name": "Turmeric",
+    "quantity": 27,
+    "unit": "kg",
+    "unit_price": 47.99,
+    "line_total": 1295.73
+   },
+   {
+    "material_name": "Coriander",
+    "quantity": 29,
+    "unit": "kg",
+    "unit_price": 96.36,
+    "line_total": 2794.44
+   },
+   {
+    "material_name": "Salt",
+    "quantity": 58,
+    "unit": "kg",
+    "unit_price": 19.68,
+    "line_total": 1141.44
+   },
+   {
+    "material_name": "Paneer",
+    "quantity": 52,
+    "unit": "kg",
+    "unit_price": 335.02,
+    "line_total": 17421.04
+   },
+   {
+    "material_name": "Oats",
+    "quantity": 56,
+    "unit": "kg",
+    "unit_price": 122.48,
+    "line_total": 6858.88
+   }
+  ],
+  "subtotal": 29511.53,
+  "tax_amount": 1475.58,
+  "total_price": 30987.11
+ },
+ {
+  "file": "inv_037.png",
+  "category": "future_date",
+  "expected_anomalies": [
+   "FUTURE_DATE"
+  ],
+  "invoice_no": "INV-20260037",
+  "vendor": "FreshFarm Produce",
+  "invoice_date_iso": "2027-02-19",
+  "invoice_date_printed": "2027-02-19",
+  "payment_terms": "Net 15 Days",
+  "items": [
+   {
+    "material_name": "Turmeric",
+    "quantity": 51,
+    "unit": "kg",
+    "unit_price": 46.65,
+    "line_total": 2379.15
+   },
+   {
+    "material_name": "Salt",
+    "quantity": 34,
+    "unit": "kg",
+    "unit_price": 21.68,
+    "line_total": 737.12
+   },
+   {
+    "material_name": "Sugar",
+    "quantity": 44,
+    "unit": "kg",
+    "unit_price": 42.29,
+    "line_total": 1860.76
+   },
+   {
+    "material_name": "Ghee",
+    "quantity": 30,
+    "unit": "kg",
+    "unit_price": 560.11,
+    "line_total": 16803.3
+   }
+  ],
+  "subtotal": 21780.33,
+  "tax_amount": 1089.02,
+  "total_price": 22869.35
+ },
+ {
+  "file": "inv_038.png",
+  "category": "future_date",
+  "expected_anomalies": [
+   "FUTURE_DATE"
+  ],
+  "invoice_no": "INV-20260038",
+  "vendor": "GrainMill Co",
+  "invoice_date_iso": "2027-04-13",
+  "invoice_date_printed": "13 Apr 2027",
+  "payment_terms": "Net 60 Days",
+  "items": [
+   {
+    "material_name": "Milk",
+    "quantity": 21,
+    "unit": "kg",
+    "unit_price": 52.69,
+    "line_total": 1106.49
+   },
+   {
+    "material_name": "Paneer",
+    "quantity": 18,
+    "unit": "kg",
+    "unit_price": 317.1,
+    "line_total": 5707.8
+   },
+   {
+    "material_name": "Oats",
+    "quantity": 26,
+    "unit": "kg",
+    "unit_price": 126.27,
+    "line_total": 3283.02
+   },
+   {
+    "material_name": "Turmeric",
+    "quantity": 29,
+    "unit": "kg",
+    "unit_price": 47.78,
+    "line_total": 1385.62
+   }
+  ],
+  "subtotal": 11482.93,
+  "tax_amount": 574.15,
+  "total_price": 12057.08
+ },
+ {
+  "file": "inv_039.png",
+  "category": "unreadable_value",
+  "expected_anomalies": [
+   "UNREADABLE_VALUE"
+  ],
+  "invoice_no": "INV-20260039",
+  "vendor": "FreshFarm Produce",
+  "invoice_date_iso": "2026-09-10",
+  "invoice_date_printed": "Sep 10, 2026",
+  "payment_terms": "Net 30 Days",
+  "items": [
+   {
+    "material_name": "Turmeric",
+    "quantity": 19,
+    "unit": "kg",
+    "unit_price": "##.##",
+    "line_total": 978.5
+   },
+   {
+    "material_name": "Banana",
+    "quantity": 54,
+    "unit": "kg",
+    "unit_price": 43.66,
+    "line_total": 2357.64
+   },
+   {
+    "material_name": "Oats",
+    "quantity": 7,
+    "unit": "kg",
+    "unit_price": 126.1,
+    "line_total": 882.7
+   },
+   {
+    "material_name": "Sugar",
+    "quantity": 20,
+    "unit": "kg",
+    "unit_price": 39.47,
+    "line_total": 789.4
+   }
+  ],
+  "subtotal": 5008.24,
+  "tax_amount": 250.41,
+  "total_price": 5258.65
+ },
+ {
+  "file": "inv_040.png",
+  "category": "unreadable_value",
+  "expected_anomalies": [
+   "UNREADABLE_VALUE"
+  ],
+  "invoice_no": "INV-20260040",
+  "vendor": "Sunrise Wholesale",
+  "invoice_date_iso": "2025-11-13",
+  "invoice_date_printed": "13-Nov-2025",
+  "payment_terms": "Net 30 Days",
+  "items": [
+   {
+    "material_name": "Coriander",
+    "quantity": 49,
+    "unit": "kg",
+    "unit_price": 85.61,
+    "line_total": 4194.89
+   },
+   {
+    "material_name": "Wheat Flour",
+    "quantity": 28,
+    "unit": "kg",
+    "unit_price": 46.68,
+    "line_total": 1307.04
+   },
+   {
+    "material_name": "Paneer",
+    "quantity": 43,
+    "unit": "kg",
+    "unit_price": "INVALID",
+    "line_total": 15036.24
+   }
+  ],
+  "subtotal": 20538.17,
+  "tax_amount": 1026.91,
+  "total_price": 21565.08
+ },
+ {
+  "file": "inv_041.png",
+  "category": "unreadable_value",
+  "expected_anomalies": [
+   "UNREADABLE_VALUE"
+  ],
+  "invoice_no": "INV-20260041",
+  "vendor": "FreshFarm Produce",
+  "invoice_date_iso": "2026-08-27",
+  "invoice_date_printed": "27/08/2026",
+  "payment_terms": "Net 15 Days",
+  "items": [
+   {
+    "material_name": "Turmeric",
+    "quantity": 50,
+    "unit": "kg",
+    "unit_price": "##.##",
+    "line_total": 2349.0
+   },
+   {
+    "material_name": "Rice",
+    "quantity": 42,
+    "unit": "kg",
+    "unit_price": 46.72,
+    "line_total": 1962.24
+   },
+   {
+    "material_name": "Coriander",
+    "quantity": 45,
+    "unit": "kg",
+    "unit_price": 85.37,
+    "line_total": 3841.65
+   },
+   {
+    "material_name": "Salt",
+    "quantity": 49,
+    "unit": "kg",
+    "unit_price": 21.09,
+    "line_total": 1033.41
+   },
+   {
+    "material_name": "Banana",
+    "quantity": 59,
+    "unit": "kg",
+    "unit_price": 41.47,
+    "line_total": 2446.73
+   }
+  ],
+  "subtotal": 11633.03,
+  "tax_amount": 581.65,
+  "total_price": 12214.68
+ },
+ {
+  "file": "inv_042.png",
+  "category": "unreadable_value",
+  "expected_anomalies": [
+   "UNREADABLE_VALUE"
+  ],
+  "invoice_no": "INV-20260042",
+  "vendor": "Spice Route Traders",
+  "invoice_date_iso": "2026-01-22",
+  "invoice_date_printed": "2026-01-22",
+  "payment_terms": "Net 30 Days",
+  "items": [
+   {
+    "material_name": "Ghee",
+    "quantity": 46,
+    "unit": "kg",
+    "unit_price": 532.54,
+    "line_total": 24496.84
+   },
+   {
+    "material_name": "Sugar",
+    "quantity": 59,
+    "unit": "kg",
+    "unit_price": 41.33,
+    "line_total": 2438.47
+   },
+   {
+    "material_name": "Butter",
+    "quantity": 36,
+    "unit": "kg",
+    "unit_price": 55.27,
+    "line_total": 1989.72
+   },
+   {
+    "material_name": "Banana",
+    "quantity": 28,
+    "unit": "kg",
+    "unit_price": "##.##",
+    "line_total": 1150.24
+   }
+  ],
+  "subtotal": 30075.27,
+  "tax_amount": 1503.76,
+  "total_price": 31579.03
+ },
+ {
+  "file": "inv_043.png",
+  "category": "unreadable_value",
+  "expected_anomalies": [
+   "UNREADABLE_VALUE"
+  ],
+  "invoice_no": "INV-20260043",
+  "vendor": "FreshFarm Produce",
+  "invoice_date_iso": "2025-12-10",
+  "invoice_date_printed": "10 Dec 2025",
+  "payment_terms": "Net 45 Days",
+  "items": [
+   {
+    "material_name": "Paneer",
+    "quantity": 59,
+    "unit": "kg",
+    "unit_price": "N/A",
+    "line_total": 17918.89
+   },
+   {
+    "material_name": "Oats",
+    "quantity": 10,
+    "unit": "kg",
+    "unit_price": 114.69,
+    "line_total": 1146.9
+   },
+   {
+    "material_name": "Salt",
+    "quantity": 33,
+    "unit": "kg",
+    "unit_price": 18.98,
+    "line_total": 626.34
+   },
+   {
+    "material_name": "Rice",
+    "quantity": 34,
+    "unit": "kg",
+    "unit_price": 45.63,
+    "line_total": 1551.42
+   },
+   {
+    "material_name": "Sugar",
+    "quantity": 47,
+    "unit": "kg",
+    "unit_price": 40.98,
+    "line_total": 1926.06
+   }
+  ],
+  "subtotal": 23169.61,
+  "tax_amount": 1158.48,
+  "total_price": 24328.09
+ },
+ {
+  "file": "inv_044.png",
+  "category": "unreadable_value",
+  "expected_anomalies": [
+   "UNREADABLE_VALUE"
+  ],
+  "invoice_no": "INV-20260044",
+  "vendor": "Dairy Delights",
+  "invoice_date_iso": "2026-02-14",
+  "invoice_date_printed": "Feb 14, 2026",
+  "payment_terms": "Net 30 Days",
+  "items": [
+   {
+    "material_name": "Sugar",
+    "quantity": 22,
+    "unit": "kg",
+    "unit_price": "INVALID",
+    "line_total": 994.18
+   },
+   {
+    "material_name": "Rice",
+    "quantity": 49,
+    "unit": "kg",
+    "unit_price": 48.42,
+    "line_total": 2372.58
+   },
+   {
+    "material_name": "Oats",
+    "quantity": 40,
+    "unit": "kg",
+    "unit_price": 108.24,
+    "line_total": 4329.6
+   }
+  ],
+  "subtotal": 7696.36,
+  "tax_amount": 384.82,
+  "total_price": 8081.18
+ },
+ {
+  "file": "inv_045.png",
+  "category": "duplicate_invoice",
+  "expected_anomalies": [
+   "DUPLICATE_INVOICE"
+  ],
+  "invoice_no": "INV-20260032",
+  "vendor": "FreshHarvest Ltd",
+  "invoice_date_iso": "2026-01-10",
+  "invoice_date_printed": "10-Jan-2026",
+  "payment_terms": "Net 45 Days",
+  "items": [
+   {
+    "material_name": "Oats",
+    "quantity": 33,
+    "unit": "kg",
+    "unit_price": 127.03,
+    "line_total": 4191.99
+   },
+   {
+    "material_name": "Paneer",
+    "quantity": 10,
+    "unit": "kg",
+    "unit_price": 306.83,
+    "line_total": 3068.3
+   },
+   {
+    "material_name": "Ghee",
+    "quantity": 30,
+    "unit": "kg",
+    "unit_price": 571.1,
+    "line_total": 17133.0
+   }
+  ],
+  "subtotal": 24393.29,
+  "tax_amount": 1219.66,
+  "total_price": 25612.95
+ },
+ {
+  "file": "inv_046.png",
+  "category": "duplicate_invoice",
+  "expected_anomalies": [
+   "DUPLICATE_INVOICE"
+  ],
+  "invoice_no": "INV-20260031",
+  "vendor": "Dairy Delights",
+  "invoice_date_iso": "2026-01-11",
+  "invoice_date_printed": "11/01/2026",
+  "payment_terms": "Net 30 Days",
+  "items": [
+   {
+    "material_name": "Sugar",
+    "quantity": 49,
+    "unit": "kg",
+    "unit_price": 41.61,
+    "line_total": 2038.89
+   },
+   {
+    "material_name": "Salt",
+    "quantity": 24,
+    "unit": "kg",
+    "unit_price": 19.01,
+    "line_total": 456.24
+   },
+   {
+    "material_name": "Banana",
+    "quantity": 12,
+    "unit": "kg",
+    "unit_price": 41.77,
+    "line_total": 501.24
+   },
+   {
+    "material_name": "Oats",
+    "quantity": 25,
+    "unit": "kg",
+    "unit_price": 110.87,
+    "line_total": 2771.75
+   },
+   {
+    "material_name": "Coriander",
+    "quantity": 39,
+    "unit": "kg",
+    "unit_price": 98.12,
+    "line_total": 3826.68
+   }
+  ],
+  "subtotal": 9594.8,
+  "tax_amount": 479.74,
+  "total_price": 10074.54
+ }
+]

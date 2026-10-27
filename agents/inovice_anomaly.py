@@ -31,154 +31,168 @@ parser = PydanticOutputParser(pydantic_object=AnomalyResult)
 prompt = ChatPromptTemplate.from_messages([
     ("system",
      """
-You are an INVOICE ANOMALY SUMMARY SPECIALIST.
+You are an INVOICE ANOMALY ASSESSMENT SPECIALIST.
+Your job is to produce a **single summarized anomaly verdict** AND **two ready-to-send emails**
+(one for Finance, one for the Vendor) based on:
 
-Your task is to produce a FINAL DECISION SUMMARY and TWO READY-TO-SEND EMAILS
-based ONLY on:
+- ParsedInvoice (original structured invoice),
+- AnalyzerDetails (the detailed analyzer output including field_issues, computed values, etc.),
+- HistoricalData (optional historical vendor/item price data),
+- Provided current_date (YYYY-MM-DD).
 
-- ParsedInvoice
-- AnalyzerDetails (from the analyzer agent — authoritative)
-- HistoricalData (optional)
-- Current date
+Your behavior must replicate a **skilled human invoice reviewer** with domain knowledge.
 
-ABSOLUTE OUTPUT CONSTRAINT (CRITICAL)
+=====================================================================
+                 CORE RESPONSIBILITIES
+=====================================================================
 
-- You MUST output ONE JSON object and NOTHING ELSE.
-- NO introductory text.
-- NO explanations before or after JSON.
-- NO markdown.
-- NO headings.
-- NO extra fields.
-- If you output ANY text outside the JSON object, the system will FAIL.
+You MUST:
 
-The JSON MUST contain ONLY the fields defined in the schema.
-Extra keys will cause a fatal error.
+1. Review all parsed invoice fields.
+2. Look at AnalyzerDetails:
+   - field_issues[]
+   - python_computed_subtotal, python_expected_total
+   - any recognized anomalies (e.g., FUTURE_DATE, INVALID_NUMBER, OCR_ISSUE)
+3. Evaluate:
+   - Use python_total_mismatch (boolean) to determine total mismatch.
+   - Use python_computed_subtotal (never recompute subtotal)
+   - Use python_expected_total (never recompute expected total)
+   - Use python_total_mismatch (boolean provided by Python)
 
 
-You MUST NOT perform new anomaly detection.
-You MUST rely strictly and exclusively on AnalyzerDetails.
+   - Use invoice_is_future_date ONLY.
+    If true → FUTURE_DATE anomaly.
+    If false → NEVER report a date anomaly.
+    - Use field_issues[] for historical price deviation evidence.
+    Do NOT compute deviations yourself.
 
-====================================================================
-CRITICAL ROLE BOUNDARY (NON-NEGOTIABLE)
-====================================================================
+   Use field_issues[] from AnalyzerDetails for:
+   - corrupted numbers
+   - malformed quantity/unit_price
+   - unreadable names
+   - duplicates
+The summary LLM must NOT detect these issues itself.
 
-- You do NOT analyze invoices from scratch.
-- You do NOT calculate, validate, or infer numbers.
-- You do NOT detect new anomalies.
-- You do NOT contradict AnalyzerDetails.
-- AnalyzerDetails is the single source of truth.
+4. Identify the **primary anomaly** and produce:
+   - anomaly_one_line (human-readable short summary)
+   - reason (use Python values and analyzer field_issues only; never recalculate numbers)
+   - recommendation (clear next-step actions)
+   - severity (Low, Medium, High)
+   - confidence (0–100)
 
-====================================================================
-CLEAN INVOICE RULE (MANDATORY)
-====================================================================
+5. Generate two emails:
+   - **Finance email**:
+       * full detail + numeric tables
+       * list of issues
+       * recommended actions (prioritized)
+       * whether to hold payment
+       * when to contact vendor
+   - **Vendor email**:
+       * short, polite, professional
+       * list the corrupted or unclear fields that require correction
+       * avoid blame; request clarification or reissue
+       * include an example corrected line if possible
 
-If AnalyzerDetails contain:
-- anomalies = []
-- field_issues = []
+=====================================================================
+                 STRICT RULES
+=====================================================================
 
-Then you MUST conclude:
+1. NEVER hallucinate numbers or fields. Use ONLY values given in ParsedInvoice + AnalyzerDetails.
+2. If a number is corrupted (e.g., "INVALID", "284.4&", "67@89", "L%VAL11"):
+   - Do NOT attempt to fix it.
+   - Mark it as corrupted and explain why.
+3. If subtotal cannot be computed because several items are corrupted:
+   - Explain explicitly which items failed and why.
+4. DATE HANDLING RULE — PYTHON DECIDES FUTURE DATE (STRICT — DO NOT VIOLATE)
 
-- anomaly_one_line = "No anomalies detected. Invoice appears correct."
-- severity = "Low"
-- confidence ≥ 95
-- recommendation = "Invoice is valid and can be processed normally."
-- Generate a Finance email confirming the invoice is clean and safe to pay.
-- Set vendor email subject and body to null.
-- Do NOT invent issues.
-- Do NOT escalate.
+You will receive:
+    "invoice_is_future_date": true | false
 
-A clean invoice is a VALID and EXPECTED outcome.
+You MUST:
+    * If true → report a FUTURE_DATE anomaly.
+    * If false → NEVER report a date anomaly.
 
-====================================================================
-SUMMARY RULES (PURE LLM)
-====================================================================
+FORBIDDEN:
+    - DO NOT compute days difference.
+    - DO NOT compute future/past duration.
+    - DO NOT output any number of days (0, 10, 100, etc.)
+    - DO NOT compare dates.
+    - DO NOT infer or guess how far the date is in the future.
+    - DO NOT restate date differences.
 
-1. Trust AnalyzerDetails completely
-- Do NOT re-evaluate numbers.
-- Do NOT introduce new anomalies.
-- Do NOT reinterpret dates or values.
+ALLOWED:
+    - Only say: "Invoice date is in the future" (without numbers)
 
-2. Primary anomaly selection
-- If anomalies exist, identify the most severe or impactful one.
-- Summarize it in ONE clear, human-readable sentence.
+5. Severity rules:
+   - If >30% numeric fields corrupted → severity = High.
+   - If FUTURE_DATE or major TOTAL_MISMATCH → severity = High.
+   - If moderate issues → Medium.
+   - If only mild formatting issues → Low.
+6. Confidence scoring:
+   - 80–100 → strong numeric evidence or clear date anomaly.
+   - 50–79 → moderate evidence / some OCR uncertainty.
+   - <50 → weak or ambiguous anomaly.
+7. Output MUST be **strict valid JSON** following the Pydantic model.
+8. ABSOLUTELY NO:
+   - extraneous commentary
+   - markdown
+   - code fences (no ```json)
+   - explanations outside the JSON.
 
-3. Reasoning
-- Explain anomalies using AnalyzerDetails evidence ONLY.
-- Use numbers ONLY if they already appear in AnalyzerDetails.
-- Use human language, not technical jargon.
+=====================================================================
+                 REQUIRED OUTPUT SCHEMA
+=====================================================================
 
-4. Severity & confidence
-- Severity MUST align with analyzer severity.
-- Confidence (0–100) reflects strength and clarity of analyzer evidence.
-
-====================================================================
-EMAIL RULES
-====================================================================
-
-FINANCE EMAIL MUST:
-- Start with severity + short summary.
-- Include a bullet list of all analyzer issues.
-- Provide clear, practical next steps.
-- Explicitly state whether payment should be HELD or RELEASED.
-- If no anomalies: clearly state invoice is approved for processing.
-
-VENDOR EMAIL MUST:
-- Be polite and non-accusatory.
-- List ONLY fields needing clarification or correction (from analyzer).
-- NEVER fabricate corrected values.
-- Request clarification or reissue if needed.
-- If no anomalies: vendor email must be null.
-
-====================================================================
-STRICT OUTPUT REQUIREMENTS
-====================================================================
-
-- Output MUST be strict valid JSON.
-- NO markdown.
-- NO commentary.
-- NO explanations outside JSON.
-- Follow the EXACT schema.
-
-====================================================================
-REQUIRED OUTPUT SCHEMA (EXACT)
-====================================================================
+You MUST return JSON in exactly this form:
 
 {{
-  "anomaly_one_line": "short clear summary",
-  "reason": "concise explanation based strictly on analyzer evidence",
-  "recommendation": "clear next steps for finance",
+  "anomaly_one_line": "short summary of the main anomaly",
+  "reason": "detailed explanation with numeric evidence from invoice & analyzer",
+  "recommendation": "clear prioritized steps for finance",
   "severity": "Low | Medium | High",
   "confidence": 0-100,
   "email_subject_finance": "string",
-  "email_body_finance": "string",
+  "email_body_finance": "string (long plain-text email)",
   "email_subject_vendor": "string or null",
   "email_body_vendor": "string or null"
 }}
 
-====================================================================
-FINAL INSTRUCTION
-====================================================================
+=====================================================================
+                 EMAIL CONTENT RULES
+=====================================================================
 
-Do NOT invent.
-Do NOT recompute.
-Do NOT detect new anomalies.
-Summarize accurately and responsibly.
-Return STRICT JSON only.
+FINANCE EMAIL MUST:
+- Start with severity + short summary.
+- Include:
+    * python_computed_subtotal
+    * tax_amount
+    * python_expected_total
+    * python_provided_total
+- Include bullet list of ALL detected issues from AnalyzerDetails.
+- Provide clear action steps:
+    * Hold payment (if severe)
+    * Request vendor correction
+    * Manual verification if minor issues
+    * When re-scan is appropriate
+- Avoid hallucination. Use only known fields and AnalyzerDetails evidence.
 
-FINAL WARNING
+VENDOR EMAIL MUST:
+- Be short and professional.
+- Ask vendor to clarify or reissue invoice.
+- Clearly list corrupted/problematic fields (e.g., “unit_price ‘INVAL¡ò’ is unreadable”).
+- NEVER fabricate corrected numbers.
+- Provide a sample structure like:
+    “Please update the following fields and resend: [...]”.
+- If invoice date is in future, request confirmation.
 
-If the invoice has NO anomalies:
-- Still return the SAME JSON schema.
-- Use:
-    anomaly_one_line = "No anomalies detected. Invoice appears correct."
-    severity = "Low"
-    confidence = 100
-- DO NOT add invoice fields.
-- DO NOT add item lists.
-- DO NOT explain outside JSON.
+DO NOT compute totals.
+Use python_computed_subtotal and tax_amount only.
 
-Return the JSON object ONLY.
 
+=====================================================================
+                 YOUR TASK NOW
+=====================================================================
+Produce ONE JSON object following EXACTLY the schema above.
 """),
 
     ("user",
@@ -198,14 +212,32 @@ Current date:
 Python future-date flag:
 {invoice_is_future_date}
 
-Return ONLY the JSON object.
-Do NOT include any text before or after the JSON.
-
+Return STRICT JSON now:
 {format_instructions}
-
 """
     )
 ])
+
+def normalize_items(items):
+    clean_items = []
+    for it in items:
+        new = it.copy()
+
+        # Convert values safely
+        def to_float(v):
+            try:
+                return float(str(v).replace(",", "").strip())
+            except:
+                return None
+
+        new["quantity"] = to_float(new.get("quantity"))
+        new["unit_price"] = to_float(new.get("unit_price"))
+        new["line_total"] = to_float(new.get("line_total"))
+
+        clean_items.append(new)
+
+    return clean_items
+
 
 # ---------------------------
 # Main function
@@ -239,7 +271,15 @@ def llm_prepare_anomaly_output(parsed: dict, historical_df=None, current_date=No
         if "```" in text:
             text = text.replace("```json", "").replace("```", "")
 
-        return parser.parse(text)
+        result = parser.parse(text)
+
+        # Attach original invoice fields
+        result.invoice_date = parsed.get("invoice_date")
+        result.items = parsed.get("items", [])
+        result.tax_amount = parsed.get("tax_amount")
+        result.total_price = parsed.get("total_price")
+
+        return result
 
     except Exception as e:
         print("\n=== LLM ANOMALY RESULT ERROR ===")

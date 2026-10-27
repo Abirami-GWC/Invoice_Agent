@@ -1,0 +1,399 @@
+{
+ "stage_a": {
+  "scores": {
+   "pipeline": [
+    1020,
+    1046
+   ],
+   "raw_tesseract": [
+    985,
+    1046
+   ]
+  },
+  "misses": [
+   "inv_003.png item1.line_total='7844.84'",
+   "inv_003.png subtotal='12774.31'",
+   "inv_008.png item1.unit_price='43.08'",
+   "inv_008.png item2.unit_price='42.90'",
+   "inv_008.png item4.unit_price='49.35'",
+   "inv_010.png item1.qty='41 kg'",
+   "inv_011.png item0.unit_price='347.45'",
+   "inv_011.png item3.unit_price='49.46'",
+   "inv_013.png item2.qty='41 kg'",
+   "inv_018.png item2.line_total='4684.85'",
+   "inv_018.png item4.line_total='2127.30'",
+   "inv_021.png item0.qty='11 kg'",
+   "inv_029.png item1.unit_price='40.54'",
+   "inv_031.png item0.unit_price='41.34'",
+   "inv_033.png item2.qty='47 kg'",
+   "inv_034.png item2.unit_price='44.46'",
+   "inv_034.png subtotal='27955.24'",
+   "inv_036.png item1.unit_price='96.36'",
+   "inv_038.png invoice_no='INV-20260038'",
+   "inv_038.png subtotal='11482.93'",
+   "inv_038.png tax='574.15'",
+   "inv_039.png item0.unit_price='##.##'",
+   "inv_041.png item0.unit_price='##.##'",
+   "inv_042.png item3.unit_price='##.##'",
+   "inv_044.png item1.unit_price='48.42'",
+   "inv_045.png subtotal='24393.29'"
+  ]
+ },
+ "stage_b": {
+  "rows": [
+   {
+    "file": "inv_001.png",
+    "category": "clean",
+    "expected": [],
+    "predicted": []
+   },
+   {
+    "file": "inv_002.png",
+    "category": "clean",
+    "expected": [],
+    "predicted": []
+   },
+   {
+    "file": "inv_003.png",
+    "category": "clean",
+    "expected": [],
+    "predicted": []
+   },
+   {
+    "file": "inv_004.png",
+    "category": "clean",
+    "expected": [],
+    "predicted": []
+   },
+   {
+    "file": "inv_005.png",
+    "category": "clean",
+    "expected": [],
+    "predicted": []
+   },
+   {
+    "file": "inv_006.png",
+    "category": "clean",
+    "expected": [],
+    "predicted": []
+   },
+   {
+    "file": "inv_007.png",
+    "category": "clean",
+    "expected": [],
+    "predicted": []
+   },
+   {
+    "file": "inv_008.png",
+    "category": "clean",
+    "expected": [],
+    "predicted": []
+   },
+   {
+    "file": "inv_009.png",
+    "category": "clean",
+    "expected": [],
+    "predicted": []
+   },
+   {
+    "file": "inv_010.png",
+    "category": "clean",
+    "expected": [],
+    "predicted": []
+   },
+   {
+    "file": "inv_011.png",
+    "category": "clean",
+    "expected": [],
+    "predicted": []
+   },
+   {
+    "file": "inv_012.png",
+    "category": "clean",
+    "expected": [],
+    "predicted": []
+   },
+   {
+    "file": "inv_013.png",
+    "category": "clean",
+    "expected": [],
+    "predicted": []
+   },
+   {
+    "file": "inv_014.png",
+    "category": "clean",
+    "expected": [],
+    "predicted": []
+   },
+   {
+    "file": "inv_015.png",
+    "category": "clean",
+    "expected": [],
+    "predicted": []
+   },
+   {
+    "file": "inv_016.png",
+    "category": "clean",
+    "expected": [],
+    "predicted": []
+   },
+   {
+    "file": "inv_017.png",
+    "category": "clean",
+    "expected": [],
+    "predicted": []
+   },
+   {
+    "file": "inv_018.png",
+    "category": "clean",
+    "expected": [],
+    "predicted": []
+   },
+   {
+    "file": "inv_019.png",
+    "category": "clean",
+    "expected": [],
+    "predicted": []
+   },
+   {
+    "file": "inv_020.png",
+    "category": "clean",
+    "expected": [],
+    "predicted": []
+   },
+   {
+    "file": "inv_021.png",
+    "category": "total_mismatch",
+    "expected": [
+     "TOTAL_MISMATCH"
+    ],
+    "predicted": [
+     "TOTAL_MISMATCH"
+    ]
+   },
+   {
+    "file": "inv_022.png",
+    "category": "total_mismatch",
+    "expected": [
+     "TOTAL_MISMATCH"
+    ],
+    "predicted": [
+     "TOTAL_MISMATCH"
+    ]
+   },
+   {
+    "file": "inv_023.png",
+    "category": "total_mismatch",
+    "expected": [
+     "TOTAL_MISMATCH"
+    ],
+    "predicted": [
+     "TOTAL_MISMATCH"
+    ]
+   },
+   {
+    "file": "inv_024.png",
+    "category": "total_mismatch",
+    "expected": [
+     "TOTAL_MISMATCH"
+    ],
+    "predicted": [
+     "TOTAL_MISMATCH"
+    ]
+   },
+   {
+    "file": "inv_025.png",
+    "category": "total_mismatch",
+    "expected": [
+     "TOTAL_MISMATCH"
+    ],
+    "predicted": [
+     "TOTAL_MISMATCH"
+    ]
+   },
+   {
+    "file": "inv_026.png",
+    "category": "total_mismatch",
+    "expected": [
+     "TOTAL_MISMATCH"
+    ],
+    "predicted": [
+     "TOTAL_MISMATCH"
+    ]
+   },
+   {
+    "file": "inv_027.png",
+    "category": "line_math_error",
+    "expected": [
+     "LINE_MATH_ERROR"
+    ],
+    "predicted": []
+   },
+   {
+    "file": "inv_028.png",
+    "category": "line_math_error",
+    "expected": [
+     "LINE_MATH_ERROR"
+    ],
+    "predicted": []
+   },
+   {
+    "file": "inv_029.png",
+    "category": "line_math_error",
+    "expected": [
+     "LINE_MATH_ERROR"
+    ],
+    "predicted": []
+   },
+   {
+    "file": "inv_030.png",
+    "category": "line_math_error",
+    "expected": [
+     "LINE_MATH_ERROR"
+    ],
+    "predicted": []
+   },
+   {
+    "file": "inv_031.png",
+    "category": "line_math_error",
+    "expected": [
+     "LINE_MATH_ERROR"
+    ],
+    "predicted": []
+   },
+   {
+    "file": "inv_032.png",
+    "category": "line_math_error",
+    "expected": [
+     "LINE_MATH_ERROR"
+    ],
+    "predicted": []
+   },
+   {
+    "file": "inv_033.png",
+    "category": "future_date",
+    "expected": [
+     "FUTURE_DATE"
+    ],
+    "predicted": []
+   },
+   {
+    "file": "inv_034.png",
+    "category": "future_date",
+    "expected": [
+     "FUTURE_DATE"
+    ],
+    "predicted": []
+   },
+   {
+    "file": "inv_035.png",
+    "category": "future_date",
+    "expected": [
+     "FUTURE_DATE"
+    ],
+    "predicted": [
+     "FUTURE_DATE"
+    ]
+   },
+   {
+    "file": "inv_036.png",
+    "category": "future_date",
+    "expected": [
+     "FUTURE_DATE"
+    ],
+    "predicted": [
+     "FUTURE_DATE"
+    ]
+   },
+   {
+    "file": "inv_037.png",
+    "category": "future_date",
+    "expected": [
+     "FUTURE_DATE"
+    ],
+    "predicted": [
+     "FUTURE_DATE"
+    ]
+   },
+   {
+    "file": "inv_038.png",
+    "category": "future_date",
+    "expected": [
+     "FUTURE_DATE"
+    ],
+    "predicted": []
+   },
+   {
+    "file": "inv_039.png",
+    "category": "unreadable_value",
+    "expected": [
+     "UNREADABLE_VALUE"
+    ],
+    "predicted": []
+   },
+   {
+    "file": "inv_040.png",
+    "category": "unreadable_value",
+    "expected": [
+     "UNREADABLE_VALUE"
+    ],
+    "predicted": []
+   },
+   {
+    "file": "inv_041.png",
+    "category": "unreadable_value",
+    "expected": [
+     "UNREADABLE_VALUE"
+    ],
+    "predicted": []
+   },
+   {
+    "file": "inv_042.png",
+    "category": "unreadable_value",
+    "expected": [
+     "UNREADABLE_VALUE"
+    ],
+    "predicted": []
+   },
+   {
+    "file": "inv_043.png",
+    "category": "unreadable_value",
+    "expected": [
+     "UNREADABLE_VALUE"
+    ],
+    "predicted": []
+   },
+   {
+    "file": "inv_044.png",
+    "category": "unreadable_value",
+    "expected": [
+     "UNREADABLE_VALUE"
+    ],
+    "predicted": []
+   },
+   {
+    "file": "inv_045.png",
+    "category": "duplicate_invoice",
+    "expected": [
+     "DUPLICATE_INVOICE"
+    ],
+    "predicted": []
+   },
+   {
+    "file": "inv_046.png",
+    "category": "duplicate_invoice",
+    "expected": [
+     "DUPLICATE_INVOICE"
+    ],
+    "predicted": []
+   }
+  ],
+  "summary": {
+   "correct": 29,
+   "n": 46,
+   "recall": 0.34615384615384615,
+   "fp": 0,
+   "n_clean": 20
+  }
+ }
+}

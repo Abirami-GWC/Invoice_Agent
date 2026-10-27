@@ -1,7 +1,7 @@
 # main.py
 import uuid
 import uvicorn
-from fastapi import FastAPI, UploadFile, File, HTTPException, Query
+from fastapi import FastAPI, UploadFile, File, HTTPException
 from langgraph.types import Command
 
 from app.workflow import workflow

@@ -2,9 +2,9 @@
 
 import json
 import textwrap
-from models.groq_loader import load_llm
+from models.groq_model_loader import load_groq_llm
 
-_llm = load_llm()
+_llm = load_groq_llm()
 
 EXTRACT_PROMPT = textwrap.dedent("""
 You are a strict JSON extractor. Given the invoice text below, return ONLY valid JSON (no commentary).
