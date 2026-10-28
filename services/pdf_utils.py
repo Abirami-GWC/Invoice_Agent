@@ -1,6 +1,7 @@
 # services/pdf_utils.py
 import io
 from typing import Optional
+
 try:
     from pypdf import PdfReader
 except Exception:

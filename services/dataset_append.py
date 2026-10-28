@@ -7,14 +7,12 @@ load_dotenv()
 HISTORICAL_CSV_PATH = os.getenv("HISTORICAL_CSV_PATH","./data/historical_invoices.csv")
 OUTPUT_CSV_PATH = os.getenv("OUTPUT_CSV_PATH","./data/invoice_anomaly_details.csv")
 
-
 def load_historical_dataset():
     try:
         df = pd.read_csv(HISTORICAL_CSV_PATH)
         return df
     except Exception:
         return None
-
 
 def append_to_csv(row: dict):
     df = None
