@@ -181,12 +181,16 @@ def extract_text(input_bytes: bytes, content_type: Optional[str] = None) -> str:
     # ----------- 3) Image OCR -----------
     try:
         img = Image.open(io.BytesIO(input_bytes))
-        print("✔ Image detected — using OCR")
-        return ocr_image(img)
     except Exception:
-        pass
+        img = None
 
-    # ----------- 4) Fallback: raw text decode -----------
+    if img is not None:
+        print("✔ Image detected — using OCR")
+        # Errors inside OCR are handled (and logged) by ocr_image; they must not
+        # fall through to the raw-bytes decode below, which would send binary junk to the LLM
+        return ocr_image(img)
+
+    # ----------- 4) Fallback: raw text decode (non-image input only) -----------
     try:
         return input_bytes.decode("utf-8", errors="ignore").strip()
     except Exception:

@@ -88,6 +88,12 @@ def llm_parse_text_to_invoice(raw_text: str):
     """
     raw_text = "" if raw_text is None else str(raw_text)
 
+    # Cap OCR text so the prompt stays under the Groq tokens-per-minute limit
+    max_chars = int(os.getenv("MAX_OCR_CHARS", "8000"))
+    if len(raw_text) > max_chars:
+        print(f"[WARNING] OCR text truncated from {len(raw_text)} to {max_chars} chars")
+        raw_text = raw_text[:max_chars]
+
     # Debug: show OCR text
     print("\n================ OCR RAW TEXT ================")
     print(raw_text)
